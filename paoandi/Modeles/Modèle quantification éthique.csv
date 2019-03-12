@@ -1,0 +1,5 @@
+dimensions : physiques / acteurs / concepts / rapports,niveau,nombre,Type de source,Nb de source,Type de destination,Nb de destination,Type de prédicat,Nb de prédicat,complexité
+physiques,1,1,,,,,,,
+acteurs,1,1,,,,,,,
+concepts,1,4,,,,,,,
+rapports,2,1,,,,,,,
