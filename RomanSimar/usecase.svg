@@ -1,2 +1,959 @@
-﻿<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" style="background-color: rgb(255, 255, 255);" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800px" height="600px" viewBox="-0.5 -0.5 1141 909" content="&lt;mxfile modified=&quot;2019-02-26T11:24:42.519Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0&quot; etag=&quot;71A_p2-mcOj4iul4MepW&quot; version=&quot;10.2.8&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;EQtWCb8FGGiBa0VB_lq_&quot; name=&quot;Page-1&quot;&gt;7Vxbc5s4FP41nn1KBpDA+DFxkrYzvWSSnV6eOgRkW12MKIjE6a9fCYQNEg6YgCFp/GAjWQg45ztXHTQB8/XmXeSEq0/EQ/7E0LzNBFxMDEM3oMV+eM9j1mNBmHUsI+yJQbuOW/wHiU5N9CbYQ3FpICXEpzgsd7okCJBLS31OFJGH8rAF8ctXDZ0lUjpuXcdXe79hj66yXhuAXf97hJcrcWXLMLM/1k4+VjxIvHI88lDoApcTMI8IodkRufvF79/QfOeO0TAdl52Z02l31nozRz6j81XWZAfi7NK/GpYfNUIBLd7U1Z4TvA93m5vwESxDy7sxkkv9O3ROxCz3jp+g4u3F9DEn1sMKU3QbOi5vPzBATMD5iq750+js0InDjEULvEHsUufqfeUXQRFFm0KXuM93iKwRjR7ZEPHvFigCX6ZoPhSYNRV9qwKjtp2OAMhyO7VRJKygzQF0MiroZPnssucLEtASwazfCcn/OIlT7J+xAbodbnZ/sqMl/z1bLCIncFc4YkOSAHGoIEojfkCStC+VAx/H7HcyB5MzLYUT+7omMeXjEB+SUMzGOOm9ZPPckYj/Znd5F+VXzHsYGbJbz7sltjNW0TKnI8SexrlLB2isHRIc0JTQ5vnEvOBYSCjJnjiDho+XATv20YJPxfmPmRCeiW5KOJRihiwcLP/ljYsT2A2AwMwsAUgHCoBMUAEgoy/8TBX8nLmURArVmUIJ+WGy9rMBO7J95CqE8RxTTDj57gilZM0GpLrl3HH/W0YkCbw58fl5bDawSD97SV/gLUmojwM03ypcTSD4ylljn1PxX7xGHIOf0QP7viFrJ+BTkAj/YcMcX+K5y5iHIjFJ4Zau0k83XJ6WtYSlaokqHlt98ThXWp0ribmPUSqpIxfcBniR0KCln27QYJXRoAMVDlZPIr/QySf99zf467378345+/nl65d5hWmdrwiOU03v/0PCVIz51XN2fxSKf8d+ibPsosxDYo3zGpu8h3QVBN5vguuFS4cV5OzCAleSExxMzytuWbklXKd2c0YjEjJDSh2c2kd+O4b2iQSOS0ZCdMsuEx0ag1NddXxqqP4lYSBeo2gkJDWN0ZEUHErSD9yUBg7vZ3Z2HHQF07HRVbfaKlwtQi5ZMwPlZYpirDp4S8/haKz6sTU0nmehyyjpaQyPWftQel4G9wTzoG8TMreuRNlR0pi5eEPTuEGOAwXeGc8rsVZAAlSmCvKW6FaMJRFdkSXXw5e7XkE3Pu5QqkXIZ3r9vnxeFQnEqdfcdd9RW5cSJTN4apbniEkSuUicVswOSTPJfFNnok60RFSZKeXJ9onasynnSns2BewGvosQJ238KDYuNqXWo2g1ZZ2hZc9fa4BUHheTDhXAz/u6hkJLIOgzyejIAVLfOFDdo05wwOB8PCRMXwUS9rkfx0ICfAVIsF8FEkwJCbKx7hsJpoKEaxTzGFOLeSa8nDKPSSFnPmToKVFft8VjFF2hqpRUb66QoYZILSVKP0yi0AbT74XjwlmstTuJNw6XwgzGDfBTL65DSiuUM5iyvm0qrjLwZkeWVjVIfEPZeBxFaOkldCgZ8KYwg5KnCPQj40wNng/EmcCLfgBe+vcpanGWJw1qcZYBciicmZI6A/LCW1OcWfrAOJu96bMRhzuKGmrr5ZpQmggeNwOSL1h2EO/soPWj+F8dzrbY+lGEVt84A02DqYH1mVRTAs1pS30GpYk0aaK+cdZdXP2ycAZeBs4kNQRB2zBAVoz2ce0mUKP2vwNnxovAmWw3odYWZ7LdNI+MsycXflHKxcdhU0HyarkJKlJBR10Vg1XOhuWs+bOLMrNiCweun3ho27ksDakuRCuQUK4g29YuFuSfhIhXiHlOvOJ1xELK8+pxe69c66OzH2BPfC/AoJ0CqMkuQCcibclFW3Kk1NZ0KBPtEendRPlAsljEqBexh+q67rXzmCaFGXfZt+tEvD56QLGXI1d78MVwaNQQDcVhWgRju8OSDsLRka67hckX5c7kL/vUqz2jmqPHcWeAtEY1BS3TAFs/KNd99nHTAPAvDc+a42zQ9Lkhmcap0RJnQNJw1vTIOPtLw7PmOBt0NRBIamgqq6HGOKtTjH3jTA3PhMsxoHshl4VvPefh3IuqVdP9ARnaUCacY4zHnhbktkqjSwXQNN8Mn47jTrRTCG27hKMT3ezGykj41LW2oZwO62YaQSxnVtXovoG/D/AbnYHf1KxZCVr5TYwG+5ZsQxtmJo8KfTUifzGJuBdWONFY8ZvgSexrp7ouJfA6UvszCfrTtjUTNqyZaAzIVxMqN5z3WV2nKOLkUNeuP3we1Fu0wdiSUaaaJLh2MFqjjHeui0Kavcw2KOGmUuxhmkOve5gVpcQ7wkVokcQjoNtM3gBleLpVlQ6/RA/t6eWifR5ad68R1VqpXLSfb6VAbvDy4AT246BtrdZzYxNlojFYqdcSl48f+E3rDeuBr8u1WtM34B8M/Ip3k0ngie2H+G416uZStzhltJ96bXGyWIgtqSTE57scBYQ2sKf5xjSwQkCyrWik/WrKO9NYHbky8rJQxcv4doVFlkPO7ixyq7Lkkto48O1Zuyz+wMib1yjC7KH4fk9dv0BnDvoCnRxGWVOjpcDP2gl8V8Kch39Vwhyn0vykKOPgdQnzTK5vgap/fVRhtqoSoF0Lc/0LBz0Lc4bCoYR5ZsnC3LY6Stkr4cjCbChg+ZoFrRFeMIESm4Z4yU6Ch0yeyHWmg++6YqnJk3Htxnj4RnrStorPYpgue6fQULVjXzsrVjOsr1KFliqxTf67uRqtDZRy+a/Xt3BIfSuvsc/k95BfjL6tTAF0sLHnuRP8TrZ79E5e78aez9RHUvrdrEi/V20H3WJrT9bc7d6d4We3BTq4/B8=&lt;/diagram&gt;&lt;/mxfile&gt;"><defs/><g><rect x="150" y="37" width="870" height="870" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(336.5,0.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="510" height="20" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"><font style="font-size: 18px">Affranchir une lettre ou un colis à la Poste en utilisant une borne<br /></font></div></div></foreignObject><text x="255" y="16" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">&lt;font style="font-size: 18px"&gt;Affranchir une lettre ou un colis à la Poste en utilisant une borne&lt;br&gt;&lt;/font&gt;</text></switch></g><ellipse cx="25" cy="55" rx="7.500000000000001" ry="7.500000000000001" fill="#ffffff" stroke="#000000" pointer-events="none"/><path d="M 25 62 L 25 87 M 25 67 L 10 67 M 25 67 L 40 67 M 25 87 L 10 107 M 25 87 L 40 107" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(10.5,111.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="27" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Actor</div></div></foreignObject><text x="14" y="12" fill="#FFFFFF" text-anchor="middle" font-size="12px" font-family="Times New Roman">Actor</text></switch></g><g transform="translate(1.5,117.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="44" height="20" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"><font style="font-size: 18px">Client</font></div></div></foreignObject><text x="22" y="16" fill="#000000" text-anchor="middle" font-size="12px" font-family="Times New Roman">[Not supported by viewer]</text></switch></g><ellipse cx="280" cy="82" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(216.5,72.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="124" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 125px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir l'option "Lettre"</div></div></foreignObject><text x="62" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Choisir l'option "Lettre"</text></switch></g><ellipse cx="690" cy="442" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(620.5,425.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="137" height="27" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir l'option "France métropolitaine / Monaco"</div></div></foreignObject><text x="69" y="20" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Choisir l'option "France métropolitaine / Monaco"</text></switch></g><ellipse cx="530" cy="442" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(460.5,425.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="137" height="27" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir l'option "Outremer"</div></div></foreignObject><text x="69" y="20" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Choisir l'option "Outremer"</text></switch></g><ellipse cx="380" cy="442" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(310.5,425.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="137" height="27" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir l'option "International"</div></div></foreignObject><text x="69" y="20" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Choisir l'option "International"</text></switch></g><ellipse cx="280" cy="162" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(210.5,145.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="137" height="27" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir l'option "Lettre recommandée"</div></div></foreignObject><text x="69" y="20" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Choisir l'option "Lettre recommandée"</text></switch></g><ellipse cx="280" cy="242" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(217.5,232.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="122" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 123px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir l'option "Colis"</div></div></foreignObject><text x="61" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Choisir l'option "Colis"</text></switch></g><ellipse cx="280" cy="322" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(210.5,305.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="137" height="27" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir l'option "Envoi express""</div></div></foreignObject><text x="69" y="20" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Choisir l'option "Envoi express""</text></switch></g><path d="M 50 81.5 L 210 81.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 50 82 L 229.71 137.29" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 50 82 L 209.71 241.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 50 82 L 209.71 321.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="530" cy="207" rx="80" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(453.5,197.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="150" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 151px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Peser sa lettre ou son colis</div></div></foreignObject><text x="75" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Peser sa lettre ou son colis</text></switch></g><path d="M 449.71 207.29 L 349.71 81.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 449.71 207.29 L 349.71 161.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 349.71 321.57 L 449.71 207.29" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 449.71 207.29 L 349.71 241.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 689.71 407.29 L 529.71 241.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 379.71 407.29 L 529.71 241.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 529.71 407.29 L 529.71 241.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="380" cy="557" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(337.5,547.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="82" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 83px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir le pays</div></div></foreignObject><text x="41" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Choisir le pays</text></switch></g><path d="M 379.71 477.29 L 379.99 519.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 375.44 511.91 L 379.99 520.88 L 384.44 511.85" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(390.5,490.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="58" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">&lt;&lt;include&gt;&gt;</div></div></foreignObject><text x="29" y="11" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica">&lt;&lt;include&gt;&gt;</text></switch></g><ellipse cx="620" cy="822" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(577.5,812.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="82" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 83px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Payer par carte</div></div></foreignObject><text x="41" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Payer par carte</text></switch></g><ellipse cx="450" cy="822" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(400.5,812.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="96" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 97px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Payer par espèce</div></div></foreignObject><text x="48" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Payer par espèce</text></switch></g><path d="M 529.71 657.29 L 529.71 477.29" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 529.71 657.29 L 379.71 591.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 529.71 657.29 L 689.71 477.29" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="530" cy="692" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(513.5,682.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="31" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 32px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Payer</div></div></foreignObject><text x="16" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Payer</text></switch></g><path d="M 619.71 787.29 L 531.57 728.53" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 540.63 729.15 L 530.64 727.91 L 535.64 736.64" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(574.5,741.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="57" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">&lt;&lt;extend&gt;&gt;</div></div></foreignObject><text x="29" y="11" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica">&lt;&lt;extend&gt;&gt;</text></switch></g><path d="M 449.71 787.29 L 527.93 728.63" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 524.32 736.96 L 528.82 727.96 L 518.92 729.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(427.5,739.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="57" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">&lt;&lt;extend&gt;&gt;</div></div></foreignObject><text x="29" y="11" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica">&lt;&lt;extend&gt;&gt;</text></switch></g><path d="M 689.71 821.57 L 767.48 821.57" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 759.6 826.07 L 768.6 821.57 L 759.6 817.07" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(704.5,790.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="58" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">&lt;&lt;include&gt;&gt;</div></div></foreignObject><text x="29" y="11" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica">&lt;&lt;include&gt;&gt;</text></switch></g><ellipse cx="840" cy="822" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(779.5,812.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="118" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 119px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Rentrer son code PIN</div></div></foreignObject><text x="59" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Rentrer son code PIN</text></switch></g><ellipse cx="760" cy="577" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(709.5,567.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="99" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 100px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Paiement accepté</div></div></foreignObject><text x="50" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Paiement accepté</text></switch></g><ellipse cx="920" cy="577" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(873.5,567.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="91" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 92px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Paiement refusé</div></div></foreignObject><text x="46" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Paiement refusé</text></switch></g><path d="M 759.71 611.57 L 838.79 785.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 831.43 779.94 L 839.25 786.27 L 839.62 776.21" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(747.5,730.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="57" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">&lt;&lt;extend&gt;&gt;</div></div></foreignObject><text x="29" y="11" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica">&lt;&lt;extend&gt;&gt;</text></switch></g><path d="M 919.71 611.57 L 840.64 785.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 839.81 776.21 L 840.18 786.27 L 848 779.94" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(880.5,730.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="57" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">&lt;&lt;extend&gt;&gt;</div></div></foreignObject><text x="29" y="11" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica">&lt;&lt;extend&gt;&gt;</text></switch></g><path d="M 640 627 L 706 627 L 720 641 L 720 677 L 640 677 L 640 627 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 706 627 L 706 641 L 720 641" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(641.5,625.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="77" height="41" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 77px; white-space: normal; overflow-wrap: normal;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Condition: <br />Si solde suffisant</div></div></foreignObject><text x="39" y="27" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><path d="M 780 659 L 719.71 658.71" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 930 632 L 996 632 L 1010 646 L 1010 682 L 930 682 L 930 632 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 996 632 L 996 646 L 1010 646" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(931.5,630.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="77" height="41" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 77px; white-space: normal; overflow-wrap: normal;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Conditions:<br />Si solde insuffisant</div></div></foreignObject><text x="39" y="27" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><path d="M 900 657 L 929.71 657.29" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><ellipse cx="900" cy="442" rx="70" ry="35" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(843.5,432.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="111" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Vérification du solde</div></div></foreignObject><text x="56" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Vérification du solde</text></switch></g><ellipse cx="1095" cy="420" rx="7.500000000000001" ry="7.500000000000001" fill="#ffffff" stroke="#000000" pointer-events="none"/><path d="M 1095 427 L 1095 452 M 1095 432 L 1080 432 M 1095 432 L 1110 432 M 1095 452 L 1080 472 M 1095 452 L 1110 472" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(1080.5,476.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="27" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Actor</div></div></foreignObject><text x="14" y="12" fill="#FFFFFF" text-anchor="middle" font-size="12px" font-family="Times New Roman">Actor</text></switch></g><path d="M 969.71 441.57 L 1095.43 441.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(1071.5,487.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="55" height="20" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"><font style="font-size: 18px">Banque</font></div></div></foreignObject><text x="28" y="16" fill="#000000" text-anchor="middle" font-size="12px" font-family="Times New Roman">[Not supported by viewer]</text></switch></g></g></svg>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-G5IW3QX9jLeIufJaob0LkBXhXTZSiWUoXGNTvU9KgK4dfhMjKB3hfAy9hjsk5YYoN0GA3b0yekVqlMA5EYlDDA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-c567bfeb1cb9f4ac89533a5e03dbe623.css" />
+  
+    <link crossorigin="anonymous" media="all" integrity="sha512-VS6jGMMXbLgjzXqc7dd2zzflKDnjsic5NVccSO5O6++CIhVrqUlBV6Rqg7IPmnKx6LIXFpWocYuNLN/lMxA4rA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-1860a928dbe8e9dd29ca8a49d5948455.css" />
+    
+    
+    
+    
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>GSI-AVUN_18-19/usecase.svg at master · samszo/GSI-AVUN_18-19</title>
+    <meta name="description" content="projets de modélisations des étudiants GSI et AVUN - samszo/GSI-AVUN_18-19">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/62689?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="samszo/GSI-AVUN_18-19" /><meta property="og:url" content="https://github.com/samszo/GSI-AVUN_18-19" /><meta property="og:description" content="projets de modélisations des étudiants GSI et AVUN - samszo/GSI-AVUN_18-19" />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzgzNzE1MjM1OjI3OTI1Nzg2NTMxZWQ2ZTc1OTY3OTc5OGVmOGY1MjI3ZDcwNzA4ODI1Mjc2NDUyMGUyMmMzZGRkOWM4NzQxYzk=--37b1798ab4e0936e52d663bf9807037c59a05e91">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="C595:0528:15F5629:26E638F:5C8D2FE3" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C595:0528:15F5629:26E638F:5C8D2FE3" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="47213643" /><meta name="octolytics-actor-login" content="RomanSimar" /><meta name="octolytics-actor-hash" content="2c1925720e7b4f2df7e4774357c5a8d37620309d4c3991572aaf86241caddab2" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+  <meta class="js-ga-set" name="userId" content="28375772e3f522853cd8ae400cc13a18">
+
+<meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="RomanSimar">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="M2RjODc4NzZlMTYzYTI2ZTY0MDBkNTBjZDM0OWUyM2ZiOWY4NWY5NjExNGU0MzYwZTU3NjU1YTEzNjdkY2JjZnx7InJlbW90ZV9hZGRyZXNzIjoiNzguMTkyLjIxNy42MCIsInJlcXVlc3RfaWQiOiJDNTk1OjA1Mjg6MTVGNTYyOToyNkU2MzhGOjVDOEQyRkUzIiwidGltZXN0YW1wIjoxNTUyNzU2NzA4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_SOCIAL_PROOF,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES">
+
+  <meta name="html-safe-nonce" content="885bf5e6fc52fa68d2b2c06a45abfddabae377e9">
+
+  <meta http-equiv="x-pjax-version" content="378198c3d4897b87b11220cc34c1efc6">
+  
+
+      <link href="https://github.com/samszo/GSI-AVUN_18-19/commits/master.atom" rel="alternate" title="Recent Commits to GSI-AVUN_18-19:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/samszo/GSI-AVUN_18-19 git https://github.com/samszo/GSI-AVUN_18-19.git">
+
+  <meta name="octolytics-dimension-user_id" content="62689" /><meta name="octolytics-dimension-user_login" content="samszo" /><meta name="octolytics-dimension-repository_id" content="170683210" /><meta name="octolytics-dimension-repository_nwo" content="samszo/GSI-AVUN_18-19" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="170683210" /><meta name="octolytics-dimension-repository_network_root_nwo" content="samszo/GSI-AVUN_18-19" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+        
+<header class="Header  f5" role="banner">
+  <div class="d-flex flex-justify-between px-3 ">
+    <div class="d-flex flex-justify-between ">
+      <div class="">
+        <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+      </div>
+
+    </div>
+
+    <div class="HeaderMenu d-flex flex-justify-between flex-auto">
+      <nav class="d-flex" aria-label="Global">
+            <div class="">
+              <div class="header-search scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="170683210" data-scoped-search-url="/samszo/GSI-AVUN_18-19/search" data-unscoped-search-url="/search" action="/samszo/GSI-AVUN_18-19/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search or jump to…"
+          data-unscoped-placeholder="Search or jump to…"
+          data-scoped-placeholder="Search or jump to…"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search or jump to…"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=rTNLma2sl6QZIPDClWaYBgZRqtqiC7x60hFZQ70CsmFrt5bzdjYogWadA7fWv54Q64By7wSIE27vNLL0jLiJnA=="
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+    <li class="d-flex flex-justify-center flex-items-center p-0 f5 js-jump-to-suggestion">
+      <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+    </li>
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+            </div>
+
+          <ul class="d-flex pl-2 flex-items-center text-bold list-style-none">
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+                Pull requests
+</a>            </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+                Issues
+</a>            </li>
+              <li class="position-relative">
+                <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
+                   Marketplace
+</a>                  
+              </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+                Explore
+</a>            </li>
+          </ul>
+      </nav>
+
+      <div class="d-flex">
+        
+<ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
+  <li class="dropdown">
+    <span class="d-inline-block  px-2">
+      
+    <a aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s  js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:47213643" href="/notifications">
+        <span class="mail-status "></span>
+        <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"/></svg>
+</a>
+    </span>
+  </li>
+
+  <li class="dropdown">
+    <details class="details-overlay details-reset d-flex px-2 flex-items-center">
+      <summary class="HeaderNavlink"
+         aria-label="Create new…"
+         data-ga-click="Header, create new, icon:add">
+        <svg class="octicon octicon-plus float-left mr-1 mt-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"/></svg>
+        <span class="dropdown-caret mt-1"></span>
+      </summary>
+      <details-menu class="dropdown-menu dropdown-menu-sw">
+        
+<a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a role="menuitem" class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a role="menuitem" class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a role="menuitem" class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="samszo/GSI-AVUN_18-19">This repository</span>
+  </div>
+    <a role="menuitem" class="dropdown-item" href="/samszo/GSI-AVUN_18-19/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
+      New issue
+    </a>
+
+
+      </details-menu>
+    </details>
+  </li>
+
+  <li class="dropdown">
+
+    <details class="details-overlay details-reset d-flex pl-2 flex-items-center">
+      <summary class="HeaderNavlink name mt-1"
+        aria-label="View profile and more"
+        data-ga-click="Header, show menu, icon:avatar">
+        <img alt="@RomanSimar" class="avatar float-left mr-1" src="https://avatars3.githubusercontent.com/u/47213643?s=40&amp;v=4" height="20" width="20">
+        <span class="dropdown-caret"></span>
+      </summary>
+      <details-menu class="dropdown-menu dropdown-menu-sw">
+        <div class="header-nav-current-user css-truncate"><a role="menuitem" class="no-underline user-profile-link px-3 pt-2 pb-2 mb-n2 mt-n1 d-block" href="/RomanSimar" data-ga-click="Header, go to profile, text:Signed in as">Signed in as <strong class="css-truncate-target">RomanSimar</strong></a></div>
+        <div role="none" class="dropdown-divider"></div>
+
+        <div class="px-3 f6 user-status-container js-user-status-context pb-1" data-url="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1">
+          
+<div class="js-user-status-container user-status-compact" data-team-hovercards-enabled>
+  <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
+    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:62689,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:47213643,&quot;client_id&quot;:&quot;641064403.1550331768&quot;,&quot;originating_request_id&quot;:&quot;C595:0528:15F5629:26E638F:5C8D2FE3&quot;,&quot;originating_url&quot;:&quot;https://github.com/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg&quot;}}" data-hydro-click-hmac="02a99de37e1a58ab44d99d3016488386f975e99e5f7e9e4946517e3333955a7b">
+      <div class="f6 d-inline-block v-align-middle  user-status-emoji-only-header pl-0 circle lh-condensed user-status-header " style="max-width: 29px">
+        <div class="user-status-emoji-container flex-shrink-0 mr-1">
+          <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
+        </div>
+      </div>
+      <div class="d-inline-block v-align-middle user-status-message-wrapper f6 lh-condensed ws-normal pt-1">
+          <span class="link-gray">Set your status</span>
+      </div>
+</summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="2AzgoCQLpOJBYBKOtzpD+YbWyQkF3sRm/qwLxmcUKuVcL2N6JXOELpxOnOstAJT+SaDE6vL5EKt1jRviUoRFNg==" />
+        <div class="Box-header bg-gray border-bottom p-3">
+          <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
+            <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+          </button>
+          <h3 class="Box-title f5 text-bold text-gray-dark">Edit status</h3>
+        </div>
+        <input type="hidden" name="emoji" class="js-user-status-emoji-field" value="">
+        <input type="hidden" name="organization_id" class="js-user-status-org-id-field" value="">
+        <div class="px-3 py-2 text-gray-dark">
+          <div class="js-characters-remaining-container js-suggester-container position-relative mt-2">
+            <div class="input-group d-table form-group my-0 js-user-status-form-group">
+              <span class="input-group-button d-table-cell v-align-middle" style="width: 1%">
+                <button type="button" aria-label="Choose an emoji" class="btn-outline btn js-toggle-user-status-emoji-picker bg-white btn-open-emoji-picker">
+                  <span class="js-user-status-original-emoji" hidden></span>
+                  <span class="js-user-status-custom-emoji"></span>
+                  <span class="js-user-status-no-emoji-icon" >
+                    <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
+                  </span>
+                </button>
+              </span>
+              <input type="text" autocomplete="off" data-maxlength="80" class="js-suggester-field d-table-cell width-full form-control js-user-status-message-field js-characters-remaining-field" placeholder="What's happening?" name="message" required value="" aria-label="What is your current status?">
+              <div class="error">Could not update your status, please try again.</div>
+            </div>
+            <div class="suggester-container">
+              <div class="suggester js-suggester js-navigation-container" data-url="/autocomplete/user-suggestions" data-no-org-url="/autocomplete/user-suggestions" data-org-url="/suggestions" hidden>
+              </div>
+            </div>
+            <div style="margin-left: 53px" class="my-1 text-small label-characters-remaining js-characters-remaining" data-suffix="remaining" hidden>
+              80 remaining
+            </div>
+          </div>
+          <include-fragment class="js-user-status-emoji-picker" data-url="/users/status/emoji"></include-fragment>
+          <div class="overflow-auto border-bottom ml-n3 mr-n3 px-3" style="max-height: 33vh">
+            <div class="user-status-suggestions js-user-status-suggestions collapsed overflow-hidden">
+              <h4 class="f6 text-normal my-3">Suggestions:</h4>
+              <div class="mx-3 mt-2 clearfix">
+                  <div class="float-left col-6">
+                      <button type="button" value=":palm_tree:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message" style="border-left: 1px solid transparent">
+                          On vacation
+                        </div>
+                      </button>
+                      <button type="button" value=":face_with_thermometer:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="face_with_thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png">🤒</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message" style="border-left: 1px solid transparent">
+                          Out sick
+                        </div>
+                      </button>
+                  </div>
+                  <div class="float-left col-6">
+                      <button type="button" value=":house:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message" style="border-left: 1px solid transparent">
+                          Working from home
+                        </div>
+                      </button>
+                      <button type="button" value=":dart:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message" style="border-left: 1px solid transparent">
+                          Focusing
+                        </div>
+                      </button>
+                  </div>
+              </div>
+            </div>
+            <div class="user-status-limited-availability-container">
+              <div class="form-checkbox my-0">
+                <input type="checkbox" name="limited_availability" value="1" class="js-user-status-limited-availability-checkbox" data-default-message="I may be slow to respond." aria-describedby="limited-availability-help-text-truncate-true" id="limited-availability-truncate-true">
+                <label class="d-block f5 text-gray-dark mb-1" for="limited-availability-truncate-true">
+                  Busy
+                </label>
+                <p class="note" id="limited-availability-help-text-truncate-true">
+                  When others mention you, assign you, or request your review,
+                  GitHub will let them know that you have limited availability.
+                </p>
+              </div>
+            </div>
+          </div>
+          <include-fragment class="js-user-status-org-picker" data-url="/users/status/organizations"></include-fragment>
+        </div>
+        <div class="d-flex flex-items-center flex-justify-between p-3 border-top">
+          <button type="submit" disabled class="width-full btn btn-primary mr-2 js-user-status-submit">
+            Set status
+          </button>
+          <button type="button" disabled class="width-full js-clear-user-status-button btn ml-2 ">
+            Clear status
+          </button>
+        </div>
+</form>    </details-dialog>
+  </details>
+</div>
+
+        </div>
+        <div role="none" class="dropdown-divider"></div>
+
+        <a role="menuitem" class="dropdown-item" href="/RomanSimar" data-ga-click="Header, go to profile, text:your profile">Your profile</a>
+        <a role="menuitem" class="dropdown-item" href="/RomanSimar?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories">Your repositories</a>
+
+        <a role="menuitem" class="dropdown-item" href="/RomanSimar?tab=projects" data-ga-click="Header, go to projects, text:your projects">Your projects</a>
+
+        <a role="menuitem" class="dropdown-item" href="/RomanSimar?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">Your stars</a>
+          <a role="menuitem" class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your gists</a>
+
+        <div role="none" class="dropdown-divider"></div>
+        <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
+        <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CRNW4lf3II4KIVNu3PYouyMQw/tusSAH3ftiDsg1ZLC7ikbggFP+saQtkl2e/4cR86xiQLGSq9NJ3ht3y+7nYQ==" />
+          
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
+            Sign out
+          </button>
+</form>      </details-menu>
+    </details>
+  </li>
+</ul>
+
+
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SXeC7SvOCgZHpmV9wAk9CU7MWzOl1Uss6x/87lo/1xH77pLv/GrUOemqpE6CAJKjnnD6iHr2wPh/OoWXWeRUwA==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </div>
+</header>
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+
+</div>
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+  
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+
+
+
+  <li>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hn2Pk395adeRWy3uDEvELSu/f57YJ4LNJv4Cnl7TzUCGkNccw4/87q9HH+FX7NSZK/sQ4VgZUgbXy6g7wqrMqg==" />      <input type="hidden" name="repository_id" id="repository_id" value="170683210" class="form-control" />
+
+      <details class="details-reset details-overlay select-menu float-left">
+        <summary class="btn btn-sm btn-with-count select-menu-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:170683210,&quot;client_id&quot;:&quot;641064403.1550331768&quot;,&quot;originating_request_id&quot;:&quot;C595:0528:15F5629:26E638F:5C8D2FE3&quot;,&quot;originating_url&quot;:&quot;https://github.com/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg&quot;,&quot;user_id&quot;:47213643}}" data-hydro-click-hmac="fe936d2d8e62f284aa5587b61ea557ef1c54f52f4fded3f8119de8410c7b45e2" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+              <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+              Unwatch
+          </span>
+</summary>        <details-menu class="select-menu-modal position-absolute mt-5" style="z-index: 99;">
+          <div class="select-menu-header">
+            <span class="select-menu-title">Notifications</span>
+          </div>
+          <div class="select-menu-list">
+            <button type="submit" name="do" value="included" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Not watching</span>
+                <span class="description">Be notified only when participating or @mentioned.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                  Watch
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="release_only" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Releases only</span>
+                <span class="description">Be notified of new releases, and when participating or @mentioned.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                  Unwatch releases
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="subscribed" class="select-menu-item width-full" aria-checked="true" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Watching</span>
+                <span class="description">Be notified of all conversations.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                  Unwatch
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="ignore" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Ignoring</span>
+                <span class="description">Never be notified.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-mute v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+                  Stop ignoring
+                </span>
+              </div>
+            </button>
+          </div>
+        </details-menu>
+      </details>
+      <a class="social-count js-social-count"
+        href="/samszo/GSI-AVUN_18-19/watchers"
+        aria-label="4 users are watching this repository">
+        4
+      </a>
+</form>
+  </li>
+
+  <li>
+      <div class="js-toggler-container js-social-container starring-container ">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/samszo/GSI-AVUN_18-19/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dqZsVBoED5jPINwDtPYGnxc59RD6JH2iidwMFelVFptq1ClSj/tAroSUe1gYfujvCRJ2+OSrCkQLOlEF4lkbLQ==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar samszo/GSI-AVUN_18-19" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:170683210,&quot;client_id&quot;:&quot;641064403.1550331768&quot;,&quot;originating_request_id&quot;:&quot;C595:0528:15F5629:26E638F:5C8D2FE3&quot;,&quot;originating_url&quot;:&quot;https://github.com/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg&quot;,&quot;user_id&quot;:47213643}}" data-hydro-click-hmac="996559908183104729d9368e70634ed06fa71f6de3964c59ba55ebf78c6aad73" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        Unstar
+</button>        <a class="social-count js-social-count" href="/samszo/GSI-AVUN_18-19/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/samszo/GSI-AVUN_18-19/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MTEvvTvQzYNkzXtu0pMXMvsgfVTRXbhyFtfDuJSev/lZjRV8CFcJRPrhBb1Hy3F/fi/LtfnHQHd1GKGHVVcOog==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star samszo/GSI-AVUN_18-19" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:170683210,&quot;client_id&quot;:&quot;641064403.1550331768&quot;,&quot;originating_request_id&quot;:&quot;C595:0528:15F5629:26E638F:5C8D2FE3&quot;,&quot;originating_url&quot;:&quot;https://github.com/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg&quot;,&quot;user_id&quot;:47213643}}" data-hydro-click-hmac="dc7b39c282ad5b5769f68e78f845d0de4650129b6a332f2e9cf904c80cda7fbc" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        Star
+</button>        <a class="social-count js-social-count" href="/samszo/GSI-AVUN_18-19/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/samszo/GSI-AVUN_18-19/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tdf5uVKnIsOhnTt8ZQ4UXKg46TqxHLcKvoaNjmY6y2gMZBzrgCji5CdRBFhHNSsKe0qi/Gi3AfxkOU2qyLw5vA==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:170683210,&quot;client_id&quot;:&quot;641064403.1550331768&quot;,&quot;originating_request_id&quot;:&quot;C595:0528:15F5629:26E638F:5C8D2FE3&quot;,&quot;originating_url&quot;:&quot;https://github.com/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg&quot;,&quot;user_id&quot;:47213643}}" data-hydro-click-hmac="e117c8bdc2c501a004aa78e342f255477aa64f21a7af583ae4051be20b9beb2d" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of samszo/GSI-AVUN_18-19 to your account" aria-label="Fork your own copy of samszo/GSI-AVUN_18-19 to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+              Fork
+</button></form>
+    <a href="/samszo/GSI-AVUN_18-19/network/members" class="social-count"
+       aria-label="5 users forked this repository">
+      5
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=62689" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/samszo">samszo</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/samszo/GSI-AVUN_18-19">GSI-AVUN_18-19</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /samszo/GSI-AVUN_18-19" href="/samszo/GSI-AVUN_18-19">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /samszo/GSI-AVUN_18-19/issues" href="/samszo/GSI-AVUN_18-19/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /samszo/GSI-AVUN_18-19/pulls" href="/samszo/GSI-AVUN_18-19/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /samszo/GSI-AVUN_18-19/projects" href="/samszo/GSI-AVUN_18-19/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /samszo/GSI-AVUN_18-19/wiki" href="/samszo/GSI-AVUN_18-19/wiki">
+      <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security people /samszo/GSI-AVUN_18-19/pulse" href="/samszo/GSI-AVUN_18-19/pulse">
+      <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+      Insights
+</a>
+
+</nav>
+
+
+  </div>
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+    
+
+
+
+  
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/samszo/GSI-AVUN_18-19/blob/247f89cf7a5d24b37f1adcf8260b4402b18bfdbb/RomanSimar/usecase.svg">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v21:0f3f9d5e7568b4039e3d73e5edae17c6 -->
+
+    
+
+    <div class="file-navigation">
+      
+<details class="details-reset details-overlay select-menu branch-select-menu float-left">
+  <summary class="btn btn-sm select-menu-button css-truncate"
+           data-hotkey="w"
+           
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target">master</span>
+  </summary>
+
+  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" src="/samszo/GSI-AVUN_18-19/ref-list/master/RomanSimar/usecase.svg?source_action=show&amp;source_controller=blob" preload>
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+    </include-fragment>
+  </details-menu>
+</details>
+
+      <div class="BtnGroup float-right">
+        <a href="/samszo/GSI-AVUN_18-19/find/master"
+              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+              data-pjax
+              data-hotkey="t">
+          Find file
+        </a>
+        <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+          Copy path
+        </clipboard-copy>
+      </div>
+      <div id="blob-path" class="breadcrumb">
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/samszo/GSI-AVUN_18-19"><span>GSI-AVUN_18-19</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/samszo/GSI-AVUN_18-19/tree/master/RomanSimar"><span>RomanSimar</span></a></span><span class="separator">/</span><strong class="final-path">usecase.svg</strong>
+      </div>
+    </div>
+
+
+
+    <include-fragment src="/samszo/GSI-AVUN_18-19/contributors/master/RomanSimar/usecase.svg" class="commit-tease commit-loader">
+      <div>
+        Fetching contributors&hellip;
+      </div>
+
+      <div class="commit-tease-contributors">
+          <img alt="" class="loader-loading float-left" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
+
+
+
+
+    <div class="file ">
+      
+<div class="file-header ">
+
+  <div class="file-info float-left ">
+      2 lines (2 sloc)
+      <span class="file-info-divider"></span>
+    31.2 KB
+  </div>
+
+  <div class="file-actions d-flex ">
+      <div class="BtnGroup">
+        <a class="btn btn-sm BtnGroup-item tooltipped tooltipped tooltipped-n source "
+          href="/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg?short_path=415e915" aria-label="Display the source blob">
+          <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+        </a>
+        <a class="btn btn-sm BtnGroup-item tooltipped tooltipped-n rendered selected"
+          href="/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg" aria-label="Display the rendered blob">
+          <svg class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"/></svg>
+        </a>
+      </div>
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/samszo/GSI-AVUN_18-19/raw/master/RomanSimar/usecase.svg">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/samszo/GSI-AVUN_18-19/blame/master/RomanSimar/usecase.svg">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/samszo/GSI-AVUN_18-19/commits/master/RomanSimar/usecase.svg">History</a>
+    </div>
+
+
+    <div>
+            <a class="btn-octicon tooltipped tooltipped-nw "
+               href="x-github-client://openRepo/https://github.com/samszo/GSI-AVUN_18-19?branch=master&amp;filepath=RomanSimar%2Fusecase.svg"
+               aria-label="Open this file in GitHub Desktop"
+               data-ga-click="Repository, open with desktop, type:windows">
+                <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+            </a>
+
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/samszo/GSI-AVUN_18-19/edit/master/RomanSimar/usecase.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/JbnzS4YdSUDSNQs5OaUv9SDRrSvOLPtRuDMHUJ+HeOHs5YnKZBexwnjjJ58IVcSz9EzpO/1B00BHUzljCFvSg==" />
+              <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+                aria-label="Edit this file" data-hotkey="e" data-disable-with>
+                <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+              </button>
+</form>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/samszo/GSI-AVUN_18-19/delete/master/RomanSimar/usecase.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="sQhIEyQgc02kxyE5YvVjARSHVcQX/NNX5Cl0ivdg0ApKeP1/C/UfFbqlXZrQND6n8u0OZnAqKpQecXQu0OhGOQ==" />
+            <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+              aria-label="Delete this file" data-disable-with>
+              <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+            </button>
+</form>    </div>
+  </div>
+</div>
+
+      
+
+  <div itemprop="text" class="blob-wrapper data type-svg ">
+      
+  <div class="render-wrapper ">
+    <div class="render-container is-render-pending js-render-target  "
+      data-identity="67add603-d6a1-4de8-9891-b2d63998239c"
+      data-host="https://render.githubusercontent.com"
+      data-type="svg">
+      <img class="octospinner mx-auto" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/samszo/GSI-AVUN_18-19/blob/master/RomanSimar/usecase.svg">Reload?</a></div>
+      <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
+      <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
+      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=247f89cf7a5d24b37f1adcf8260b4402b18bfdbb&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73616d737a6f2f4753492d4156554e5f31382d31392f323437663839636637613564323462333766316164636638323630623434303262313862666462622f526f6d616e53696d61722f757365636173652e737667&amp;nwo=samszo%2FGSI-AVUN_18-19&amp;path=RomanSimar%2Fusecase.svg&amp;repository_id=170683210&amp;repository_type=Repository#67add603-d6a1-4de8-9891-b2d63998239c" sandbox="allow-scripts allow-same-origin allow-top-navigation " title="File display">
+          Viewer requires iframe.
+      </iframe>
+    </div>
+  </div>
+
+  </div>
+
+    </div>
+
+  
+
+  <details class="details-reset details-overlay details-overlay-dark">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
+
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </main>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg width-full px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2019 <span title="0.35335s from unicorn-75fd8567f7-vc7t9">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha512-hcSOM7Q8S1/cQn6Y9xI/S3XuCTlNb7poRXRVIY0cDSmijPMWQe6uh3CHqtJYZUESkgi/9AV8p3h4KZMK6unN3Q==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-a72a40ad.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-PENozkvISbIy7UcEklwif714rLO54+9Muzrwug3E/HIz1Lj3wyd38/JgeM/o2PSJRU6IEYM0D9C/UuNIbntuqA==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-77d0fcb0.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark" open>
+    <summary aria-haspopup="dialog" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+  </body>
+</html>
+
