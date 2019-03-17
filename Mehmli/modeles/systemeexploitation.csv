@@ -1,5 +1,0 @@
-Dimensions,Niveau 1,Nombre,Type de source,Nb de source,Type de destination,Nbr de destinantion,Nbr de prédicat,complexité
-Physiques,1,4,physique,2,physique,1,1,1
-Acteurs,1,2,concept,0,concept,2,2,2
-Concepts,1,1,concept,1,physique,1,2,2
-Rapports,3,5,,4,,4,5,5
