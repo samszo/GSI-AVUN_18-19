@@ -1,0 +1,9 @@
+dimensions ;Niveau;Nombre;Type de source;Nb de source;Type dedestination;Nb de destination;Type de predicat;Nb de pr?dicat;Compl?xit?
+Physique;1;1;;;;;;;1
+Acteurs;1;3;;;;;;;3
+Concepts;2;7;;;;;;;10
+Rapports;1;1;physique;1;concept;1;acteur;1;1
+Rapports;1;1;physique;1;concept;1;acteur;1;1
+Rapports;1;1;physique;1;concept;2;concept;2;2
+Rapports;1;1;physique;1;concept;1;acteur;1;1
+;;;;;;;;;                  Total = 19
