@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1002px"
+   height="942px"
+   viewBox="-0.5 -0.5 1002 942"
+   content="&lt;mxfile modified=&quot;2019-02-28T09:50:43.005Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36&quot; etag=&quot;Lvtttlh55yGTr0jUQDIE&quot; version=&quot;10.2.8&quot; type=&quot;google&quot;&gt;&lt;diagram name=&quot;Page-1&quot; id=&quot;b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21&quot;&gt;zVjLkuMmFP0aV1btQi+Ql9PPWSQVV/Ukk1liCdtMS0KFsNvO1wckkECSH+Wxu+OFSxzgCi7n3HvFJHjIdy8cl+s/WEqyiQ/S3SR4nPj+LELyXwH7BoC+Blacpg3kdcAr/ZdoEGh0Q1NSOQMFY5mgpQsmrChIIhwMc87e3WFLlrlvLfGKDIDXBGdD9DtNxbpBY7MLhX8ldLU2b/bgrOlZ4ORtxdmm0O+b+MGy/jXdOTa29EarNU7ZuwUFT5PggTMmmqd890Ay5Vrjtmbe84Hedt2cFOKcCZCAJE5CsIgQAmAW3CG/MbHF2YaYPdQrFXvjHbnoUj0qtxI+Ce6XrBCvut+T7arECS1W31ipACARgRfGkd4sbIDWg2rbCpizigrKCgllZCl77tciz7TN2qlELVvZa/2mGgnLaaKfM7wg2X17Cg8sY3KFjwUriJomOHsjBpSHk6LZAoC2p12j2hTNMmvkcklgkujNPuOcZorbfxOe4gIbHzRErneMM7pSO0nkSdROGh6NPq0t4YLsLEgf1QthORF8L4foXn8Gp1EzqRWWAd47nnoAaNNri6SzUHMOa3GsWvsdQeSD5siZfAnAab6ooyjP334ra7wwFsBRt3ggjHp+kbsdcYxvVmv7JYxv4RcIBm5wGWxRW3qE7/9R+BRFpv1Dd6a4WteTvDPYjbl4pmqR9StIkX5RwVA2WUmKBnH7bcaeSex6dY+71oZq7U1rR4W9Edn8YXV1s1TDTDrIjIpteKKdl+Hgz7/oPfz+nG6fwsULns+3d1CnBsxXRBwZFzbjSOpE/SGfOMmwoFs3CYzRQk+dMyqX3PIQerNpGEGIYsmBAHoOI4NOu8Zisz9txA7SPbvIc02FqMfYxgEDQzVp2+1dxmMUDPT9SPGK4zwnKsGrvyTDVUUGfJeq7sVwExN1dFfKpzLpftGwUPnCTR534QgDjxDVCtig/l0n8AY+6gUYzxsLMN5YgPGvEF9GaR0PXK4YbhIx42LNVqzA2VOH9tJoN+Z31iRrCf4kQuy1v/FGsEPByo5UYBqdCA2Xq9wUgKdUDm+ichlB8d4aUCqVVYeDQIR6Yu1XYCfGIwB7xGhWcKmij7nUEnUpJSyrWn4ia72vqSCvUqGq913W/i45riC1Nh2buBmBYR4Po6HMZNVzI50NS+IF40Ud/n7DyRqLOhBWiqM0eSMNOz7ViRD4vXgVmbrMdiMYiVYeiG/kxmEmGcavrmKpk4oq653g09YXdnnhHS0vrOrKKa5O1TK3D1j+mQHLOrJo5MQM9ovVS+T1hOf19HRuuRIFoWuoL8zrlSvHqj2LZ7lUKa0FW8o9NH1Ufbr6ICOtbD9dtXEQj6YOR7OxP6ZZ/0aaja6nWW8KAmSrdio/244rVzbmhFO5FfUF3VOzW36gz68/zv3K+Bg5Q/9KcobINeTDj5UzHFDwG8e0+HS1ItTPsShAY5cO5hPKUawfHT7QX1IsOuEYywn/v6uFNr37H3h9cOtrgX5Yh/Gl9wCRq0TYv9G7WImy2d05N8O7e/3g6T8=&lt;/diagram&gt;&lt;/mxfile&gt;"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg3851"
+   sodipodi:docname="Diagramme de classe.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3855">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview3853"
+     showgrid="false"
+     inkscape:snap-to-guides="true"
+     inkscape:zoom="0.80469052"
+     inkscape:cx="295.25701"
+     inkscape:cy="722.12786"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3849"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs3785" />
+  <g
+     id="g3849">
+    <path
+       d="M -0.5 0.5 L 193.5 0.5 L 193.5 22.5 L 1000.5 22.5 L 1000.5 940.5 L -0.5 940.5 L -0.5 22.5 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3787"
+       stroke="#d79b00"
+       fill="#ffe6cc" />
+    <path
+       d="M -0.5 22.5 L 193.5 22.5"
+       fill="none"
+       stroke="#d79b00"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3789" />
+    <path
+       d="M 679.33 674.33 L 751.94 463.11"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="3 3"
+       pointer-events="none"
+       id="path3791" />
+    <path
+       d="M 753.93 474.25 L 752.3 462.06 L 743.53 470.67"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3793" />
+    <path
+       d="M 272.67 388 L 272.67 644.33 L 476 644.33 L 476 731.3"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3801" />
+    <path
+       d="M 476 736.55 L 472.5 729.55 L 476 731.3 L 479.5 729.55 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3803" />
+    <rect
+       x="224.60182"
+       y="226.32233"
+       width="202.83221"
+       height="164.7715"
+       pointer-events="none"
+       id="rect3805"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.16795599"
+       transform="matrix(1,0,0.02190255,0.99976011,0,0)" />
+    <a
+       id="a113"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPassager%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');">
+      <text
+         transform="scale(0.63651934,1.5710442)"
+         style="font-size:23.65660286px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.97138357"
+         id="text3807"
+         font-size="12px"
+         y="163.04164"
+         x="431.10858">passager</text>
+    </a>
+    <flowRoot
+       transform="translate(-0.5,-0.5)"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3867"
+       xml:space="preserve"><flowRegion
+         style="font-size:26.66666603px"
+         id="flowRegion3869"><rect
+           style="font-size:26.66666603px"
+           y="284.6044"
+           x="244.81462"
+           height="85.747253"
+           width="162.7955"
+           id="rect3871" /></flowRegion><flowPara
+         style="font-size:18.66666603px"
+         id="flowPara3873">nom  </flowPara><flowPara
+         style="font-size:18.66666603px"
+         id="flowPara3875">age </flowPara><flowPara
+         id="flowPara3883"
+         style="font-size:18.66666603px">adresse</flowPara><flowPara
+         id="flowPara3877">adresse </flowPara><flowPara
+         id="flowPara3879" /><flowPara
+         id="flowPara3881" /></flowRoot>    <rect
+       x="309.28745"
+       y="463.78745"
+       width="199.88139"
+       height="135.22108"
+       pointer-events="none"
+       id="rect3813"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.1186173" />
+    <switch
+       id="switch3817"
+       transform="translate(336.5,505.5)">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="133"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 134px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">borne d'achat des tickets</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:15.40332603px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.28361058"
+         transform="scale(0.7410952,1.3493543)"
+         id="text3815"
+         font-size="12px"
+         y="-13.328794"
+         x="98.807526">
+        <tspan
+           id="tspan4040"
+           style="font-size:23.96073151px;stroke-width:1.28361058">borne d'achat des tickets</tspan>
+      </text>
+    </switch>
+    <path
+       d="M 306 387.67 L 400.86 457.23"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3821" />
+    <path
+       d="M 405.1 460.34 L 397.38 459.02 L 400.86 457.23 L 401.52 453.38 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3823" />
+    <rect
+       x="622.40302"
+       y="255.70085"
+       width="200.59702"
+       height="204.29915"
+       pointer-events="none"
+       id="rect3825"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.19363308" />
+    <path
+       d="m 436,391 180.10454,42.52628"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3833"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.36254692;stroke-miterlimit:10" />
+    <path
+       d="m 620.96454,435.49628 -7.8,0.61 2.94,-2.58 -0.31,-3.9 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3835"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <rect
+       x="471.76971"
+       y="674.25513"
+       width="225.78113"
+       height="149.85852"
+       pointer-events="none"
+       id="rect3837"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.99574524" />
+    <path
+       d="M 538.99509,675.59841 455.64617,596.79435"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3845"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.88707644;stroke-miterlimit:10;stroke-dasharray:2.6612294, 2.6612294" />
+    <path
+       d="m 465.82012,599.69052 -10.89256,-3.57859 3.28101,9.82033"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3847"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.88707644;stroke-miterlimit:10" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 227.97015,266.63433 c 19.33209,0 38.66418,0 57.99627,0 29.29104,0 58.58209,0 87.87313,0 12.88806,0 25.77612,0 38.66418,0 4.68657,0 9.37314,0 14.0597,0 0.58582,0 1.17164,0 1.75747,0 0.58582,0 1.75746,-0.58582 1.75746,0 0,0.58582 -1.17164,0 -1.75746,0"
+       id="path3857"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 621.45532,297.77426 c 19.33209,0 38.66418,0 57.99627,0 29.29104,0 58.58209,0 87.87313,0 12.88806,0 25.77612,0 38.66418,0 4.68657,0 9.37314,0 14.0597,0 0.58582,0 1.17164,0 1.75747,0 0.58582,0 1.75746,-0.58582 1.75746,0 0,0.58582 -1.17164,0 -1.75746,0"
+       id="path3857-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.88981628px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8472454"
+       x="868.93561"
+       y="203.10762"
+       id="text3918"
+       transform="scale(0.71687425,1.3949448)"><tspan
+         sodipodi:role="line"
+         id="tspan3916"
+         x="868.93561"
+         y="203.10762"
+         style="font-size:18.07456779px;stroke-width:0.8472454">Machine pour valider le ticket</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3936"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3938"><rect
+           id="rect3940"
+           width="130.48495"
+           height="57.164833"
+           x="628.81317"
+           y="320.6431" /></flowRegion><flowPara
+         id="flowPara3942" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3956"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion3958"
+         style="font-size:18.66666667px;"><rect
+           id="rect3960"
+           width="178.95079"
+           height="121.78595"
+           x="628.81317"
+           y="314.42953"
+           style="font-size:18.66666667px;" /></flowRegion><flowPara
+         id="flowPara3962" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.59885406px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06497133"
+       x="517.28467"
+       y="392.29926"
+       id="text3966"
+       transform="scale(1.218524,0.82066497)"><tspan
+         sodipodi:role="line"
+         id="tspan3964"
+         x="517.28467"
+         y="392.29926"
+         style="font-size:19.8794632px;stroke-width:1.06497133">insérer ticket</tspan><tspan
+         sodipodi:role="line"
+         x="517.28467"
+         y="445.54782"
+         id="tspan3968"
+         style="font-size:19.8794632px;stroke-width:1.06497133">passer porte</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 621.45532,378.55066 c 19.33209,0 38.66418,0 57.99627,0 29.29104,0 58.58209,0 87.87313,0 12.88806,0 25.77612,0 38.66418,0 4.68657,0 9.37314,0 14.0597,0 0.58582,0 1.17164,0 1.75747,0 0.58582,0 1.75746,-0.58582 1.75746,0 0,0.58582 -1.17164,0 -1.75746,0"
+       id="path3857-5"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3985"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:21.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion3987"
+         style="font-size:21.33333333px;"><rect
+           id="rect3989"
+           width="181.43622"
+           height="52.193977"
+           x="633.78406"
+           y="395.20593"
+           style="font-size:21.33333333px;" /></flowRegion><flowPara
+         id="flowPara3991" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4001"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion4003"
+         style="font-size:18.66666667px;"><rect
+           id="rect4005"
+           width="201.54468"
+           height="81.449341"
+           x="621.95532"
+           y="379.05066"
+           style="font-size:18.66666667px;" /></flowRegion><flowPara
+         id="flowPara4007" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.59885406px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06497133"
+       x="516.78351"
+       y="486.21173"
+       id="text3966-8"
+       transform="scale(1.218524,0.820665)"><tspan
+         sodipodi:role="line"
+         id="tspan3964-6"
+         x="516.78351"
+         y="486.21173"
+         style="font-size:19.8794632px;stroke-width:1.06497133">valider carte</tspan><tspan
+         sodipodi:role="line"
+         x="516.78351"
+         y="539.46033"
+         id="tspan3968-9"
+         style="font-size:19.8794632px;stroke-width:1.06497133">passer porte</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 303.32059,500.3366 c 19.33209,0 38.66418,0 57.99627,0 29.29104,0 58.58209,0 87.87313,0 12.88806,0 25.77612,0 38.66418,0 4.68657,0 9.37314,0 14.0597,0 0.58582,0 1.17164,0 1.75747,0 0.58582,0 1.75746,-0.58582 1.75746,0 0,0.58582 -1.17164,0 -1.75746,0"
+       id="path3857-1"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4057"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:17.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion4059"
+         style="font-size:17.33333333px;"><rect
+           id="rect4061"
+           width="189.04866"
+           height="86.244789"
+           x="316.89203"
+           y="509.53561"
+           style="font-size:17.33333333px;" /></flowRegion><flowPara
+         id="flowPara4063" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4065"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion4067"
+         style="font-size:18.66666667px;"><rect
+           id="rect4069"
+           width="202.12009"
+           height="94.943794"
+           x="303.82059"
+           y="500.83661"
+           style="font-size:18.66666667px;" /></flowRegion><flowPara
+         id="flowPara4071" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4095"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4097"><rect
+           id="rect4099"
+           width="173.97993"
+           height="48.465839"
+           x="328.07645"
+           y="531.90448" /></flowRegion><flowPara
+         id="flowPara4101" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4126"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-0.5,3.2281414)"><flowRegion
+         id="flowRegion4128"><rect
+           id="rect4130"
+           width="191.53409"
+           height="92.458366"
+           x="318.13474"
+           y="507.05017" /></flowRegion><flowPara
+         id="flowPara4132">interface</flowPara><flowPara
+         id="flowPara4134">payment</flowPara><flowPara
+         id="flowPara4136">recuperation ticket</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4142"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-0.5,-0.5)"><flowRegion
+         id="flowRegion4144"><rect
+           id="rect4146"
+           width="219.96034"
+           height="27.339703"
+           x="485.90109"
+           y="683.5155" /></flowRegion><flowPara
+         id="flowPara4148"
+         style="font-size:26.66666667px">train</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32.00672913px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.71464622"
+       x="566.01489"
+       y="608.38269"
+       id="text4152"
+       transform="scale(0.86587486,1.1549013)"><tspan
+         sodipodi:role="line"
+         id="tspan4150"
+         x="566.01489"
+         y="608.38269"
+         style="font-size:21.33333397px;stroke-width:1.71464622">Monter dans le train</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.03295171px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 473.54916,711.59795 c 21.23372,0 42.46744,0 63.70116,0 32.1723,0 64.34461,0 96.5169,0 14.15582,0 28.31163,0 42.46745,0 5.14757,0 10.29514,0 15.4427,0 0.64345,0 1.28689,0 1.93035,0 0.64344,0 1.93033,-0.56908 1.93033,0 0,0.56908 -1.28689,0 -1.93033,0"
+       id="path3857-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="479.5"
+       y="729.54999"
+       id="text4195"><tspan
+         sodipodi:role="line"
+         id="tspan4193"
+         x="479.5"
+         y="729.54999">s'installer dans le train</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4197"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.82698902,0,0,1,-15.686894,-45.237696)"><flowRegion
+         id="flowRegion4199"><rect
+           id="rect4201"
+           width="176.46536"
+           height="36.0387"
+           x="26.096989"
+           y="44.760647" /></flowRegion><flowPara
+         id="flowPara4203">Gare la Pleine std F SatdeFr</flowPara></flowRoot>  </g>
+</svg>
