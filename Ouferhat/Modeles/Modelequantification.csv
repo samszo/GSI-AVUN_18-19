@@ -1,0 +1,9 @@
+﻿Dimensions;niveau;nombre;Type de source;Nb de source;Type de destination;Nb de destination;Type de predicat;Nb de predicat;complexité
+physique;1;1;;;;;;;1
+acteurs;1;2;;;;;;;2
+concepts;1;2;;;;;;;2
+rapports;1;1;acteur;1;physique;1;;;1
+rapports;1;1;physique;1;acteur;1;concept;1;1
+rapports;1;1;acteur;1;acteur;1;concept;1;1
+rapports;1;1;acteur;1;concept;1;;;1
+Total;;;;;;;;;7
