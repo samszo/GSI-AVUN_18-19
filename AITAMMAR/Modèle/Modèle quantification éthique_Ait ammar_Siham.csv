@@ -1,0 +1,8 @@
+dimensions : physiques / acteurs / concepts / rapports;niveau;nombre;Type de source;Nb de source;Type de destination;Nb de destination;Type de pr‚dicat;Nb de pr‚dicat;complexit‚;;;;;;;;;;;;;;;
+physique ;1;1;;;;;;;1;;;;;;;;;;;;;;;
+acteurs;1;1;;;;;;;1;;;;;;;;;;;;;;;
+concepts;2;6;;;;;;;8;;;;;;;;;;;;;;;
+apports;1;1;physique ;1;Acteur;1;0;0;4;;;;;;;;;;;;;;;
+;1;1;Acteur;1;concepts;3;0;0;6;;;;;;;;;;;;;;;
+;1;1;concept;1;concepts;3;0;0;6;;;;;;;;;;;;;;;
+;;;;;;;;;26;;;;;;;;;;;;;;;
