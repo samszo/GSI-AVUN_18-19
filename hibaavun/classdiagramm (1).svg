@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66667 158.75"
+   version="1.1"
+   id="svg34"
+   inkscape:export-filename="C:\Users\Hiba\Desktop\usecase.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="classdiagram.svg">
+  <defs
+     id="defs28">
+    <clipPath
+       id="mx-clip-4-225-132-26-0">
+      <rect
+         id="rect378"
+         height="26"
+         width="132"
+         y="225"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-251-132-26-0">
+      <rect
+         id="rect381"
+         height="26"
+         width="132"
+         y="251"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-277-132-24-0">
+      <rect
+         id="rect384"
+         height="24"
+         width="132"
+         y="277"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-35-132-26-0">
+      <rect
+         id="rect387"
+         height="26"
+         width="132"
+         y="35"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-61-132-26-0">
+      <rect
+         id="rect390"
+         height="26"
+         width="132"
+         y="61"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-87-132-26-0">
+      <rect
+         id="rect393"
+         height="26"
+         width="132"
+         y="87"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-254-94-132-26-0">
+      <rect
+         id="rect396"
+         height="26"
+         width="132"
+         y="94"
+         x="254" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-254-120-132-26-0">
+      <rect
+         id="rect399"
+         height="26"
+         width="132"
+         y="120"
+         x="254" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-254-146-132-26-0">
+      <rect
+         id="rect402"
+         height="26"
+         width="132"
+         y="146"
+         x="254" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-619-380-132-26-0">
+      <rect
+         id="rect405"
+         height="26"
+         width="132"
+         y="380"
+         x="619" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-619-406-132-26-0">
+      <rect
+         id="rect408"
+         height="26"
+         width="132"
+         y="406"
+         x="619" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-619-432-132-26-0">
+      <rect
+         id="rect411"
+         height="26"
+         width="132"
+         y="432"
+         x="619" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-225-132-26-0-0">
+      <rect
+         id="rect1344"
+         height="26"
+         width="132"
+         y="225"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-251-132-26-0-4">
+      <rect
+         id="rect1347"
+         height="26"
+         width="132"
+         y="251"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-277-132-24-0-8">
+      <rect
+         id="rect1350"
+         height="24"
+         width="132"
+         y="277"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-35-132-26-0-6">
+      <rect
+         id="rect1353"
+         height="26"
+         width="132"
+         y="35"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-61-132-26-0-3">
+      <rect
+         id="rect1356"
+         height="26"
+         width="132"
+         y="61"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-87-132-26-0-0">
+      <rect
+         id="rect1359"
+         height="26"
+         width="132"
+         y="87"
+         x="4" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-254-94-132-26-0-8">
+      <rect
+         id="rect1362"
+         height="26"
+         width="132"
+         y="94"
+         x="254" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-254-120-132-26-0-6">
+      <rect
+         id="rect1365"
+         height="26"
+         width="132"
+         y="120"
+         x="254" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-254-146-132-26-0-2">
+      <rect
+         id="rect1368"
+         height="26"
+         width="132"
+         y="146"
+         x="254" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-619-380-132-26-0-9">
+      <rect
+         id="rect1371"
+         height="26"
+         width="132"
+         y="380"
+         x="619" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-619-406-132-26-0-0">
+      <rect
+         id="rect1374"
+         height="26"
+         width="132"
+         y="406"
+         x="619" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-619-432-132-26-0-2">
+      <rect
+         id="rect1377"
+         height="26"
+         width="132"
+         y="432"
+         x="619" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="711.56741"
+     inkscape:cy="120.318"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.25)">
+    <g
+       id="g1980"
+       transform="matrix(1.0118625,0,0,0.94785256,-3.9139856,8.509612)">
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,6.29606,139.33711)"
+         id="g1664">
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 0,220 v -26 h 140 v 26"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1382" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 0,220 v 76 h 140 v -76"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1384" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 0,220 H 140"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1386" />
+        <g
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           font-size="12px"
+           id="g1390">
+          <text
+             x="69.5"
+             y="211.5"
+             id="text1388">Client</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-4-225-132-26-0-0)"
+           font-size="12px"
+           id="g1394">
+          <text
+             x="5.5"
+             y="237.5"
+             id="text1392">- Nom_client</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-4-251-132-26-0-4)"
+           font-size="12px"
+           id="g1398">
+          <text
+             x="5.5"
+             y="263.5"
+             id="text1396">- Prénom_client</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-4-277-132-24-0-8)"
+           font-size="12px"
+           id="g1404">
+          <text
+             x="5.5"
+             y="289.5"
+             id="text1400">- Mail_client</text>
+          <text
+             x="5.5"
+             y="317.5"
+             id="text1402">- numéro_client</text>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 0,30 V 4 h 140 v 26"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1406" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 0,30 v 78 H 140 V 30"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1408" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 0,30 H 140"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1410" />
+        <g
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           font-size="12px"
+           id="g1414">
+          <text
+             x="69.5"
+             y="21.5"
+             id="text1412">Compte</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-4-35-132-26-0-6)"
+           font-size="12px"
+           id="g1418">
+          <text
+             x="5.5"
+             y="47.5"
+             id="text1416">- User_name</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-4-61-132-26-0-3)"
+           font-size="12px"
+           id="g1422">
+          <text
+             x="5.5"
+             y="73.5"
+             id="text1420">- Password</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-4-87-132-26-0-0)"
+           font-size="12px"
+           id="g1426">
+          <text
+             x="5.5"
+             y="99.5"
+             id="text1424">- Date_création_compte</text>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 32,151 h 86"
+           stroke-miterlimit="10"
+           transform="rotate(90,75,151)"
+           pointer-events="none"
+           id="path1428" />
+        <g
+           transform="translate(38.5,153.5)"
+           id="g1434">
+          <switch
+             id="switch1432">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="30"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Créer</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="15"
+               y="12"
+               font-size="12px"
+               id="text1430">Créer</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 140,214 m 180,0 v 62 H 140"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1436" />
+        <rect
+           style="fill:#ffffff;stroke:#000000"
+           x="610"
+           y="30"
+           width="160"
+           height="130"
+           pointer-events="none"
+           id="rect1438" />
+        <g
+           transform="translate(610.5,30.5)"
+           id="g1444">
+          <switch
+             id="switch1442">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="158"
+               height="128"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 159px; height: 129px; overflow: hidden; white-space: nowrap;">
+                <xhtml:p
+                   style="margin: 0px ; margin-top: 4px ; text-align: center">
+                  <xhtml:b>Produit</xhtml:b>
+                </xhtml:p>
+                <xhtml:hr
+                   size="1" />
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">- Ref_produit : int</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">+ Désignation : string</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">+ Description : string</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">- Prix : double</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">+ Image : string</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">+ Qte_stock : int</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">+ Supprimer ()                :int</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="79"
+               y="70"
+               font-size="12px"
+               id="text1440">[Not supported by viewer]</text>
+          </switch>
+        </g>
+        <rect
+           style="fill:#ffffff;stroke:#000000"
+           x="610"
+           y="161"
+           width="160"
+           height="90"
+           pointer-events="none"
+           id="rect1446" />
+        <g
+           transform="translate(611.5,164.5)"
+           id="g1452">
+          <switch
+             id="switch1450">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="156"
+               height="82"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 156px; white-space: normal; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                  <xhtml:span
+                     style="text-align: left">+  Ajouter ()                       :int</xhtml:span>
+                  <xhtml:br />
+                  <xhtml:div
+                     style="text-align: left">
+                    <xhtml:span>+  Modifier ()                     :int</xhtml:span>
+                  </xhtml:div>
+                  <xhtml:div
+                     style="text-align: left">
+                    <xhtml:span>+ Supprimer ()                   :int</xhtml:span>
+                  </xhtml:div>
+                  <xhtml:div
+                     style="text-align: left">
+                    <xhtml:span>+ GetProduit ()                  :int</xhtml:span>
+                  </xhtml:div>
+                  <xhtml:div
+                     style="text-align: left">
+                    <xhtml:span>+ récupérerTous ()            :int</xhtml:span>
+                  </xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="78"
+               y="47"
+               font-size="12px"
+               id="text1448">[Not supported by viewer]</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 250,89 V 67 h 140 v 22"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1454" />
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 250,89 v 78 H 390 V 89"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1456" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 250,89 H 390"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1458" />
+        <g
+           style="font-size:14px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           font-size="14px"
+           id="g1462">
+          <text
+             x="319.5"
+             y="83.5"
+             id="text1460">Commande</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-254-94-132-26-0-8)"
+           font-size="12px"
+           id="g1466">
+          <text
+             x="255.5"
+             y="106.5"
+             id="text1464">- ref_cmd           : int</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-254-120-132-26-0-6)"
+           font-size="12px"
+           id="g1470">
+          <text
+             x="255.5"
+             y="132.5"
+             id="text1468">- date_cmd       : Date</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-254-146-132-26-0-2)"
+           font-size="12px"
+           id="g1474">
+          <text
+             x="255.5"
+             y="158.5"
+             id="text1472">- etat_cmd        : string</text>
+        </g>
+        <rect
+           style="fill:#ffffff;stroke:#000000"
+           x="250"
+           y="167.5"
+           width="140"
+           height="43"
+           pointer-events="none"
+           id="rect1476" />
+        <g
+           transform="translate(253.5,175.5)"
+           id="g1482">
+          <switch
+             id="switch1480">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="132"
+               height="26"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 134px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">+ Créer ()                  : int<xhtml:br />
++ changerEtat ()        : int<xhtml:br />
+</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="66"
+               y="19"
+               font-size="12px"
+               id="text1478">[Not supported by viewer]</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(200.5,252.5)"
+           id="g1488">
+          <switch
+             id="switch1486">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="38"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 38px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Passer</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="19"
+               y="12"
+               font-size="12px"
+               id="text1484">Passer</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 390,156 H 610"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1490" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 0,376 H 160"
+           stroke-miterlimit="10"
+           transform="rotate(90,80,376)"
+           pointer-events="none"
+           id="path1492" />
+        <rect
+           style="fill:#ffffff;stroke:#000000"
+           x="0"
+           y="456"
+           width="160"
+           height="98"
+           pointer-events="none"
+           id="rect1494" />
+        <g
+           transform="translate(0.5,456.5)"
+           id="g1500">
+          <switch
+             id="switch1498">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="158"
+               height="96"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 159px; height: 97px; overflow: hidden; white-space: nowrap;">
+                <xhtml:p
+                   style="margin: 0px ; margin-top: 4px ; text-align: center">
+                  <xhtml:b>Paiement</xhtml:b>
+                </xhtml:p>
+                <xhtml:hr
+                   size="1" />
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">- num_carte             :   int</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">- montant                 : double</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">- code_carte            : string</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">- type-carte              : string</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="79"
+               y="54"
+               font-size="12px"
+               id="text1496">[Not supported by viewer]</text>
+          </switch>
+        </g>
+        <rect
+           style="fill:#ffffff;stroke:#000000"
+           x="193"
+           y="474"
+           width="180"
+           height="50"
+           pointer-events="none"
+           id="rect1502" />
+        <g
+           transform="translate(193.5,474.5)"
+           id="g1508">
+          <switch
+             id="switch1506">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="178"
+               height="48"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 179px; height: 49px; overflow: hidden; white-space: nowrap;">
+                <xhtml:p
+                   style="margin: 0px ; margin-top: 4px ; text-align: center">
+                  <xhtml:b>Paypal</xhtml:b>
+                </xhtml:p>
+                <xhtml:hr
+                   size="1" />
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">+ validationPaiement () : void</xhtml:p>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="89"
+               y="30"
+               font-size="12px"
+               id="text1504">[Not supported by viewer]</text>
+          </switch>
+        </g>
+        <rect
+           style="fill:#ffffff;stroke:#000000"
+           x="193"
+           y="412.5"
+           width="180"
+           height="50"
+           pointer-events="none"
+           id="rect1510" />
+        <g
+           transform="translate(193.5,413.5)"
+           id="g1516">
+          <switch
+             id="switch1514">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="178"
+               height="48"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 179px; height: 49px; overflow: hidden; white-space: nowrap;">
+                <xhtml:p
+                   style="margin: 0px ; margin-top: 4px ; text-align: center">
+                  <xhtml:b>Carte du site</xhtml:b>
+                </xhtml:p>
+                <xhtml:hr
+                   size="1" />
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">+ reconnaissanceCarte () : void</xhtml:p>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="89"
+               y="30"
+               font-size="12px"
+               id="text1512">[Not supported by viewer]</text>
+          </switch>
+        </g>
+        <rect
+           style="fill:#ffffff;stroke:#000000"
+           x="193"
+           y="351"
+           width="180"
+           height="50"
+           pointer-events="none"
+           id="rect1518" />
+        <g
+           transform="translate(193.5,351.5)"
+           id="g1524">
+          <switch
+             id="switch1522">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="178"
+               height="48"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 179px; height: 49px; overflow: hidden; white-space: nowrap;">
+                <xhtml:p
+                   style="margin: 0px ; margin-top: 4px ; text-align: center">
+                  <xhtml:b>Carte Bancaire</xhtml:b>
+                </xhtml:p>
+                <xhtml:hr
+                   size="1" />
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">+ reconnaissanceCarte () : void</xhtml:p>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="89"
+               y="30"
+               font-size="12px"
+               id="text1520">[Not supported by viewer]</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 190,374 -58.24,68.22"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1526" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 120.73,455.15 4.57,-18.45 12.93,11.04 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1528" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 193,512 -12.97,1.25"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1530" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 163.11,514.89 16.1,-10.1 1.64,16.93 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1532" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 190,454 -16.53,14.88"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1534" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 160.83,480.25 6.95,-17.69 11.37,12.64 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1536" />
+        <g
+           transform="translate(15.5,379.5)"
+           id="g1542">
+          <switch
+             id="switch1540">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="43"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 45px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Effectue</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="22"
+               y="12"
+               font-size="12px"
+               id="text1538">Effectue</text>
+          </switch>
+        </g>
+        <rect
+           style="fill:#ffffff;stroke:#000000"
+           x="610"
+           y="554"
+           width="160"
+           height="50"
+           pointer-events="none"
+           id="rect1544" />
+        <g
+           transform="translate(610.5,554.5)"
+           id="g1550">
+          <switch
+             id="switch1548">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="158"
+               height="48"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 159px; height: 49px; overflow: hidden; white-space: nowrap;">
+                <xhtml:p
+                   style="margin: 0px ; margin-top: 4px ; text-align: center">
+                  <xhtml:b>Transporteur</xhtml:b>
+                </xhtml:p>
+                <xhtml:hr
+                   size="1" />
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">- livrerProduit (y)       :   int</xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-left: 4px">
+                  <xhtml:br />
+                </xhtml:p>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="79"
+               y="30"
+               font-size="12px"
+               id="text1546">[Not supported by viewer]</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 635,504 H 735"
+           stroke-miterlimit="10"
+           transform="rotate(90,685,504)"
+           pointer-events="none"
+           id="path1552" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 615,375 v -26 h 140 v 26"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1554" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 615,375 v 78 h 140 v -78"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1556" />
+        <path
+           style="fill:none;stroke:#000000;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 615,375 H 755"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path1558" />
+        <g
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           font-size="12px"
+           id="g1562">
+          <text
+             x="684.5"
+             y="366.5"
+             id="text1560">Livraison</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-619-380-132-26-0-9)"
+           font-size="12px"
+           id="g1566">
+          <text
+             x="620.5"
+             y="392.5"
+             id="text1564">+ date_livraison        :int</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-619-406-132-26-0-0)"
+           font-size="12px"
+           id="g1570">
+          <text
+             x="620.5"
+             y="418.5"
+             id="text1568">+ adresse_livraison  :int</text>
+        </g>
+        <g
+           style="font-size:12px;font-family:Helvetica;fill:#000000"
+           clip-path="url(#mx-clip-619-432-132-26-0-2)"
+           font-size="12px"
+           id="g1574">
+          <text
+             x="620.5"
+             y="444.5"
+             id="text1572">+ numéro_livraison   :int</text>
+        </g>
+        <g
+           transform="translate(645.5,497.5)"
+           id="g1580">
+          <switch
+             id="switch1578">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="28"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 28px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Faire</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="14"
+               y="12"
+               font-size="12px"
+               id="text1576">Faire</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 640.5,300.5 h 89"
+           stroke-miterlimit="10"
+           transform="rotate(90,685,300.5)"
+           pointer-events="none"
+           id="path1582" />
+        <g
+           transform="translate(45.5,304.5)"
+           id="g1588">
+          <switch
+             id="switch1586">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1584">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(47.5,436.5)"
+           id="g1594">
+          <switch
+             id="switch1592">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1590">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(150.5,255.5)"
+           id="g1600">
+          <switch
+             id="switch1598">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1596">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(290.5,217.5)"
+           id="g1606">
+          <switch
+             id="switch1604">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1602">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(40.5,111.5)"
+           id="g1612">
+          <switch
+             id="switch1610">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1608">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(45.5,177.5)"
+           id="g1618">
+          <switch
+             id="switch1616">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1614">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(655.5,537.5)"
+           id="g1624">
+          <switch
+             id="switch1622">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1620">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(650.5,459.5)"
+           id="g1630">
+          <switch
+             id="switch1628">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1626">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(410.5,134.5)"
+           id="g1636">
+          <switch
+             id="switch1634">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1632">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(580.5,139.5)"
+           id="g1642">
+          <switch
+             id="switch1640">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1638">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(655.5,332.5)"
+           id="g1648">
+          <switch
+             id="switch1646">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1644">1..*</text>
+          </switch>
+        </g>
+        <g
+           transform="translate(650.5,262.5)"
+           id="g1654">
+          <switch
+             id="switch1652">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="18"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">1..*</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="9"
+               y="12"
+               font-size="12px"
+               id="text1650">1..*</text>
+          </switch>
+        </g>
+        <rect
+           style="fill:#9ac7bf;stroke:#000000"
+           x="263"
+           y="0"
+           width="220"
+           height="30"
+           rx="4.5"
+           ry="4.5"
+           pointer-events="none"
+           id="rect1656" />
+        <g
+           transform="translate(272.5,8.5)"
+           id="g1662">
+          <switch
+             id="switch1660">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="200"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 200px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Système d'achat d'un produit en ligne</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="100"
+               y="12"
+               font-size="12px"
+               id="text1658">Système d'achat d'un produit en ligne</text>
+          </switch>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
