@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="usecase.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-101.42857"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.37069458"
+       cx="18.590588"
+       cy="143.40332"
+       rx="4.442874"
+       ry="7.5389891"
+       pointer-events="none"
+       id="ellipse91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.37069458;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 18.590588,151.05829 v 25.13151 m 0,-20.10706 H 9.7048402 m 8.8857478,0 h 8.885749 m -8.885749,20.10706 -8.8857478,20.10242 m 8.8857478,-20.10242 8.885749,20.10242"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path93" />
+    <g
+       transform="matrix(0.29619161,0,0,0.46393778,10.445319,199.77176)"
+       id="g99"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FActor%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <switch
+         id="switch97">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="55"
+           height="26"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+              <xhtml:font
+                 face="Times New Roman"
+                 style="font-size: 24px">Actor</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           x="28"
+           y="19"
+           font-size="12px"
+           id="text95">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <ellipse
+       style="fill:#d80073;stroke:#a50040;stroke-width:0.37069458"
+       cx="136.43507"
+       cy="74.912453"
+       rx="41.466824"
+       ry="20.877199"
+       pointer-events="none"
+       id="ellipse101" />
+    <g
+       transform="matrix(0.29619161,0,0,0.46393778,113.64379,69.405241)"
+       id="g107"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FAchat%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <switch
+         id="switch105">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="158"
+           height="26"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 160px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 style="font-size: 24px"
+                 face="Times New Roman">
+                <xhtml:b>Acheter_Ticket</xhtml:b>
+              </xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           x="79"
+           y="19"
+           font-size="12px"
+           id="text103">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <ellipse
+       style="fill:#d80073;stroke:#a50040;stroke-width:0.37069458"
+       cx="131.1434"
+       cy="161.49689"
+       rx="41.466824"
+       ry="23.19689"
+       pointer-events="none"
+       id="ellipse109" />
+    <g
+       transform="matrix(0.29619161,0,0,0.46393778,108.48474,155.23373)"
+       id="g115"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FValidation%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <switch
+         id="switch113">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="152"
+           height="26"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 154px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 face="Times New Roman"
+                 style="font-size: 24px">
+                <xhtml:b>Valider_Ticket</xhtml:b>
+              </xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           x="76"
+           y="19"
+           font-size="12px"
+           id="text111">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <ellipse
+       style="fill:#d80073;stroke:#a50040;stroke-width:0.37069458"
+       cx="131.1434"
+       cy="254.28444"
+       rx="41.466824"
+       ry="23.19689"
+       pointer-events="none"
+       id="ellipse117" />
+    <g
+       transform="matrix(0.29619161,0,0,0.46393778,109.37332,248.02129)"
+       id="g123"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FTrain%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <switch
+         id="switch121">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="146"
+           height="26"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 148px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 face="Times New Roman"
+                 style="font-size: 24px">
+                <xhtml:b>Monter_Train</xhtml:b>
+              </xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           x="73"
+           y="19"
+           font-size="12px"
+           id="text119">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.74138916;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 100.04328,36.23369 H 85.233701 v 259.80516 h 14.809579"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path125" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11208379;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 30.438253,166.13627 82.102955,82.117136"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path127" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.11208379;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 83.951191,79.110819 83.062616,83.564622 81.143295,80.66965 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path129" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11208379;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 30.438253,165.9043 h 14.80958 q 2.961916,0 5.923833,0.0186 l 30.404068,0.19021"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path131" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.11208379;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 84.241459,166.13163 -2.671648,2.06916 0.0089,-4.17544 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path133" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11208379;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 30.438253,166.13627 52.2482,84.49699"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path135" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.11208379;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 84.543574,253.63029 -2.81382,-1.54491 1.91636,-2.90425 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path137" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.74138916;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 163.72448,296.03885 h 14.80958 V 36.233691 h -14.80958"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path139" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.37069458"
+       x="65.981247"
+       y="-0.88133287"
+       width="130.32431"
+       height="18.55751"
+       pointer-events="none"
+       id="rect141" />
+    <g
+       transform="matrix(0.29619161,0,0,0.46393778,98.118036,3.9900138)"
+       id="g147">
+      <switch
+         id="switch145">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="223"
+           height="19"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 face="Times New Roman"
+                 style="font-size: 18px">
+                <xhtml:b>Use_Case_Gare_Saint_Denis</xhtml:b>
+              </xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           x="112"
+           y="16"
+           font-size="12px"
+           id="text143">&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Use_Case_Gare_Saint_Denis&lt;/b&gt;&lt;/font&gt;</text>
+      </switch>
+    </g>
+  </g>
+</svg>
