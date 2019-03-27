@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="561px"
+   height="420px"
+   viewBox="-0.5 -0.5 561 420"
+   content="&lt;mxfile modified=&quot;2019-02-28T07:58:43.152Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36&quot; etag=&quot;4KGFON0g1QFGQyiYoDE2&quot; version=&quot;10.2.8&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;h9EUXJ9K5FzDCfl8senS&quot; name=&quot;Page-1&quot;&gt;7Vpdc5s4FP01PMYD4iP2Y2wnzeykmUzTdjePqlGMNgKxQsR2f/1eIcmAsYPb2PHujF9s6SBdSfecqwsCx5+ky08C58lnHhPmIDdeOv7UQWgURPCrgJUGIt/VwFzQWENeDTzSn8SAtllJY1K0GkrOmaR5G5zxLCMz2cKwEHzRbvbMWXvUHM9JB3icYdZF/6SxTDQ6RJc1fkvoPLEje9FIX0mxbWxWUiQ45osG5F87/kRwLnUpXU4IU76zftH9bnZcXU9MkEzu0+ElfxDJy62I58souLl/YHff/rgwVl4xK82CHRQxsDf+AYW5KljgmcM4sAy5Mr6J/im5vXBRVMxdQQMU5Mv6ovI5nrU7fKUpUIrce7KA3y88xVmzgx526kx852qUYjFLiCIzTmlGCymwpK8KyHkp4K/MqkkpGs1EwQV6ru35A9xYE2otBUmyVHgiUwaAB0VBYEn4R9XAhXrOaSYrMYVjJ5wCgkvJ9bKrDpjReQZlRp6VqVciJAUdXRlY8hzQIsczms2/qsr0IlhPpUmj5QQMkGUDMrR+IjwlUqygibmKAiMxE2OBsbCoBRtYFSYNsVoMmxiZry3XMoKCUdJ2VT3+zW4mi+vvwe0Nuy3d1+vV0/cL1FFVQWZCEyqxoFh2CCgWNGU4I0ZPj+aK8vwsoSy+wyteqnkD1bMXWxsnXNCf0B5b2uCykGYbQZGyRhmbcMYFABmvBqg7PSpjZpiKcPJgifA2oM942Wp4hwtpJ8gZw3lBtVhUR1DtnGZjLiVPTaMD8ByiNs+eP+oQ7QVbiPbc6EhM+1v2jyrmKVEbrdoPwNuYChXw22MOQpq/kA2KtrD2K/F1V7WZBjXyxXhDQRz6PrNqL05oHJNMkcolljvDfQxOnbiDUAU+mkDdq+vVXpBzISc8U9sTrfglII8FKeRW5t8Mmn45GPpRtB/76FjkB/3kZ2Wqw15wlbl1mem/PFHEnlVxWFWEaE9VDI+kirBfFQWQg2Upzuwfmv2he+I9IeqwDysUJBe06LJ9Tvr9Sd/320nfD7t3dx+c9C/7I/weXHCO7TdjO9pbCf+VfD/s5x0ew9UT2pn7A3N/8qw+Omf107F/8qxuT+Ma9OdEFOrM7ZzUfyOpe+5vP8kHx6J421HgOav/amyvI+X/k9a97nFd9znemSBH+c81p3hlTHF2zvMHV8Peif5oatjjSC/mszIlypdn/g/M/+XwxPyjbh74tuXRnWTxlXq9BjWeV94GxGRr2FD8cYyLhMQmizbeq6jjgNVfULlwB657aZEnjXheaJGpzdK6tmrWHoigsFwiLLikUtl0B0Foqk92PCjXplRl1ahsGtqZ2wteCvMa6+24gbuWOXlLE4ZgErdePHYF0VRAZBQgCNOvv5pT2yYBY+5BKX73bUdgbyytCb1K0ws13iVuGEJRjyHthY4hkAxeNZqZiNw94chvj+O23nFCQVus5b524DsioJsPjxMB7iBqyt8beCP0HvV7AzfwG/KHAPOHHxgCwz0jIDxHwN4RENkb/nUEBB8QAd17gCNFQFP/Kvf2qN8KvSXy8E2Jv2NHt9+b9OnZP52e/c0HycuNA6B99RxEPYZ26LlfclCtP3LRzesvhfzrfwE=&lt;/diagram&gt;&lt;/mxfile&gt;"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg135"
+   sodipodi:docname="diagramme de classe.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata139">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview137"
+     showgrid="false"
+     inkscape:zoom="1.1238095"
+     inkscape:cx="259.90137"
+     inkscape:cy="247.1726"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg135" />
+  <defs
+     id="defs29">
+    <clipPath
+       id="mx-clip-424-129-132-26-0">
+      <rect
+         x="424"
+         y="129"
+         width="132"
+         height="26"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-424-155-132-28-0">
+      <rect
+         x="424"
+         y="155"
+         width="132"
+         height="28"
+         id="rect5" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-424-183-132-26-0">
+      <rect
+         x="424"
+         y="183"
+         width="132"
+         height="26"
+         id="rect8" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-234-341-132-26-0">
+      <rect
+         x="234"
+         y="341"
+         width="132"
+         height="26"
+         id="rect11" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-234-367-132-28-0">
+      <rect
+         x="234"
+         y="367"
+         width="132"
+         height="28"
+         id="rect14" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-234-395-132-26-0">
+      <rect
+         x="234"
+         y="395"
+         width="132"
+         height="26"
+         id="rect17" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-129-132-26-0">
+      <rect
+         x="4"
+         y="129"
+         width="132"
+         height="26"
+         id="rect20" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-155-132-26-0">
+      <rect
+         x="4"
+         y="155"
+         width="132"
+         height="26"
+         id="rect23" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-181-132-26-0">
+      <rect
+         x="4"
+         y="181"
+         width="132"
+         height="26"
+         id="rect26" />
+    </clipPath>
+  </defs>
+  <g
+     id="g35"
+     transform="translate(141.5,2.5)">
+    <switch
+       id="switch33">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="26"
+         width="406"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <xhtml:b>
+              <xhtml:font
+                 face="Times New Roman"
+                 style="font-size: 24px">Démarche administrative pour un stage</xhtml:font>
+            </xhtml:b>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text31"
+         font-size="12px"
+         y="19"
+         x="203">&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Times New Roman&quot;&gt;Démarche administrative pour un stage&lt;/font&gt;&lt;/b&gt;</text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path37"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 420,124 V 98 h 140 v 26" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path39"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 420,124 v 80 h 140 v -80" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path41"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 420,124 H 560" />
+  <g
+     style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="g45"
+     font-size="12px">
+    <text
+       id="text43"
+       y="115.5"
+       x="489.5">secrétariat</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g49"
+     font-size="12px"
+     clip-path="url(#mx-clip-424-129-132-26-0)">
+    <text
+       id="text47"
+       y="141.5"
+       x="425.5">+ field: horaires</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g53"
+     font-size="12px"
+     clip-path="url(#mx-clip-424-155-132-28-0)">
+    <text
+       id="text51"
+       y="167.5"
+       x="425.5">+ field: numéro téléphone</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g57"
+     font-size="12px"
+     clip-path="url(#mx-clip-424-183-132-26-0)"
+     onclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FSignature%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');">
+    <text
+       id="text55"
+       y="195.5"
+       x="425.5">+ field: signature</text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path59"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 230,336 v -26 h 140 v 26" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path61"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 230,336 v 80 h 140 v -80" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path63"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 230,336 H 370" />
+  <g
+     style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="g67"
+     font-size="12px">
+    <text
+       id="text65"
+       y="327.5"
+       x="299.5">entreprise</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g71"
+     font-size="12px"
+     clip-path="url(#mx-clip-234-341-132-26-0)">
+    <text
+       id="text69"
+       y="353.5"
+       x="235.5">+ field: Nom</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g75"
+     font-size="12px"
+     clip-path="url(#mx-clip-234-367-132-28-0)">
+    <text
+       id="text73"
+       y="379.5"
+       x="235.5">+ field: contrat</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g79"
+     font-size="12px"
+     clip-path="url(#mx-clip-234-395-132-26-0)">
+    <text
+       id="text77"
+       y="407.5"
+       x="235.5">+ field: signature</text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path81"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 0,124 V 98 h 140 v 26" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path83"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 0,124 v 78 h 140 v -78" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path85"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 0,124 H 140" />
+  <g
+     style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="g89"
+     font-size="12px">
+    <text
+       id="text87"
+       y="115.5"
+       x="69.5">personne</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g93"
+     font-size="12px"
+     clip-path="url(#mx-clip-4-129-132-26-0)">
+    <text
+       id="text91"
+       y="141.5"
+       x="5.5">+ field: Nom</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g97"
+     font-size="12px"
+     clip-path="url(#mx-clip-4-155-132-26-0)"
+     onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FSignature%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');">
+    <text
+       id="text95"
+       y="167.5"
+       x="5.5">+ field: n° étudiant</text>
+  </g>
+  <g
+     style="font-size:12px;font-family:Helvetica;fill:#000000"
+     id="g101"
+     font-size="12px"
+     clip-path="url(#mx-clip-4-181-132-26-0)">
+    <text
+       id="text99"
+       y="193.5"
+       x="5.5">+ field: documents</text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+     inkscape:connector-curvature="0"
+     id="path103"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 63,202 v 147 q 0,10 10,10 h 153.76" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path105"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 214.88,365.5 13,-6.5 -13,-6.5" />
+  <g
+     id="g111"
+     transform="translate(57.5,353.5)">
+    <switch
+       id="switch109">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="11"
+         width="20"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Use</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text107"
+         font-size="11px"
+         y="11"
+         x="10">Use</text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+     inkscape:connector-curvature="0"
+     id="path113"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 376,363 h 118 q 10,0 10,-10 V 211.24" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path115"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 510.5,223.12 -6.5,-13 -6.5,13" />
+  <g
+     id="g121"
+     transform="translate(493.5,344.5)">
+    <switch
+       id="switch119">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="11"
+         width="20"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Use</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text117"
+         font-size="11px"
+         y="11"
+         x="10">Use</text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+     inkscape:connector-curvature="0"
+     id="path123"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 140,137 H 417.76" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path125"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 405.88,143.5 13,-6.5 -13,-6.5" />
+  <g
+     id="g131"
+     transform="translate(269.5,131.5)">
+    <switch
+       id="switch129">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="11"
+         width="20"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Use</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text127"
+         font-size="11px"
+         y="11"
+         x="10">Use</text>
+    </switch>
+  </g>
+</svg>

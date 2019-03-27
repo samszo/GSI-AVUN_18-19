@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg222"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Diagramme_Classe_Lien.svg">
+  <defs
+     id="defs216">
+    <clipPath
+       id="mx-clip-4-128-132-26-0">
+      <rect
+         x="4"
+         y="128"
+         width="132"
+         height="26"
+         id="rect385" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-154-132-28-0">
+      <rect
+         x="4"
+         y="154"
+         width="132"
+         height="28"
+         id="rect388" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-380-132-74-0">
+      <rect
+         x="4"
+         y="380"
+         width="132"
+         height="74"
+         id="rect391" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-4-254-132-74-0">
+      <rect
+         x="4"
+         y="254"
+         width="132"
+         height="74"
+         id="rect394" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-224-51-132-26-0">
+      <rect
+         x="224"
+         y="51"
+         width="132"
+         height="26"
+         id="rect397" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-224-77-132-58-0">
+      <rect
+         x="224"
+         y="77"
+         width="132"
+         height="58"
+         id="rect400" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-224-173-132-26-0">
+      <rect
+         x="224"
+         y="173"
+         width="132"
+         height="26"
+         id="rect403" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-224-199-132-58-0">
+      <rect
+         x="224"
+         y="199"
+         width="132"
+         height="58"
+         id="rect406" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-224-313-162-26-0">
+      <rect
+         x="224"
+         y="313"
+         width="162"
+         height="26"
+         id="rect409" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-224-339-162-78-0">
+      <rect
+         x="224"
+         y="339"
+         width="162"
+         height="78"
+         id="rect412" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-224-480-162-26-0">
+      <rect
+         x="224"
+         y="480"
+         width="162"
+         height="26"
+         id="rect415" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-224-506-162-28-0">
+      <rect
+         x="224"
+         y="506"
+         width="162"
+         height="28"
+         id="rect418" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-426-193-132-26-0">
+      <rect
+         x="426"
+         y="193"
+         width="132"
+         height="26"
+         id="rect421" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-426-219-132-38-0">
+      <rect
+         x="426"
+         y="219"
+         width="132"
+         height="38"
+         id="rect424" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-627-168-182-26-0">
+      <rect
+         x="627"
+         y="168"
+         width="182"
+         height="26"
+         id="rect427" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-627-194-182-88-0">
+      <rect
+         x="627"
+         y="194"
+         width="182"
+         height="88"
+         id="rect430" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-474-335-132-26-0">
+      <rect
+         x="474"
+         y="335"
+         width="132"
+         height="26"
+         id="rect433" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-474-361-132-38-0">
+      <rect
+         x="474"
+         y="361"
+         width="132"
+         height="38"
+         id="rect436" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-664-338-132-26-0">
+      <rect
+         x="664"
+         y="338"
+         width="132"
+         height="26"
+         id="rect439" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-664-364-132-28-0">
+      <rect
+         x="664"
+         y="364"
+         width="132"
+         height="28"
+         id="rect442" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-664-560-132-26-0">
+      <rect
+         x="664"
+         y="560"
+         width="132"
+         height="26"
+         id="rect445" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-664-586-132-28-0">
+      <rect
+         x="664"
+         y="586"
+         width="132"
+         height="28"
+         id="rect448" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-487-574-132-26-0">
+      <rect
+         x="487"
+         y="574"
+         width="132"
+         height="26"
+         id="rect451" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="340.77038"
+     inkscape:cy="240.34934"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata219">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 2.4332556,58.994325 V 46.376168 H 38.825658 v 12.618157"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path456" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 2.4332556,58.994325 V 85.201268 H 38.825658 V 58.994325"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path458" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 2.4332556,58.994325 H 38.825658"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path460" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g464"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FAchat%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="69.5"
+         y="115.5"
+         id="text462">Acheter_Ticket</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-4-128-132-26-0)"
+       font-size="12px"
+       id="g468"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FUtilisateur%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="5.5"
+         y="140"
+         id="text466">Utilisateur</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-4-154-132-28-0)"
+       font-size="12px"
+       id="g472"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FBorne%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank);">
+      <text
+         x="5.5"
+         y="166"
+         id="text470">Borne_d'achat_Ticket</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 2.4332556,181.53605 V 168.9179 H 38.825658 v 12.61815"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path474" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 2.4332556,181.53605 v 35.91322 H 38.825658 v -35.91322"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path476" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 2.4332556,181.53605 H 38.825658"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path478" />
+    <g
+       style="font-weight:bold;font-size:14px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="14px"
+       id="g482"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="69.5"
+         y="367.5"
+         id="text480">Valider_Ticket</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-4-380-132-74-0)"
+       font-size="12px"
+       id="g488"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="5.5"
+         y="406.5"
+         id="text484">  Machine_Validation</text>
+      <text
+         x="5.5"
+         y="434.5"
+         id="text486">  Passage</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 2.4332556,120.38652 V 107.76836 H 38.825658 v 12.61816"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path490" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 2.4332556,120.38652 v 35.91322 H 38.825658 v -35.91322"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path492" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 2.4332556,120.38652 H 38.825658"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path494" />
+    <g
+       style="font-weight:bold;font-size:14px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="14px"
+       id="g498"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FTrain%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="69.5"
+         y="241.5"
+         id="text496">Monter_Train</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-4-254-132-74-0)"
+       font-size="12px"
+       id="g502"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FAssis%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="5.5"
+         y="280.5"
+         id="text500">S'installer</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 59.621316,21.867823 V 9.2496652 H 96.013718 V 21.867823"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path504" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 59.621316,21.867823 V 62.634179 H 96.013718 V 21.867823"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path506" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 59.621316,21.867823 H 96.013718"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path508" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g512"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FUtilisateur%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="289.5"
+         y="39"
+         id="text510">Utilisateur</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-224-51-132-26-0)"
+       font-size="12px"
+       id="g516"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FNom%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="225.5"
+         y="63.5"
+         id="text514">Nom</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-224-77-132-58-0)"
+       font-size="12px"
+       id="g522"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FAGE%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="225.5"
+         y="89.5"
+         id="text518">Age</text>
+      <text
+         x="225.5"
+         y="117.5"
+         id="text520">Lieu_Résidence</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 59.621316,81.076102 V 68.457944 h 36.392402 v 12.618158"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path524" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 59.621316,81.076102 V 121.84246 H 96.013718 V 81.076102"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path526" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 59.621316,81.076102 H 96.013718"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path528" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g532"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FBorne%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="289.5"
+         y="161"
+         id="text530">Borne_d'achat</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-224-173-132-26-0)"
+       font-size="12px"
+       id="g536"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FInterface%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <g
+         aria-label="Interface"
+         id="text534">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 226.61914,185.5 v -8.58984 h 1.13672 V 185.5 Z"
+           id="path1103" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 229.61914,185.5 v -6.22266 h 0.94922 v 0.88477 q 0.68555,-1.02539 1.98047,-1.02539 0.5625,0 1.03125,0.20508 0.47461,0.19922 0.70898,0.52734 0.23438,0.32813 0.32813,0.7793 0.0586,0.29297 0.0586,1.02539 V 185.5 h -1.05469 v -3.78516 q 0,-0.64453 -0.12304,-0.96093 -0.12305,-0.32227 -0.43946,-0.50977 -0.31054,-0.19336 -0.73242,-0.19336 -0.67383,0 -1.16601,0.42774 -0.48633,0.42773 -0.48633,1.62304 V 185.5 Z"
+           id="path1105" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 238.60156,184.55664 0.15235,0.93164 q -0.44532,0.0937 -0.79688,0.0937 -0.57422,0 -0.89062,-0.18164 -0.31641,-0.18164 -0.44532,-0.47461 -0.1289,-0.29883 -0.1289,-1.24805 v -3.58007 h -0.77344 v -0.82032 h 0.77344 v -1.54101 l 1.04883,-0.63281 v 2.17382 h 1.06054 v 0.82032 h -1.06054 v 3.63867 q 0,0.45117 0.0527,0.58008 0.0586,0.1289 0.18164,0.20507 0.12891,0.0762 0.36328,0.0762 0.17578,0 0.46289,-0.041 z"
+           id="path1107" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 243.88672,183.49609 1.08984,0.13477 q -0.25781,0.95508 -0.95508,1.48242 -0.69726,0.52734 -1.78125,0.52734 -1.36523,0 -2.16796,-0.83789 -0.79688,-0.84375 -0.79688,-2.36132 0,-1.57032 0.80859,-2.4375 0.8086,-0.86719 2.09766,-0.86719 1.24805,0 2.03906,0.84961 0.79102,0.84961 0.79102,2.39062 0,0.0937 -0.006,0.28125 h -4.64063 q 0.0586,1.02539 0.58008,1.57032 0.52149,0.54492 1.30078,0.54492 0.58008,0 0.99024,-0.30469 0.41015,-0.30469 0.65039,-0.97266 z m -3.46289,-1.70507 h 3.47461 q -0.0703,-0.78516 -0.39844,-1.17774 -0.50391,-0.60937 -1.30664,-0.60937 -0.72656,0 -1.22461,0.48632 -0.49219,0.48633 -0.54492,1.30079 z"
+           id="path1109" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 246.29492,185.5 v -6.22266 h 0.94922 v 0.94336 q 0.36328,-0.66211 0.66797,-0.87304 0.31055,-0.21094 0.67969,-0.21094 0.5332,0 1.08398,0.33984 l -0.36328,0.97852 q -0.38672,-0.22852 -0.77344,-0.22852 -0.3457,0 -0.62109,0.21094 -0.27539,0.20508 -0.39258,0.57422 -0.17578,0.5625 -0.17578,1.23047 V 185.5 Z"
+           id="path1111" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 250.56641,185.5 v -5.40234 h -0.93164 v -0.82032 h 0.93164 v -0.66211 q 0,-0.62695 0.11132,-0.93164 0.15235,-0.41015 0.53321,-0.66211 0.38672,-0.25781 1.07812,-0.25781 0.44531,0 0.98438,0.10547 l -0.15821,0.91992 q -0.32812,-0.0586 -0.62109,-0.0586 -0.48047,0 -0.67969,0.20508 -0.19922,0.20507 -0.19922,0.76757 v 0.57422 h 1.21289 v 0.82032 h -1.21289 V 185.5 Z"
+           id="path1113" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 257.70312,184.73242 q -0.58593,0.49805 -1.13085,0.70313 -0.53907,0.20507 -1.16016,0.20507 -1.02539,0 -1.57617,-0.49804 -0.55078,-0.50391 -0.55078,-1.28321 0,-0.45703 0.20507,-0.83203 0.21094,-0.38086 0.54493,-0.60937 0.33984,-0.22852 0.76171,-0.3457 0.31055,-0.082 0.9375,-0.15821 1.27735,-0.15234 1.88086,-0.36328 0.006,-0.2168 0.006,-0.27539 0,-0.64453 -0.29882,-0.9082 -0.4043,-0.35742 -1.20118,-0.35742 -0.74414,0 -1.10156,0.26367 -0.35156,0.25781 -0.52148,0.91992 l -1.03125,-0.14063 q 0.14062,-0.66211 0.46289,-1.0664 0.32226,-0.41016 0.93164,-0.62696 0.60937,-0.22265 1.41211,-0.22265 0.79687,0 1.29492,0.1875 0.49805,0.1875 0.73242,0.47461 0.23438,0.28125 0.32813,0.71484 0.0527,0.26953 0.0527,0.97266 v 1.40625 q 0,1.4707 0.0644,1.86328 0.0703,0.38672 0.26953,0.74414 h -1.10156 q -0.16406,-0.32813 -0.21094,-0.76758 z m -0.0879,-2.35547 q -0.57421,0.23438 -1.72265,0.39844 -0.65039,0.0937 -0.91992,0.21094 -0.26954,0.11719 -0.41602,0.3457 -0.14648,0.22266 -0.14648,0.49805 0,0.42187 0.3164,0.70312 0.32227,0.28125 0.9375,0.28125 0.60938,0 1.08399,-0.26367 0.47461,-0.26953 0.69726,-0.73242 0.16992,-0.35742 0.16992,-1.05469 z"
+           id="path1115" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 264.38281,183.2207 1.03711,0.13477 q -0.16992,1.07226 -0.87305,1.68164 -0.69726,0.60351 -1.71679,0.60351 -1.27735,0 -2.05664,-0.83203 Q 260,183.9707 260,182.41211 q 0,-1.00781 0.33398,-1.76367 0.33399,-0.75586 1.01368,-1.13086 0.68554,-0.38086 1.48828,-0.38086 1.01367,0 1.6582,0.51562 0.64453,0.50977 0.82617,1.45313 l -1.02539,0.1582 q -0.14648,-0.62695 -0.52148,-0.94336 -0.36914,-0.3164 -0.89649,-0.3164 -0.79687,0 -1.29492,0.57421 -0.49805,0.56836 -0.49805,1.80469 0,1.25391 0.48047,1.82227 0.48047,0.56836 1.25391,0.56836 0.62109,0 1.03711,-0.38086 0.41601,-0.38086 0.52734,-1.17188 z"
+           id="path1117" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 270.58203,183.49609 1.08984,0.13477 q -0.25781,0.95508 -0.95507,1.48242 -0.69727,0.52734 -1.78125,0.52734 -1.36524,0 -2.16797,-0.83789 -0.79688,-0.84375 -0.79688,-2.36132 0,-1.57032 0.8086,-2.4375 0.80859,-0.86719 2.09765,-0.86719 1.24805,0 2.03907,0.84961 0.79101,0.84961 0.79101,2.39062 0,0.0937 -0.006,0.28125 h -4.64062 q 0.0586,1.02539 0.58007,1.57032 0.52149,0.54492 1.30079,0.54492 0.58007,0 0.99023,-0.30469 0.41016,-0.30469 0.65039,-0.97266 z m -3.46289,-1.70507 h 3.47461 q -0.0703,-0.78516 -0.39844,-1.17774 -0.5039,-0.60937 -1.30664,-0.60937 -0.72656,0 -1.22461,0.48632 -0.49219,0.48633 -0.54492,1.30079 z"
+           id="path1119" />
+      </g>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-224-199-132-58-0)"
+       font-size="12px"
+       id="g542"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPaiement%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="225.5"
+         y="211.5"
+         id="text538">Paiement</text>
+      <text
+         x="225.5"
+         y="239.5"
+         id="text540">Recuperation_Ticket</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 59.621316,149.02003 v -12.61816 h 44.190774 v 12.61816"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path544" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 59.621316,149.02003 v 50.47263 h 44.190774 v -50.47263"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path546" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 59.621316,149.02003 H 103.81209"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path548" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g552"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="304.5"
+         y="301"
+         id="text550">Machine_Validation</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-224-313-162-26-0)"
+       font-size="12px"
+       id="g556"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FInsertion%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="225.5"
+         y="325.5"
+         id="text554">InsérerTicket</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 104.33198,179.10949 h 19.69349"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path558" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 120.93731,182.26402 3.3793,-3.15453 -3.3793,-3.15454"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path560" />
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-224-339-162-78-0)"
+       font-size="12px"
+       id="g568"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPasse%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank);">
+      <text
+         x="225.5"
+         y="351.5"
+         id="text562">PasserPorte</text>
+      <text
+         x="225.5"
+         y="379.5"
+         id="text564">ValiderCarteNavigo</text>
+      <text
+         x="225.5"
+         y="407.5"
+         id="text566">PasserPorte</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 59.621316,230.06743 v -12.61816 h 44.190774 v 12.61816"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path570" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 59.621316,230.06743 v 26.20694 h 44.190774 v -26.20694"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path572" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 59.621316,230.06743 H 103.81209"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path574" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g578"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="304.5"
+         y="468"
+         id="text576">Passage</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-224-480-162-26-0)"
+       font-size="12px"
+       id="g582"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="225.5"
+         y="492.5"
+         id="text580">Ticket</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-224-506-162-28-0)"
+       font-size="12px"
+       id="g586"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="225.5"
+         y="518.5"
+         id="text584">CarteNavigo</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 112.00038,90.782377 V 78.164219 h 36.3924 v 12.618158"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path588" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 112.00038,90.782377 v 31.060083 h 36.3924 V 90.782377"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path590" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 112.00038,90.782377 h 36.3924"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path592" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g596"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FInterface%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="491"
+         y="181"
+         id="text594">Interface</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-426-193-132-26-0)"
+       font-size="12px"
+       id="g600"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="427"
+         y="205.5"
+         id="text598">Paiement</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 148.00286,101.45928 15.7969,-0.93665"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path602" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 160.7662,103.85673 3.3221,-3.34866 -3.43128,-2.955566"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path604" />
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-426-219-132-38-0)"
+       font-size="12px"
+       id="g608"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="427"
+         y="231.5"
+         id="text606">RecuperationTicket</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 164.37944,78.649533 V 66.031375 h 49.38969 v 12.618158"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path610" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 164.37944,78.649533 v 55.325777 h 49.38969 V 78.649533"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path612" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 164.37944,78.649533 h 49.38969"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path614" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g618"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FCarte_Navigo%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="717.5"
+         y="156"
+         id="text616">NuméroCarteNavigo</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-627-168-182-26-0)"
+       font-size="12px"
+       id="g622"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPrix%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="628.5"
+         y="180.5"
+         id="text620">Prix_Chargement</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-627-194-182-88-0)"
+       font-size="12px"
+       id="g630"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FTicket%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="628.5"
+         y="206.5"
+         id="text624">Choix_Mode_Chargement</text>
+      <text
+         x="628.5"
+         y="234.5"
+         id="text626">Carte_Bancaire/Espéce</text>
+      <text
+         x="628.5"
+         y="262.5"
+         id="text628">Ticket/Reçu</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 124.60775,159.69693 v -12.61815 h 36.3924 v 12.61815"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path632" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 124.60775,159.69693 v 31.06009 h 36.3924 v -31.06009"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path634" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 124.60775,159.69693 h 36.3924"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path636" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g640"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FSignal%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="539.5"
+         y="323"
+         id="text638">Signal</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-474-335-132-26-0)"
+       font-size="12px"
+       id="g644"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FMachine%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="475.5"
+         y="347.5"
+         id="text642">SignalVertMachine</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-474-361-132-38-0)"
+       font-size="12px"
+       id="g648"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FMachine%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="475.5"
+         y="373.5"
+         id="text646">SignalRougeMachine</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 173.99744,161.15288 v -12.61816 h 36.3924 v 12.61816"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path650" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 173.99744,161.15288 v 26.20694 h 36.3924 v -26.20694"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path652" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 173.99744,161.15288 h 36.3924"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path654" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g658"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FR%C3%A9ponse%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="729.5"
+         y="326"
+         id="text656">Réponse</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-664-338-132-26-0)"
+       font-size="12px"
+       id="g662"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPasse%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="665.5"
+         y="350.5"
+         id="text660">Passer</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-664-364-132-28-0)"
+       font-size="12px"
+       id="g666"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FCarte%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="665.5"
+         y="376.5"
+         id="text664">CarteNonValide</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 173.99744,268.89253 v -12.61816 h 36.3924 v 12.61816"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path668" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 173.99744,268.89253 v 26.20694 h 36.3924 v -26.20694"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path670" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 173.99744,268.89253 h 36.3924"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path672" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g676"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="729.5"
+         y="548"
+         id="text674">Réponse</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-664-560-132-26-0)"
+       font-size="12px"
+       id="g680"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="665.5"
+         y="572.5"
+         id="text678">AcheterNouveauTicket</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-664-586-132-28-0)"
+       font-size="12px"
+       id="g684"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FAchat%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="665.5"
+         y="598.5"
+         id="text682">RechargerCarteNavigo</text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 127.98704,275.68692 v -12.61815 h 36.3924 v 12.61815"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path686" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 127.98704,275.68692 v 12.61816 h 36.3924 v -12.61816"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path688" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 127.98704,275.68692 h 36.3924"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path690" />
+    <g
+       style="font-weight:bold;font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+       font-weight="bold"
+       font-size="15px"
+       id="g694"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FR%C3%A9clamation_client%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+      <text
+         x="552.5"
+         y="562"
+         id="text692">Réclamation</text>
+    </g>
+    <g
+       style="font-size:12px;font-family:Helvetica;fill:#000000"
+       clip-path="url(#mx-clip-487-574-132-26-0)"
+       font-size="12px"
+       id="g698"
+       transform="matrix(0.25994573,0,0,0.48531376,2.4332556,-0.45660998)">
+      <text
+         x="488.5"
+         y="586.5"
+         id="text696">RéclamationAccueil</text>
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.35518339"
+       x="2.4332557"
+       y="-0.45660999"
+       width="36.392403"
+       height="19.41255"
+       pointer-events="none"
+       id="rect700" />
+    <g
+       transform="matrix(0.25994573,0,0,0.48531376,6.7223601,5.1244983)"
+       id="g706"
+       onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FGare%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank);">
+      <switch
+         id="switch704">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="106"
+           height="16"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 106px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">GareSaintDenis</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           x="53"
+           y="16"
+           font-size="15px"
+           id="text702">GareSaintDenis</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 38.825658,65.546061 59.145616,38.989692"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path708" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 57.583342,44.881401 1.798824,-6.20231 -3.73542,1.033719"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path710" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 39.085604,69.913885 59.166411,99.814066"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path712" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 55.698735,98.683285 3.696429,1.465655 -1.590868,-6.396443"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path714" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 96.273664,96.606142 15.274406,0.465901"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path716" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 108.43392,100.13438 3.40529,-3.052631 -3.3507,-3.256455"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path718" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 38.825658,198.52204 59.163812,168.617"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path720" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 57.7835,174.66401 1.609064,-6.38187 -3.699028,1.42682"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path722" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 38.825658,199.49266 20.374546,36.13647"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path724" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 55.797515,233.94509 3.613245,2.05773 -1.286731,-6.63424"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path726" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 103.81209,166.00601 h 20.21338"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path728" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 120.93731,169.16055 3.3793,-3.15454 -3.3793,-3.15454"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path730" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 161.00015,167.46195 h 12.41501"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path732" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 170.327,170.61649 3.3793,-3.15454 -3.3793,-3.15453"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path734" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 161.00015,181.53605 12.41761,-0.92695"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path736" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 170.39719,183.99174 3.30911,-3.4069 -3.44428,-2.89732"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path738" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 192.19364,187.35982 v 67.82745"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path740" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 190.50399,249.42174 1.68965,6.30908 1.68964,-6.30908"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path742" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 192.19364,187.84513 -38.99446,74.44713"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path744" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 154.15058,255.96377 -1.15416,6.71674 3.56905,-2.30524"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path746" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 37.785875,107.76836 59.483545,64.395868"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path748" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35518339;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 58.610127,70.763184 1.073576,-6.760421 -3.54306,2.455688"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path750" />
+  </g>
+</svg>
