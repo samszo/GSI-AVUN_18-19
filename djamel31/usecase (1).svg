@@ -383,7 +383,8 @@ Booking, Expédia, Agooda, Hotelbed</xhtml:div>
      cx="496" />
   <g
      id="g286"
-     transform="translate(448.5,91.5)">
+     transform="translate(448.5,91.5)"
+     onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FInformation%3E+%3Fpre+%3Fobjet+%7D%0D%0A&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');">
     <switch
        id="switch284">
       <foreignObject
