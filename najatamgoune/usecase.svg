@@ -46,8 +46,8 @@
      id="namedview5789"
      showgrid="false"
      inkscape:zoom="1.4254587"
-     inkscape:cx="371.21079"
-     inkscape:cy="470.72265"
+     inkscape:cx="291.46591"
+     inkscape:cy="380.54453"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1296,8 +1296,7 @@
          pointer-events="none"
          cy="283.64786"
          cx="182.81003"
-         onclick="window.open('​goo.gl/16Dndh
-', '_blank');" />
+         onclick="window.open('​goo.gl/16Dndh ', '_blank');" />
       <switch
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -1491,7 +1490,9 @@
          inkscape:export-xdpi="96"
          clip-path="url(#clipPath1174)"
          transform="matrix(0.98849137,0,0,1.0000057,159.82473,376.5001)"
-         id="switch5483">
+         id="switch5483"
+         onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPi%C3%A8ce_de_monnaie%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on
+', '_blank');">
         <foreignObject
            style="overflow:visible;"
            pointer-events="all"
@@ -1579,7 +1580,9 @@
          inkscape:export-xdpi="96"
          clip-path="url(#clipPath1158)"
          transform="matrix(0.98849137,0,0,1.0000057,209.07183,522.39864)"
-         id="switch5499">
+         id="switch5499"
+         onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FEuro%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on
+', '_blank');">
         <foreignObject
            style="overflow:visible;"
            pointer-events="all"
@@ -3013,8 +3016,7 @@
          pointer-events="none"
          cy="147.08377"
          cx="161.92308"
-         Onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPr%C3%A9paration_de_commandes%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on
-', '_blank');" />
+         Onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPr%C3%A9paration_de_commandes%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');" />
       <text
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
