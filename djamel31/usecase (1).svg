@@ -1,2 +1,747 @@
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="691px" height="577px" viewBox="-0.5 -0.5 691 577" content="&lt;mxfile modified=&quot;2019-03-27T16:13:16.571Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36&quot; etag=&quot;u5T08NOkc-f5BupZ9hlK&quot; version=&quot;10.5.9&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;1ocMKj6U9hXDo1D4P4MS&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);"><defs/><g><ellipse cx="40" cy="177" rx="7.5" ry="7.5" fill="#ffffff" stroke="#000000" pointer-events="none"/><path d="M 40 184.5 L 40 209.5 M 40 189.5 L 25 189.5 M 40 189.5 L 55 189.5 M 40 209.5 L 25 229.5 M 40 209.5 L 55 229.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><g transform="translate(25.5,237.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="28" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Actor</div></div></foreignObject><text x="14" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Actor</text></switch></g><rect x="150" y="0" width="540" height="540" fill="none" stroke="#36393d" pointer-events="none"/><ellipse cx="485" cy="261" rx="50" ry="50" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(436.5,233.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="96" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Créer une réservation sur le plannig des chambre </div></div></foreignObject><text x="48" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><ellipse cx="613" cy="383" rx="43" ry="43" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(571.5,369.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="82" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 82px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Accueil du client </div></div></foreignObject><text x="41" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Accueil du client </text></switch></g><path d="M 357 471 L 334 471 L 334 476 L 316.37 476" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 311.12 476 L 318.12 472.5 L 316.37 476 L 318.12 479.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="402" cy="471" rx="45" ry="45" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(358.5,443.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="86" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 86px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Attribution de la chambre et remise des clefs </div></div></foreignObject><text x="43" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><ellipse cx="265" cy="476" rx="45" ry="45" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(221.5,448.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="86" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 86px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Clôture de réservation le jour de départ client</div></div></foreignObject><text x="43" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><ellipse cx="527" cy="471" rx="50" ry="50" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(478.5,450.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="96" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">effectuer le dernier enregistrement </div></div></foreignObject><text x="48" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">effectuer le dernier enregistrement </text></switch></g><ellipse cx="263" cy="170" rx="82.5" ry="82.5" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(181.5,128.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="161" height="82" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 161px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Traiter toutes les réservation sur les tours opérateurs associé au logiciel de réservation "Meuse"<br />Booking, Expédia, Agooda, Hotelbed</div></div></foreignObject><text x="81" y="47" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><ellipse cx="635" cy="76" rx="45" ry="45" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(591.5,48.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="86" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 86px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Mail d'annulation pour le client avec le motif </div></div></foreignObject><text x="43" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><ellipse cx="640" cy="178" rx="40" ry="40" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(601.5,157.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="76" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Mail de confirmation pour le client</div></div></foreignObject><text x="38" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><ellipse cx="496" cy="105" rx="49" ry="49" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(448.5,77.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="94" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 94px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Vérifier les coordonnés bancaire du client  </div></div></foreignObject><text x="47" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><g transform="translate(-0.5,246.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="80" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Réceptionniste Hôtel </div></div></foreignObject><text x="40" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Réceptionniste Hôtel </text></switch></g><path d="M 542.82 90.55 L 583.92 77.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 588.93 76.33 L 583.27 81.74 L 583.92 77.88 L 581.21 75.05 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 522 146 L 595.25 165.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 600.32 167.24 L 592.64 168.78 L 595.25 165.86 L 594.48 162.03 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 490 155 L 491.76 202.64" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 491.96 207.88 L 488.2 201.02 L 491.76 202.64 L 495.2 200.76 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 520 296 L 572.58 350.42" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 576.22 354.2 L 568.84 351.59 L 572.58 350.42 L 573.88 346.73 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 572 390 L 532.24 417.39" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 527.92 420.37 L 531.7 413.51 L 532.24 417.39 L 535.67 419.28 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 477 463 L 453.08 465.55" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 447.86 466.11 L 454.45 461.89 L 453.08 465.55 L 455.19 468.85 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="210" cy="336" rx="40" ry="40" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(170.5,315.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="79" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 79px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Commentaires clients sur la prestation </div></div></foreignObject><text x="40" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><path d="M 248 435 L 222.39 371.9" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 220.42 367.04 L 226.3 372.21 L 222.39 371.9 L 219.81 374.84 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="327" cy="334" rx="42.5" ry="42.5" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(285.5,320.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="81" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 81px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">réponse aux commentaitres </div></div></foreignObject><text x="41" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">réponse aux commentaitres </text></switch></g><g transform="translate(380.5,547.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="258" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 258px; white-space: normal; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Diagramme de cas d'utilisation de logiciel de réservation à l'hôtel "Mews"</div></div></foreignObject><text x="129" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Diagramme de cas d'utilisation de logiciel de réservation à l'hôtel "Mews"</text></switch></g><ellipse cx="365" cy="36" rx="82.5" ry="30" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(286.5,29.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="155" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 155px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"><span>Logiciel de reservation Mews</span></div></div></foreignObject><text x="78" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">&lt;span&gt;Logiciel de reservation Mews&lt;/span&gt;</text></switch></g><path d="M 60 196 L 276.83 39.72" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 281.09 36.65 L 277.46 43.59 L 276.83 39.72 L 273.37 37.91 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 60 196 L 174.36 180.87" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 179.57 180.18 L 173.09 184.57 L 174.36 180.87 L 172.17 177.63 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 303 96 L 329.57 68.57" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 333.22 64.8 L 330.87 72.27 L 329.57 68.57 L 325.84 67.4 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 200 296 L 245.5 250.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 249.21 246.79 L 246.73 254.22 L 245.5 250.5 L 241.78 249.27 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 311.17 287.1 L 299.03 251.04" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 312.84 292.08 L 307.29 286.56 L 311.17 287.1 L 313.93 284.33 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 297.36 246.06 L 302.91 251.58 L 299.03 251.04 L 296.27 253.81 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 423 57 L 449.74 74.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 454.12 77.46 L 446.35 76.54 L 449.74 74.58 L 450.2 70.69 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="691px"
+   height="577px"
+   viewBox="-0.5 -0.5 691 577"
+   content="&lt;mxfile modified=&quot;2019-03-27T17:30:24.813Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36&quot; etag=&quot;tz0NXk-4ls45Kraygfyy&quot; version=&quot;10.5.9&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;1ocMKj6U9hXDo1D4P4MS&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg380"
+   sodipodi:docname="usecase (1).svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata384">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     id="namedview382"
+     showgrid="false"
+     inkscape:zoom="1.1074523"
+     inkscape:cx="28.556333"
+     inkscape:cy="288.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg380" />
+  <defs
+     id="defs198" />
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="7.5"
+     id="ellipse200"
+     pointer-events="none"
+     cy="177"
+     cx="40" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path202"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 40,184.5 v 25 m 0,-20 H 25 m 15,0 h 15 m -15,20 -15,20 m 15,-20 15,20"
+     onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FManager%3E+%3Fpre+%3Fobjet+%7D%0D%0A&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');" />
+  <g
+     id="g208"
+     transform="translate(25.5,237.5)">
+    <switch
+       id="switch206">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="28"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Actor</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text204"
+         font-size="12px"
+         y="12"
+         x="14">Actor</text>
+    </switch>
+  </g>
+  <rect
+     style="fill:none;stroke:#36393d"
+     id="rect210"
+     pointer-events="none"
+     height="540"
+     width="540"
+     y="0"
+     x="150" />
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="50"
+     id="ellipse212"
+     pointer-events="none"
+     cy="261"
+     cx="485" />
+  <g
+     id="g218"
+     transform="translate(436.5,233.5)">
+    <switch
+       id="switch216">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="54"
+         width="96"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Créer une réservation sur le plannig des chambre </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text214"
+         font-size="12px"
+         y="33"
+         x="48">[Not supported by viewer]</text>
+    </switch>
+  </g>
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="43"
+     id="ellipse220"
+     pointer-events="none"
+     cy="383"
+     cx="613" />
+  <g
+     id="g226"
+     transform="translate(571.5,369.5)">
+    <switch
+       id="switch224">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="26"
+         width="82"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 82px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Accueil du client </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text222"
+         font-size="12px"
+         y="19"
+         x="41">Accueil du client</text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path228"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 357,471 h -23 v 5 h -17.63" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path230"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 311.12,476 7,-3.5 -1.75,3.5 1.75,3.5 z" />
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="45"
+     id="ellipse232"
+     pointer-events="none"
+     cy="471"
+     cx="402" />
+  <g
+     id="g238"
+     transform="translate(358.5,443.5)">
+    <switch
+       id="switch236">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="54"
+         width="86"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 86px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Attribution de la chambre et remise des clefs </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text234"
+         font-size="12px"
+         y="33"
+         x="43">[Not supported by viewer]</text>
+    </switch>
+  </g>
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="45"
+     id="ellipse240"
+     pointer-events="none"
+     cy="476"
+     cx="265" />
+  <g
+     id="g246"
+     transform="translate(221.5,448.5)">
+    <switch
+       id="switch244">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="54"
+         width="86"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 86px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Clôture de réservation le jour de départ client</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text242"
+         font-size="12px"
+         y="33"
+         x="43">[Not supported by viewer]</text>
+    </switch>
+  </g>
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="50"
+     id="ellipse248"
+     pointer-events="none"
+     cy="471"
+     cx="527" />
+  <g
+     id="g254"
+     transform="translate(478.5,450.5)">
+    <switch
+       id="switch252">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="40"
+         width="96"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">effectuer le dernier enregistrement </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text250"
+         font-size="12px"
+         y="26"
+         x="48">effectuer le dernier enregistrement</text>
+    </switch>
+  </g>
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="82.5"
+     id="ellipse256"
+     pointer-events="none"
+     cy="170"
+     cx="263"
+     onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPlateforme%3E+%3Fpre+%3Fobjet+%7D%0D%0A&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');" />
+  <g
+     id="g262"
+     transform="translate(181.5,149.5)">
+    <switch
+       id="switch260">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="40"
+         width="161"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 161px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Plateforme : <xhtml:br />
+
+Booking, Expédia, Agooda, Hotelbed</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text258"
+         font-size="12px"
+         y="26"
+         x="81"
+         onclick=" window.open'http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPlateforme%3E+%3Fpre+%3Fobjet+%7D%0D%0A&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');
+">Plateforme : &lt;br&gt;Booking, Expédia, Agooda, Hotelbed</text>
+    </switch>
+  </g>
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="45"
+     id="ellipse264"
+     pointer-events="none"
+     cy="76"
+     cx="635" />
+  <g
+     id="g270"
+     transform="translate(591.5,48.5)">
+    <switch
+       id="switch268">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="54"
+         width="86"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 86px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Mail d'annulation pour le client avec le motif </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text266"
+         font-size="12px"
+         y="33"
+         x="43">[Not supported by viewer]</text>
+    </switch>
+  </g>
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="40"
+     id="ellipse272"
+     pointer-events="none"
+     cy="178"
+     cx="640" />
+  <g
+     id="g278"
+     transform="translate(601.5,157.5)">
+    <switch
+       id="switch276">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="40"
+         width="76"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Mail de confirmation pour le client</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text274"
+         font-size="12px"
+         y="26"
+         x="38">[Not supported by viewer]</text>
+    </switch>
+  </g>
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="49"
+     id="ellipse280"
+     pointer-events="none"
+     cy="105"
+     cx="496" />
+  <g
+     id="g286"
+     transform="translate(448.5,91.5)">
+    <switch
+       id="switch284">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="26"
+         width="94"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 94px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Information Banque</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text282"
+         font-size="12px"
+         y="19"
+         x="47">Information Banque</text>
+    </switch>
+  </g>
+  <g
+     id="g292"
+     transform="translate(0.5,246.5)"
+     onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FManager%3E+%3Fpre+%3Fobjet+%7D%0D%0A&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');">
+    <switch
+       id="switch290">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="26"
+         width="78"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 78px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Manager Hotel </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text288"
+         font-size="12px"
+         y="19"
+         x="39">Manager Hotel </text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path294"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 542.82,90.55 41.1,-12.67" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path296"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 588.93,76.33 -5.66,5.41 0.65,-3.86 -2.71,-2.83 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path298"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 522,146 73.25,19.86" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path300"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 600.32,167.24 -7.68,1.54 2.61,-2.92 -0.77,-3.83 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path302"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 490,155 1.76,47.64" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path304"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 491.96,207.88 -3.76,-6.86 3.56,1.62 3.44,-1.88 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path306"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 520,296 52.58,54.42" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path308"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 576.22,354.2 -7.38,-2.61 3.74,-1.17 1.3,-3.69 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path310"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 572,390 -39.76,27.39" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path312"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 527.92,420.37 3.78,-6.86 0.54,3.88 3.43,1.89 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path314"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 477,463 -23.92,2.55" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path316"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 447.86,466.11 6.59,-4.22 -1.37,3.66 2.11,3.3 z" />
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="40"
+     id="ellipse318"
+     pointer-events="none"
+     cy="336"
+     cx="210" />
+  <g
+     id="g324"
+     transform="translate(170.5,315.5)">
+    <switch
+       id="switch322">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="40"
+         width="79"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 79px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Commentaires clients sur la prestation </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text320"
+         font-size="12px"
+         y="26"
+         x="40">[Not supported by viewer]</text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path326"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 248,435 222.39,371.9" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path328"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 220.42,367.04 5.88,5.17 -3.91,-0.31 -2.58,2.94 z" />
+  <circle
+     style="fill:#ffffff;stroke:#000000"
+     r="42.5"
+     id="ellipse330"
+     pointer-events="none"
+     cy="334"
+     cx="327" />
+  <g
+     id="g336"
+     transform="translate(285.5,320.5)">
+    <switch
+       id="switch334">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="26"
+         width="81"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 81px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">réponse aux commentaitres </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text332"
+         font-size="12px"
+         y="19"
+         x="41">réponse aux commentaitres</text>
+    </switch>
+  </g>
+  <g
+     id="g342"
+     transform="translate(380.5,547.5)">
+    <switch
+       id="switch340">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="26"
+         width="258"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 258px; white-space: normal; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Diagramme de cas d'utilisation de logiciel de réservation à l'hôtel &quot;Mews&quot;</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text338"
+         font-size="12px"
+         y="19"
+         x="129">Diagramme de cas d'utilisation de logiciel de réservation à l'hôtel &quot;Mews&quot;</text>
+    </switch>
+  </g>
+  <ellipse
+     style="fill:#ffffff;stroke:#000000"
+     id="ellipse344"
+     pointer-events="none"
+     ry="30"
+     rx="82.5"
+     cy="36"
+     cx="365" />
+  <g
+     id="g350"
+     transform="translate(317.5,29.5)">
+    <switch
+       id="switch348">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="93"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 93px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <xhtml:span>Plateforme Mews</xhtml:span>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text346"
+         font-size="12px"
+         y="12"
+         x="47">&lt;span&gt;Plateforme Mews&lt;/span&gt;</text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path352"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 60,196 276.83,39.72" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path354"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 281.09,36.65 -3.63,6.94 -0.63,-3.87 -3.46,-1.81 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path356"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 60,196 174.36,180.87" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path358"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 179.57,180.18 -6.48,4.39 1.27,-3.7 -2.19,-3.24 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path360"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 303,96 329.57,68.57" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path362"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 333.22,64.8 -2.35,7.47 -1.3,-3.7 -3.73,-1.17 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path364"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 200,296 45.5,-45.5" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path366"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 249.21,246.79 -2.48,7.43 -1.23,-3.72 -3.72,-1.23 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path368"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="M 311.17,287.1 299.03,251.04" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path370"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 312.84,292.08 -5.55,-5.52 3.88,0.54 2.76,-2.77 z" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path372"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 297.36,246.06 5.55,5.52 -3.88,-0.54 -2.76,2.77 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path374"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 423,57 26.74,17.58" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path376"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 454.12,77.46 -7.77,-0.92 3.39,-1.96 0.46,-3.89 z" />
+</svg>
