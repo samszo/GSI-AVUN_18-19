@@ -45,9 +45,9 @@
      inkscape:window-height="706"
      id="namedview5789"
      showgrid="false"
-     inkscape:zoom="1.4254587"
-     inkscape:cx="291.46591"
-     inkscape:cy="380.54453"
+     inkscape:zoom="0.96459612"
+     inkscape:cx="456.23413"
+     inkscape:cy="282.18395"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1222,1893 +1222,1905 @@
     <g
        id="g1413"
        transform="matrix(0.78541132,0,0,0.83802799,111.78029,58.21969)">
-      <rect
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1226)"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.99423182"
-         id="rect5435"
-         pointer-events="none"
-         height="715.00403"
-         width="820.44781"
-         y="1.9408823"
-         x="86.650154" />
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1222)"
-         ry="10.000056"
-         rx="9.8849134"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.99423182"
-         id="ellipse5437"
-         pointer-events="none"
-         cy="290.9996"
-         cx="26.872643" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1218)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5439"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 26.872642,297.99965 v 25.00014 m 0,-20.00011 H 12.045271 m 14.827371,0 h 14.82737 m -14.82737,20.00011 -14.827371,20.00012 m 14.827371,-20.00012 14.82737,20.00012" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1214)"
-         transform="matrix(0.98849137,0,0,1.0000057,12.539517,350.49995)"
-         id="switch5443">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="28"
-           height="12"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Actor</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="14"
-           y="12"
-           font-size="12px"
-           id="text5441"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00001812px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             y="12"
-             x="14"
-             id="tspan1253"
-             sodipodi:role="line">Client</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1210)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.680902"
-         id="ellipse5447"
-         pointer-events="none"
-         cy="283.64786"
-         cx="182.81003"
-         onclick="window.open('​goo.gl/16Dndh ', '_blank');" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1206)"
-         Onclick="window.open('​goo.gl/16Dndh ', '_blank');"
-         transform="matrix(0.98849137,0,0,1.0000057,163.7787,276.49953)"
-         id="switch5451">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="32"
-           height="12"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 34px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Payer </xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="16"
-           y="12"
-           font-size="12px"
-           id="text5449"
-           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">Payer</text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1202)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.61541599"
-         id="ellipse5455"
-         pointer-events="none"
-         cy="134.62535"
-         cx="509.46365" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1198)"
-         Onclick="window.open('​goo.gl/9zNBgZ ', '_blank')"
-         transform="matrix(0.98849137,0,0,1.0000057,435.27205,118.52601)"
-         id="switch5459">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="156"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 156px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Passer le barcode devant le scanner  de borne</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="75.895416"
-           y="9.1786003"
-           font-size="12px"
-           id="text5457"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5809"
-             x="77.559479"
-             y="9.1786003">scanner </tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5811"
-             x="75.895416"
-             y="24.1786">le barcode</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1194)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.79227775"
-         id="ellipse5463"
-         pointer-events="none"
-         cy="98.78936"
-         cx="798.27832" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1190)"
-         transform="matrix(0.98849137,0,0,1.0000057,741.54435,74.766288)"
-         id="switch5467">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="116"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Cliquer sur &quot;Commencer&quot; </xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="58"
-           y="19"
-           font-size="12px"
-           id="text5465"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5805"
-             x="58"
-             y="19">Cliquer sur &quot;</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5807"
-             x="58"
-             y="34">Commencer&quot;</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1186)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.75894523"
-         id="ellipse5471"
-         pointer-events="none"
-         cy="235.14468"
-         cx="582.89044" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1182)"
-         id="switch5475"
-         transform="matrix(0.98849137,0,0,1.0000057,504.99988,209.15482)">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="156"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 156px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Valider la fin d'opération d'achat</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           Onclick="window.open('​goo.gl/kmcNup ', '_blank');"
-           x="78"
-           y="19"
-           font-size="12px"
-           id="text5473"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5795"
-             x="78"
-             y="19">Valider la fin</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5797"
-             x="78"
-             y="34">d'opération d'achat</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1178)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.72492498"
-         id="ellipse5479"
-         pointer-events="none"
-         cy="393.5769"
-         cx="210.44054" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1174)"
-         transform="matrix(0.98849137,0,0,1.0000057,159.82473,376.5001)"
-         id="switch5483"
-         onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPi%C3%A8ce_de_monnaie%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on
-', '_blank');">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="100"
-           height="12"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 102px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Payer en espèces</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="50"
-           y="12"
-           font-size="12px"
-           id="text5481"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5841"
-             x="50"
-             y="12">Payer en</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5843"
-             x="50"
-             y="27">espèces</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1170)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.70426631"
-         id="ellipse5487"
-         pointer-events="none"
-         cy="276.38348"
-         cx="338.38644" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1166)"
-         Onclick="window.open('​goo.gl/UnsHMt ', '_blank')"
-         transform="matrix(0.98849137,0,0,1.0000057,297.18731,271.4995)"
-         id="switch5491">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="76"
-           height="12"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Payer par CB</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="38"
-           y="12"
-           font-size="12px"
-           id="text5489"
-           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">Payer par CB</text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1162)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.72156924"
-         id="ellipse5495"
-         pointer-events="none"
-         cy="543.19965"
-         cx="251.67851" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1158)"
-         transform="matrix(0.98849137,0,0,1.0000057,209.07183,522.39864)"
-         id="switch5499"
-         onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FEuro%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on
-', '_blank');">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="86"
-           height="12"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 88px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Insérer l'argent</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="43"
-           y="12"
-           font-size="12px"
-           id="text5497"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5837"
-             x="43"
-             y="12">Insérer</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5839"
-             x="43"
-             y="27">l'argent</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1154)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.70454419"
-         id="ellipse5503"
-         pointer-events="none"
-         cy="608.96442"
-         cx="445.24783" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1150)"
-         transform="matrix(0.98849137,0,0,1.0000057,395.08568,596.50134)"
-         id="switch5507">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="104"
-           height="12"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 106px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Récupérer le reste</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="52"
-           y="12"
-           font-size="12px"
-           id="text5505"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5829"
-             x="52"
-             y="12">Récupérer</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5831"
-             x="52"
-             y="27">le reste</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1146)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.74691778"
-         id="ellipse5511"
-         pointer-events="none"
-         cy="358.70151"
-         cx="468.93695" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1142)"
-         transform="matrix(0.98849137,0,0,1.0000057,436.60232,351.49996)"
-         id="switch5515">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="60"
-           height="12"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 62px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Insérer CB</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="30"
-           y="12"
-           font-size="12px"
-           id="text5513"
-           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">Insérer CB</text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1138)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.76679647"
-         id="ellipse5519"
-         pointer-events="none"
-         cy="499.31458"
-         cx="468.48492" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1134)"
-         transform="matrix(0.98849137,0,0,1.0000057,408.92456,479.50068)"
-         id="switch5523">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="116"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Entrer le code de CB</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="58"
-           y="19"
-           font-size="12px"
-           id="text5521"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5825"
-             x="58"
-             y="19">Entrer le code</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5827"
-             x="58"
-             y="34">de CB</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1130)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.67120689"
-         id="ellipse5527"
-         pointer-events="none"
-         cy="464.05933"
-         cx="624.47485" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1126)"
-         transform="matrix(0.98849137,0,0,1.0000057,551.47409,447.75312)"
-         id="switch5531">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="146"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 146px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Accepter paiement par CB</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="73"
-           y="19"
-           font-size="12px"
-           id="text5529"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5821"
-             x="73"
-             y="19">Accepter paiement</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5823"
-             x="73"
-             y="34">par CB</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1122)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.69962412"
-         id="ellipse5535"
-         pointer-events="none"
-         cy="418.82248"
-         cx="824.65753" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1118)"
-         transform="matrix(0.98849137,0,0,1.0000057,792.45921,416.50032)"
-         id="switch5539">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="60"
-           height="12"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 60px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Retirer CB</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="30"
-           y="12"
-           font-size="12px"
-           id="text5537"
-           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">Retirer CB</text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1114)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.75856996"
-         id="ellipse5543"
-         pointer-events="none"
-         cy="377.73862"
-         cx="632.8847" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1110)"
-         transform="matrix(0.98849137,0,0,1.0000057,567.60009,358.27553)"
-         id="switch5547">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="136"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Refuser paiement par CB</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="68"
-           y="19"
-           font-size="12px"
-           id="text5545"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5817"
-             x="68"
-             y="19">Refuser paiement</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5819"
-             x="68"
-             y="34">par CB</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1106)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.70148778"
-         id="ellipse5551"
-         pointer-events="none"
-         cy="648.77094"
-         cx="807.8443" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1102)"
-         transform="matrix(0.98849137,0,0,1.0000057,738.04163,623.98899)"
-         id="switch5555">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="136"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Retirer reçu de paiement</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="68"
-           y="19"
-           font-size="12px"
-           id="text5553"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5833"
-             x="68"
-             y="19">Retirer reçu</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5835"
-             x="68"
-             y="34">de paiement</tspan>
-        </text>
-      </switch>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1098)"
-         ry="40.000225"
-         rx="54.367027"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.86126274"
-         id="ellipse5559"
-         pointer-events="none"
-         cy="663.92548"
-         cx="220.03319" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1094)"
-         transform="matrix(0.98849137,0,0,1.0000057,145.23257,645.80644)"
-         id="switch5563">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="148"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 150px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:div>
-                <xhtml:b>Valider le reçu pour ouvrir</xhtml:b>
-              </xhtml:div>
-              <xhtml:div>
-                <xhtml:b>la barrière de sortie</xhtml:b>
-              </xhtml:div>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="74"
-           y="19"
-           font-size="12px"
-           id="text5561"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             y="19"
-             x="74"
-             id="tspan1215"
-             sodipodi:role="line">Valider le reçu pour</tspan>
-          <tspan
-             y="34"
-             x="74"
-             id="tspan1217"
-             sodipodi:role="line">sortie</tspan>
-        </text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1090)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02326465;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5569"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 34.777681,288.99562 91.215739,-5.99207" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1086)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02736568;stroke-miterlimit:10;stroke-dasharray:3.08209695, 3.08209695"
-         inkscape:connector-curvature="0"
-         id="path5571"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 209.74355,142.99877 h 240.3948" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1082)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5573"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 443.21891,146.49879 6.91944,-3.50002 -6.91944,-3.50002" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1078)"
-         transform="matrix(0.98849137,0,0,1.0000057,296.23654,129.4987)"
-         id="switch5577">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5575"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1074)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.09103131;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5589"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 34.774418,288.98987 133.54612,170.59347" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1070)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.1404357;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5591"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 34.774418,288.98987 180.19538,638.66853" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1066)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.52773106;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5593"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 197.37512,355.91695 195.2942,336.41224" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1062)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5595"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 190.38514,324.9936 10.00353,10.43006 -12.24741,3.92003 z" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1058)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02684176;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5597"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 287.13391,278.00429 -30.8483,1.40051" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1054)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5599"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 240.34724,280.03955 12.52418,-7.12004 0.62275,12.98007 z" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1050)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
-         inkscape:connector-curvature="0"
-         id="path5601"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 206.60014,155.84885 304.62339,70.10039" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1046)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5603"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 518.70628,230.67468 7.51254,-1.86001 -5.98038,-4.97003" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1042)"
-         transform="matrix(0.98849137,0,0,1.0000057,331.82223,177.49897)"
-         id="switch5607">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5605"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1038)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.88737142;stroke-miterlimit:10;stroke-dasharray:2.6621143, 2.6621143"
-         inkscape:connector-curvature="0"
-         id="path5611"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 565.06238,132.1488 741.45517,103.5241" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1034)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5613"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 736.80715,108.63858 5.66405,-5.33003 -7.61138,-1.38001" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1030)"
-         transform="matrix(0.98849137,0,0,1.0000057,637.75276,119.91698)"
-         id="switch5617">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5615"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1026)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.87248474;stroke-miterlimit:10;stroke-dasharray:2.61745406, 2.61745406"
-         inkscape:connector-curvature="0"
-         id="path5621"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 179.63222,238.77625 V 193.52563" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1022)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5623"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 183.54852,190.11904 -3.45972,-7.00004 -3.45972,7.00004" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1018)"
-         transform="matrix(0.98849137,0,0,1.0000057,152.90529,198.49909)"
-         id="switch5627">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5625"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1014)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.78857267;stroke-miterlimit:10;stroke-dasharray:2.36571807, 2.36571807"
-         inkscape:connector-curvature="0"
-         id="path5631"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 236.50938,503.98314 215.82802,441.71646" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1010)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5633"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 217.39209,439.7522 -5.47625,-5.53003 -1.08734,7.75005" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1006)"
-         transform="matrix(0.98849137,0,0,1.0000057,195.41042,449.50051)"
-         id="switch5637">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5635"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath1002)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
-         inkscape:connector-curvature="0"
-         id="path5641"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 422.66459,331.23984 384.62744,308.14971" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath998)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5643"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 391.38872,308.17971 -7.71023,-0.6 4.15166,6.60003" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath994)"
-         transform="matrix(0.98849137,0,0,1.0000057,403.9821,305.49969)"
-         id="switch5647">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5645"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath990)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
-         inkscape:connector-curvature="0"
-         id="path5651"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 745.30817,643.98161 508.48541,612.29143" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath986)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5653"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 514.70302,609.59142 -7.31484,2.56001 6.40543,4.38003" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath982)"
-         transform="matrix(0.98849137,0,0,1.0000057,597.72641,614.50144)"
-         id="switch5657">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5655"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath978)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02176392;stroke-miterlimit:10;stroke-dasharray:3.06529173, 3.06529173"
-         inkscape:connector-curvature="0"
-         id="path5661"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 814.80217,613.02366 7.68435,-156.21367" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath974)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5663"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 824.13333,464.21262 -3.09398,-7.17004 -3.81558,6.80004" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath970)"
-         transform="matrix(0.98849137,0,0,1.0000057,755.85734,525.42474)"
-         id="switch5667">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5665"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath966)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02158618;stroke-miterlimit:10;stroke-dasharray:3.06475838, 3.06475838"
-         inkscape:connector-curvature="0"
-         id="path5671"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 755.39204,669.00039 275.35216,663.03308" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath962)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5673"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 282.31114,659.63306 -6.95898,3.40002 6.87001,3.60002" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath958)"
-         transform="matrix(0.98849137,0,0,1.0000057,499.86576,652.50166)"
-         id="switch5677">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5675"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath954)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
-         inkscape:connector-curvature="0"
-         id="path5681"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 465.83813,397.07641 v 52.7603" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath950)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5683"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 463.29158,444.88048 3.45972,7.00004 3.45972,-7.00004" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath946)"
-         transform="matrix(0.98849137,0,0,1.0000057,404.86758,412.5003)"
-         id="switch5687">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5685"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath942)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.91762865;stroke-miterlimit:10;stroke-dasharray:5.75288533, 5.75288533"
-         inkscape:connector-curvature="0"
-         id="path5691"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 776.55794,417.10725 -85.70177,-29.246" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath938)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5693"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 695.39197,384.26743 -7.2753,2.67002 6.47462,4.28002" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath934)"
-         transform="matrix(0.98849137,0,0,1.0000057,710.04622,389.3803)"
-         id="switch5697">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="39.224457"
-           y="3.6862428"
-           font-size="10px"
-           id="text5695"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath930)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.23224068;stroke-miterlimit:10;stroke-dasharray:3.6967223, 3.6967223"
-         inkscape:connector-curvature="0"
-         id="path5701"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 794.2486,443.40582 682.02241,465.12081" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath926)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5703"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 686.30744,461.15219 -6.11876,4.79002 7.45323,2.08001" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath922)"
-         transform="matrix(0.98849137,0,0,1.0000057,705.36858,437.38057)"
-         id="switch5707">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5705"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath918)"
-         sodipodi:nodetypes="cc"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.56984425;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5711"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 578.58573,368.42361 534.36815,360.1392" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath914)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5713"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 521.81108,357.37368 13.74992,-4.21003 -2.17468,12.81008 z" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath910)"
-         sodipodi:nodetypes="cc"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.92237025;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5715"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 575.39138,441.85528 516.20296,395.56749" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath906)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.85278773;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5717"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 506.85826,387.90917 11.76318,1.85807 -6.07791,9.48595 z" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath902)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
-         inkscape:connector-curvature="0"
-         id="path5719"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 390.23219,591.37131 292.96463,571.4412" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath898)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5721"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 299.35029,569.18119 -7.46311,2.04001 6.08911,4.82003" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath894)"
-         transform="matrix(0.98849137,0,0,1.0000057,320.3462,562.88217)"
-         id="switch5725">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="55"
-           height="10"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="28"
-           y="10"
-           font-size="10px"
-           id="text5723"
-           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
       <g
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath890)"
-         id="g5733"
-         transform="matrix(0.98849137,0,0,1.0000057,298.21352,25.498109)">
+         id="g1001"
+         transform="matrix(1.0000195,0,0,0.9999557,0.12996859,0.01593606)">
+        <rect
+           x="86.650154"
+           y="1.9408823"
+           width="820.44781"
+           height="715.00403"
+           pointer-events="none"
+           id="rect5435"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.99423182"
+           clip-path="url(#clipPath1226)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <ellipse
+           cx="26.872643"
+           cy="290.9996"
+           pointer-events="none"
+           id="ellipse5437"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.99423182"
+           rx="9.8849134"
+           ry="10.000056"
+           clip-path="url(#clipPath1222)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 26.872642,297.99965 v 25.00014 m 0,-20.00011 H 12.045271 m 14.827371,0 h 14.82737 m -14.82737,20.00011 -14.827371,20.00012 m 14.827371,-20.00012 14.82737,20.00012"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5439"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath1218)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
         <switch
-           id="switch5731">
+           onclick="window.open('​https://goo.gl/EtGQpb', '_blank');"
+           id="switch5443"
+           transform="matrix(0.98849137,0,0,1.0000057,12.539517,350.49995)"
+           clip-path="url(#clipPath1214)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
           <foreignObject
              requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-             height="14"
-             width="263"
+             height="12"
+             width="28"
              pointer-events="all"
              style="overflow:visible;">
             <xhtml:div
-               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 263px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
               <xhtml:div
-                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-                <xhtml:font
-                   style="font-size: 14px">
-                  <xhtml:font>
-                    <xhtml:b>Borne de paiement Libre service à LIDL</xhtml:b>
-                  </xhtml:font>
-                </xhtml:font>
-              </xhtml:div>
-            </xhtml:div>
-          </foreignObject>
-          <text
-             Onclick="window.open('​goo.gl/QYSTXf ', '_blank')"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00029182px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
-             id="text5729"
-             font-size="10px"
-             y="2.7620497"
-             x="189.2753">
-            <tspan
-               y="2.7620497"
-               x="189.2753"
-               id="tspan1249"
-               sodipodi:role="line">Borne de paiement Libre service à</tspan>
-          </text>
-        </switch>
-      </g>
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath886)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.81345278"
-         id="ellipse5735"
-         pointer-events="none"
-         cy="205.80524"
-         cx="797.98419" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath882)"
-         transform="matrix(0.98849137,0,0,1.0000057,740.8509,181.08065)"
-         id="switch5739">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="116"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Afficher nom et prix de produit</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="58"
-           y="19"
-           font-size="12px"
-           id="text5737"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5813"
-             x="58"
-             y="19">Afficher nom et</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5815"
-             x="58"
-             y="34">prix de produit</tspan>
-        </text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath878)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.09677267;stroke-miterlimit:10;stroke-dasharray:3.29031811, 3.29031811"
-         inkscape:connector-curvature="0"
-         id="path5743"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 573.0851,158.48864 170.44189,44.50033" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath874)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5745"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 570.71571,147.17207 -14.03657,3.11002 10.88329,9.50005" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath870)"
-         transform="matrix(0.98849137,0,0,1.0000057,631.82181,157.2744)"
-         id="switch5749">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="59"
-           height="11"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;extend&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="30"
-           y="11"
-           font-size="11px"
-           id="text5747"
-           style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;extend&gt;&gt;</text>
-      </switch>
-      <rect
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath866)"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.90698624"
-         id="rect5753"
-         pointer-events="none"
-         height="80.087784"
-         width="106.8239"
-         y="292.95596"
-         x="922.92328" />
-      <g
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath862)"
-         id="g5759"
-         transform="matrix(0.98849137,0,0,1.0000057,914.40388,284.44239)">
-        <switch
-           id="switch5757">
-          <foreignObject
-             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-             height="78"
-             width="128"
-             pointer-events="all"
-             style="overflow:visible;">
-            <xhtml:div
-               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; height: 79px; overflow: hidden; width: 129px; white-space: normal; overflow-wrap: normal; text-align: center;">
-              <xhtml:p
-                 style="margin: 0px ; margin-top: 4px ; text-align: center">
-                <xhtml:b>
-                  <xhtml:br />
-                </xhtml:b>
-              </xhtml:p>
-              <xhtml:p
-                 style="margin: 0px ; margin-top: 4px ; text-align: center">
-                <xhtml:b>Système de Facturation</xhtml:b>
-              </xhtml:p>
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Actor</xhtml:div>
             </xhtml:div>
           </foreignObject>
           <text
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00001812px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
-             id="text5755"
+             id="text5441"
              font-size="12px"
-             y="45"
-             x="64">
+             y="12"
+             x="14">
             <tspan
-               y="45"
-               x="64"
-               id="tspan1221"
-               sodipodi:role="line">Système</tspan>
-            <tspan
-               y="60.000023"
-               x="64"
-               id="tspan1223"
-               sodipodi:role="line">d'informations</tspan>
+               sodipodi:role="line"
+               id="tspan1253"
+               x="14"
+               y="12">Client</tspan>
           </text>
         </switch>
-      </g>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath858)"
-         style="fill:none;stroke:#000000;stroke-width:1.05385506;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5761"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 827.94894,238.41365 93.47752,94.06222" />
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath854)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.82792985"
-         id="ellipse5763"
-         pointer-events="none"
-         cy="290.21237"
-         cx="768.31079" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath850)"
-         transform="matrix(0.98849137,0,0,1.0000057,710.32615,270.55823)"
-         id="switch5767">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="116"
-           height="26"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xhtml:b>Afficher la facture Finale</xhtml:b>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="58"
-           y="19"
-           font-size="12px"
-           id="text5765"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
-          <tspan
-             sodipodi:role="line"
-             id="tspan5801"
-             x="58"
-             y="19">Afficher la facture</tspan>
-          <tspan
-             sodipodi:role="line"
-             id="tspan5803"
-             x="58"
-             y="34">Finale</tspan>
-        </text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath846)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.3027463;stroke-miterlimit:10;stroke-dasharray:3.90823872, 3.90823872"
-         inkscape:connector-curvature="0"
-         id="path5771"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 706.68636,282.20272 638.52088,251.59834" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath842)"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5773"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 646.21134,250.72833 -7.69046,0.87001 5.30819,5.70003" />
-      <switch
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath838)"
-         transform="matrix(0.98849137,0,0,1.0000057,666.75938,253.37953)"
-         id="switch5777">
-        <foreignObject
-           style="overflow:visible;"
-           pointer-events="all"
-           width="61"
-           height="11"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="31"
-           y="11"
-           font-size="11px"
-           id="text5775"
-           style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
-      </switch>
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath834)"
-         style="fill:none;stroke:#000000;stroke-width:1.21729553;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5781"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="m 816.40402,306.7636 105.016,25.58199" />
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath830)"
-         style="fill:none;stroke:#000000;stroke-width:1.00904226;stroke-miterlimit:10"
-         inkscape:connector-curvature="0"
-         id="path5783"
-         pointer-events="none"
-         stroke-miterlimit="10"
-         d="M 852.11158,623.48762 954.94937,372.49488" />
-      <ellipse
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath826)"
-         ry="40.000225"
-         rx="54.367027"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.680902"
-         id="ellipse5447-4"
-         pointer-events="none"
-         cy="147.08377"
-         cx="161.92308"
-         Onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPr%C3%A9paration_de_commandes%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');" />
-      <text
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath822)"
-         id="text1181"
-         y="148.50304"
-         x="165.77126"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="164.12022"
-           x="165.77126"
-           id="tspan1185"
-           sodipodi:role="line" /></text>
-      <flowRoot
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath818)"
-         transform="translate(-0.5,-0.5)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot1187"
-         xml:space="preserve"><flowRegion
-           id="flowRegion1189"><rect
-             y="135.84486"
-             x="127.99299"
-             height="46.651649"
-             width="38.278278"
-             id="rect1191" /></flowRegion><flowPara
-           id="flowPara1193">Préparer la facturePréparer la facture</flowPara><flowPara
-           id="flowPara1197" /><flowPara
-           id="flowPara1199" /></flowRoot>      <text
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath814)"
-         transform="scale(1.1966039,0.83569846)"
-         id="text1203"
-         y="171.53076"
-         x="107.59925"
-         style="font-style:normal;font-weight:normal;font-size:33.04322815px;line-height:20.65201759px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82608068"
-         xml:space="preserve"><tspan
-           style="font-size:11.93078232px;line-height:1.24278975px;stroke-width:0.82608068"
-           y="171.53076"
-           x="107.59925"
-           id="tspan1201"
-           sodipodi:role="line">Préparer </tspan><tspan
-           style="font-size:11.93078232px;line-height:1.24278975px;stroke-width:0.82608068"
-           id="tspan1205"
-           y="192.18279"
-           x="107.59925"
-           sodipodi:role="line">la facture</tspan></text>
-      <g
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         clip-path="url(#clipPath810)"
-         id="g5733-7"
-         transform="matrix(0.98849137,0,0,1.0000057,402.65115,42.163776)"
-         style="display:inline">
+        <ellipse
+           cx="182.81003"
+           cy="283.64786"
+           pointer-events="none"
+           id="ellipse5447"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.680902"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1210)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
         <switch
-           id="switch5731-4">
+           id="switch5451"
+           transform="matrix(0.98849137,0,0,1.0000057,163.7787,276.49953)"
+           Onclick="window.open('​goo.gl/16Dndh ', '_blank');"
+           clip-path="url(#clipPath1206)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
           <foreignObject
              requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-             height="14"
-             width="263"
+             height="12"
+             width="32"
              pointer-events="all"
              style="overflow:visible;">
             <xhtml:div
-               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 263px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 34px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
               <xhtml:div
                  style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-                <xhtml:font
-                   style="font-size: 14px">
-                  <xhtml:font>
-                    <xhtml:b>Borne de paiement Libre service à LIDL</xhtml:b>
-                  </xhtml:font>
-                </xhtml:font>
+                <xhtml:b>Payer </xhtml:b>
               </xhtml:div>
             </xhtml:div>
           </foreignObject>
           <text
-             Onclick="window.open('​goo.gl/2XGDNG ', '_blank')"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00029182px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
-             id="text5729-7"
-             font-size="10px"
-             y="-14.30553"
-             x="231.86572">
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5449"
+             font-size="12px"
+             y="12"
+             x="16">Payer</text>
+        </switch>
+        <ellipse
+           cx="509.46365"
+           cy="134.62535"
+           pointer-events="none"
+           id="ellipse5455"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.61541599"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1202)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5459"
+           transform="matrix(0.98849137,0,0,1.0000057,435.27205,118.52601)"
+           Onclick="window.open('​goo.gl/9zNBgZ ', '_blank')"
+           clip-path="url(#clipPath1198)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="156"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 156px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Passer le barcode devant le scanner  de borne</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5457"
+             font-size="12px"
+             y="9.1786003"
+             x="75.895416">
             <tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00029182px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
-               y="-14.30553"
-               x="231.86572"
-               id="tspan1251"
-               sodipodi:role="line">LIDL</tspan>
+               y="9.1786003"
+               x="77.559479"
+               id="tspan5809"
+               sodipodi:role="line">scanner </tspan>
+            <tspan
+               y="24.1786"
+               x="75.895416"
+               id="tspan5811"
+               sodipodi:role="line">le barcode</tspan>
           </text>
         </switch>
+        <ellipse
+           cx="798.27832"
+           cy="98.78936"
+           pointer-events="none"
+           id="ellipse5463"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.79227775"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1194)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5467"
+           transform="matrix(0.98849137,0,0,1.0000057,741.54435,74.766288)"
+           clip-path="url(#clipPath1190)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="116"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Cliquer sur &quot;Commencer&quot; </xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5465"
+             font-size="12px"
+             y="19"
+             x="58">
+            <tspan
+               y="19"
+               x="58"
+               id="tspan5805"
+               sodipodi:role="line">Cliquer sur &quot;</tspan>
+            <tspan
+               y="34"
+               x="58"
+               id="tspan5807"
+               sodipodi:role="line">Commencer&quot;</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="582.89044"
+           cy="235.14468"
+           pointer-events="none"
+           id="ellipse5471"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.75894523"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1186)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FValidation%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           transform="matrix(0.98849137,0,0,1.0000057,504.99988,209.15482)"
+           id="switch5475"
+           clip-path="url(#clipPath1182)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="156"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 156px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Valider la fin d'opération d'achat</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5473"
+             font-size="12px"
+             y="19"
+             x="78"
+             Onclick="window.open('​goo.gl/kmcNup ', '_blank');">
+            <tspan
+               y="19"
+               x="78"
+               id="tspan5795"
+               sodipodi:role="line">Valider la fin</tspan>
+            <tspan
+               y="34"
+               x="78"
+               id="tspan5797"
+               sodipodi:role="line">d'opération d'achat</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="210.44054"
+           cy="393.5769"
+           pointer-events="none"
+           id="ellipse5479"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.72492498"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1178)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPi%C3%A8ce_de_monnaie%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           id="switch5483"
+           transform="matrix(0.98849137,0,0,1.0000057,159.82473,376.5001)"
+           clip-path="url(#clipPath1174)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="12"
+             width="100"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 102px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Payer en espèces</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5481"
+             font-size="12px"
+             y="12"
+             x="50">
+            <tspan
+               y="12"
+               x="50"
+               id="tspan5841"
+               sodipodi:role="line">Payer en</tspan>
+            <tspan
+               y="27"
+               x="50"
+               id="tspan5843"
+               sodipodi:role="line">espèces</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="338.38644"
+           cy="276.38348"
+           pointer-events="none"
+           id="ellipse5487"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.70426631"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1170)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5491"
+           transform="matrix(0.98849137,0,0,1.0000057,297.18731,271.4995)"
+           Onclick="window.open('​goo.gl/UnsHMt ', '_blank')"
+           clip-path="url(#clipPath1166)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="12"
+             width="76"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Payer par CB</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5489"
+             font-size="12px"
+             y="12"
+             x="38">Payer par CB</text>
+        </switch>
+        <ellipse
+           transform="translate(2.6795969,-1.6742366)"
+           cx="251.67851"
+           cy="543.19965"
+           pointer-events="none"
+           id="ellipse5495"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.72156924"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1162)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FEuro%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           id="switch5499"
+           transform="matrix(0.98849137,0,0,1.0000057,209.07183,522.39864)"
+           clip-path="url(#clipPath1158)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="12"
+             width="86"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 88px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Insérer l'argent</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5497"
+             font-size="12px"
+             y="12"
+             x="43">
+            <tspan
+               y="12"
+               x="43"
+               id="tspan5837"
+               sodipodi:role="line">Insérer</tspan>
+            <tspan
+               y="27"
+               x="43"
+               id="tspan5839"
+               sodipodi:role="line">l'argent</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="445.24783"
+           cy="608.96442"
+           pointer-events="none"
+           id="ellipse5503"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.70454419"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1154)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​ http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FReste%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
+           id="switch5507"
+           transform="matrix(0.98849137,0,0,1.0000057,395.08568,596.50134)"
+           clip-path="url(#clipPath1150)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="12"
+             width="104"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 106px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Récupérer le reste</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5505"
+             font-size="12px"
+             y="12"
+             x="52">
+            <tspan
+               y="12"
+               x="52"
+               id="tspan5829"
+               sodipodi:role="line">Récupérer</tspan>
+            <tspan
+               y="27"
+               x="52"
+               id="tspan5831"
+               sodipodi:role="line">le reste</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="468.93695"
+           cy="358.70151"
+           pointer-events="none"
+           id="ellipse5511"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.74691778"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1146)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5515"
+           transform="matrix(0.98849137,0,0,1.0000057,436.60232,351.49996)"
+           clip-path="url(#clipPath1142)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="12"
+             width="60"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 62px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Insérer CB</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5513"
+             font-size="12px"
+             y="12"
+             x="30">Insérer CB</text>
+        </switch>
+        <ellipse
+           cx="468.48492"
+           cy="499.31458"
+           pointer-events="none"
+           id="ellipse5519"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.76679647"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1138)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5523"
+           transform="matrix(0.98849137,0,0,1.0000057,408.92456,479.50068)"
+           clip-path="url(#clipPath1134)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="116"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Entrer le code de CB</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5521"
+             font-size="12px"
+             y="19"
+             x="58">
+            <tspan
+               y="19"
+               x="58"
+               id="tspan5825"
+               sodipodi:role="line">Entrer le code</tspan>
+            <tspan
+               y="34"
+               x="58"
+               id="tspan5827"
+               sodipodi:role="line">de CB</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="624.47485"
+           cy="464.05933"
+           pointer-events="none"
+           id="ellipse5527"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.67120689"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1130)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPaiement%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           id="switch5531"
+           transform="matrix(0.98849137,0,0,1.0000057,551.47409,447.75312)"
+           clip-path="url(#clipPath1126)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="146"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 146px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Accepter paiement par CB</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5529"
+             font-size="12px"
+             y="19"
+             x="73">
+            <tspan
+               y="19"
+               x="73"
+               id="tspan5821"
+               sodipodi:role="line">Accepter paiement</tspan>
+            <tspan
+               y="34"
+               x="73"
+               id="tspan5823"
+               sodipodi:role="line">par CB</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="824.65753"
+           cy="418.82248"
+           pointer-events="none"
+           id="ellipse5535"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.69962412"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1122)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5539"
+           transform="matrix(0.98849137,0,0,1.0000057,798.7116,412.31473)"
+           clip-path="url(#clipPath1118)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="12"
+             width="60"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 60px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Retirer CB</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5537"
+             font-size="12px"
+             y="12"
+             x="30">Retirer CB</text>
+        </switch>
+        <ellipse
+           cx="632.8847"
+           cy="377.73862"
+           pointer-events="none"
+           id="ellipse5543"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.75856996"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1114)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPaiement%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on"
+           id="switch5547"
+           transform="matrix(0.98849137,0,0,1.0000057,567.60009,358.27553)"
+           clip-path="url(#clipPath1110)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="136"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Refuser paiement par CB</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5545"
+             font-size="12px"
+             y="19"
+             x="68">
+            <tspan
+               y="19"
+               x="68"
+               id="tspan5817"
+               sodipodi:role="line">Refuser paiement</tspan>
+            <tspan
+               y="34"
+               x="68"
+               id="tspan5819"
+               sodipodi:role="line">par CB</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="807.8443"
+           cy="648.77094"
+           pointer-events="none"
+           id="ellipse5551"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.70148778"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1106)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FRe%C3%A7u%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           id="switch5555"
+           transform="matrix(0.98849137,0,0,1.0000057,738.04163,623.98899)"
+           clip-path="url(#clipPath1102)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="136"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Retirer reçu de paiement</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5553"
+             font-size="12px"
+             y="19"
+             x="68">
+            <tspan
+               y="19"
+               x="68"
+               id="tspan5833"
+               sodipodi:role="line">Retirer reçu</tspan>
+            <tspan
+               y="34"
+               x="68"
+               id="tspan5835"
+               sodipodi:role="line">de paiement</tspan>
+          </text>
+        </switch>
+        <ellipse
+           cx="220.03319"
+           cy="663.92548"
+           pointer-events="none"
+           id="ellipse5559"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.86126274"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath1098)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FRe%C3%A7u%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           id="switch5563"
+           transform="matrix(0.98849137,0,0,1.0000057,145.23257,645.80644)"
+           clip-path="url(#clipPath1094)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="148"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 150px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:div>
+                  <xhtml:b>Valider le reçu pour ouvrir</xhtml:b>
+                </xhtml:div>
+                <xhtml:div>
+                  <xhtml:b>la barrière de sortie</xhtml:b>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5561"
+             font-size="12px"
+             y="19"
+             x="74">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1215"
+               x="74"
+               y="19">Valider le reçu pour</tspan>
+            <tspan
+               sodipodi:role="line"
+               id="tspan1217"
+               x="74"
+               y="34">sortie</tspan>
+          </text>
+        </switch>
+        <path
+           d="m 34.777681,288.99562 91.215739,-5.99207"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5569"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02326465;stroke-miterlimit:10"
+           clip-path="url(#clipPath1090)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 209.74355,142.99877 h 240.3948"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5571"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02736568;stroke-miterlimit:10;stroke-dasharray:3.08209695, 3.08209695"
+           clip-path="url(#clipPath1086)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 443.21891,146.49879 6.91944,-3.50002 -6.91944,-3.50002"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5573"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath1082)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5577"
+           transform="matrix(0.98849137,0,0,1.0000057,296.23654,129.4987)"
+           clip-path="url(#clipPath1078)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5575"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 34.774418,288.98987 133.54612,170.59347"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5589"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.09103131;stroke-miterlimit:10"
+           clip-path="url(#clipPath1074)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="M 34.774418,288.98987 180.19538,638.66853"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5591"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.1404357;stroke-miterlimit:10"
+           clip-path="url(#clipPath1070)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="M 197.37512,355.91695 195.2942,336.41224"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5593"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.52773106;stroke-miterlimit:10"
+           clip-path="url(#clipPath1066)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 190.38514,324.9936 10.00353,10.43006 -12.24741,3.92003 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5595"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath1062)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 287.13391,278.00429 -30.8483,1.40051"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5597"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02684176;stroke-miterlimit:10"
+           clip-path="url(#clipPath1058)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 240.34724,280.03955 12.52418,-7.12004 0.62275,12.98007 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5599"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath1054)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 206.60014,155.84885 304.62339,70.10039"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5601"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
+           clip-path="url(#clipPath1050)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 518.70628,230.67468 7.51254,-1.86001 -5.98038,-4.97003"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5603"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath1046)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5607"
+           transform="matrix(0.98849137,0,0,1.0000057,331.82223,177.49897)"
+           clip-path="url(#clipPath1042)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5605"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 565.06238,132.1488 741.45517,103.5241"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5611"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.88737142;stroke-miterlimit:10;stroke-dasharray:2.6621143, 2.6621143"
+           clip-path="url(#clipPath1038)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 736.80715,108.63858 5.66405,-5.33003 -7.61138,-1.38001"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5613"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath1034)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5617"
+           transform="matrix(0.98849137,0,0,1.0000057,637.75276,119.91698)"
+           clip-path="url(#clipPath1030)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5615"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 179.63222,238.77625 V 193.52563"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5621"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.87248474;stroke-miterlimit:10;stroke-dasharray:2.61745406, 2.61745406"
+           clip-path="url(#clipPath1026)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 183.54852,190.11904 -3.45972,-7.00004 -3.45972,7.00004"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5623"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath1022)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5627"
+           transform="matrix(0.98849137,0,0,1.0000057,152.90529,198.49909)"
+           clip-path="url(#clipPath1018)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5625"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 236.50938,503.98314 215.82802,441.71646"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5631"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.78857267;stroke-miterlimit:10;stroke-dasharray:2.36571807, 2.36571807"
+           clip-path="url(#clipPath1014)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 217.39209,439.7522 -5.47625,-5.53003 -1.08734,7.75005"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5633"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath1010)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5637"
+           transform="matrix(0.98849137,0,0,1.0000057,195.41042,449.50051)"
+           clip-path="url(#clipPath1006)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5635"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 422.66459,331.23984 384.62744,308.14971"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5641"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
+           clip-path="url(#clipPath1002)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 391.38872,308.17971 -7.71023,-0.6 4.15166,6.60003"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5643"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath998)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5647"
+           transform="matrix(0.98849137,0,0,1.0000057,403.9821,305.49969)"
+           clip-path="url(#clipPath994)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5645"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 745.30817,643.98161 508.48541,612.29143"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5651"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
+           clip-path="url(#clipPath990)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 514.70302,609.59142 -7.31484,2.56001 6.40543,4.38003"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5653"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath986)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5657"
+           transform="matrix(0.98849137,0,0,1.0000057,597.72641,614.50144)"
+           clip-path="url(#clipPath982)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5655"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="m 814.80217,613.02366 7.68435,-156.21367"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5661"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02176392;stroke-miterlimit:10;stroke-dasharray:3.06529173, 3.06529173"
+           clip-path="url(#clipPath978)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 824.13333,464.21262 -3.09398,-7.17004 -3.81558,6.80004"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5663"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath974)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5667"
+           transform="matrix(0.98849137,0,0,1.0000057,755.85734,525.42474)"
+           clip-path="url(#clipPath970)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5665"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 755.39204,669.00039 275.35216,663.03308"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5671"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.02158618;stroke-miterlimit:10;stroke-dasharray:3.06475838, 3.06475838"
+           clip-path="url(#clipPath966)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 282.31114,659.63306 -6.95898,3.40002 6.87001,3.60002"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5673"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath962)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5677"
+           transform="matrix(0.98849137,0,0,1.0000057,499.86576,652.50166)"
+           clip-path="url(#clipPath958)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5675"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="m 465.83813,397.07641 v 52.7603"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5681"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
+           clip-path="url(#clipPath954)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 463.29158,444.88048 3.45972,7.00004 3.45972,-7.00004"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5683"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath950)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5687"
+           transform="matrix(0.98849137,0,0,1.0000057,404.86758,412.5003)"
+           clip-path="url(#clipPath946)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5685"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="m 776.55794,417.10725 -85.70177,-29.246"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5691"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.91762865;stroke-miterlimit:10;stroke-dasharray:5.75288533, 5.75288533"
+           clip-path="url(#clipPath942)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 695.39197,384.26743 -7.2753,2.67002 6.47462,4.28002"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5693"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath938)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5697"
+           transform="matrix(0.98849137,0,0,1.0000057,710.04622,389.3803)"
+           clip-path="url(#clipPath934)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5695"
+             font-size="10px"
+             y="3.6862428"
+             x="39.224457">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 794.2486,443.40582 682.02241,465.12081"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5701"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.23224068;stroke-miterlimit:10;stroke-dasharray:3.6967223, 3.6967223"
+           clip-path="url(#clipPath930)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 686.30744,461.15219 -6.11876,4.79002 7.45323,2.08001"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5703"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath926)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5707"
+           transform="matrix(0.98849137,0,0,1.0000057,705.36858,437.38057)"
+           clip-path="url(#clipPath922)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5705"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="M 578.58573,368.42361 534.36815,360.1392"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5711"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.56984425;stroke-miterlimit:10"
+           sodipodi:nodetypes="cc"
+           clip-path="url(#clipPath918)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 521.81108,357.37368 13.74992,-4.21003 -2.17468,12.81008 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5713"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath914)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="M 575.39138,441.85528 516.20296,395.56749"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5715"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.92237025;stroke-miterlimit:10"
+           sodipodi:nodetypes="cc"
+           clip-path="url(#clipPath910)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 506.85826,387.90917 11.76318,1.85807 -6.07791,9.48595 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5717"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.85278773;stroke-miterlimit:10"
+           clip-path="url(#clipPath906)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="M 390.23219,591.37131 292.96463,571.4412"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5719"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10;stroke-dasharray:2.98269555, 2.98269555"
+           clip-path="url(#clipPath902)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 299.35029,569.18119 -7.46311,2.04001 6.08911,4.82003"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5721"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath898)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5725"
+           transform="matrix(0.98849137,0,0,1.0000057,320.3462,562.88217)"
+           clip-path="url(#clipPath894)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="10"
+             width="55"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5723"
+             font-size="10px"
+             y="10"
+             x="28">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <g
+           transform="matrix(0.98849137,0,0,1.0000057,298.21352,25.498109)"
+           id="g5733"
+           clip-path="url(#clipPath890)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <switch
+             id="switch5731">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="263"
+               height="14"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 263px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                  <xhtml:font
+                     style="font-size: 14px">
+                    <xhtml:font>
+                      <xhtml:b>Borne de paiement Libre service à LIDL</xhtml:b>
+                    </xhtml:font>
+                  </xhtml:font>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               x="189.2753"
+               y="2.7620497"
+               font-size="10px"
+               id="text5729"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00029182px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+               Onclick="window.open('​goo.gl/QYSTXf ', '_blank')">
+              <tspan
+                 sodipodi:role="line"
+                 id="tspan1249"
+                 x="189.2753"
+                 y="2.7620497">Borne de paiement Libre service à</tspan>
+            </text>
+          </switch>
+        </g>
+        <ellipse
+           cx="797.98419"
+           cy="205.80524"
+           pointer-events="none"
+           id="ellipse5735"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.81345278"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath886)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FProduit%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           id="switch5739"
+           transform="matrix(0.98849137,0,0,1.0000057,740.8509,181.08065)"
+           clip-path="url(#clipPath882)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="116"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Afficher nom et prix de produit</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5737"
+             font-size="12px"
+             y="19"
+             x="58">
+            <tspan
+               y="19"
+               x="58"
+               id="tspan5813"
+               sodipodi:role="line">Afficher nom et</tspan>
+            <tspan
+               y="34"
+               x="58"
+               id="tspan5815"
+               sodipodi:role="line">prix de produit</tspan>
+          </text>
+        </switch>
+        <path
+           d="m 573.0851,158.48864 170.44189,44.50033"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5743"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.09677267;stroke-miterlimit:10;stroke-dasharray:3.29031811, 3.29031811"
+           clip-path="url(#clipPath878)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 570.71571,147.17207 -14.03657,3.11002 10.88329,9.50005"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5745"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath874)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5749"
+           transform="matrix(0.98849137,0,0,1.0000057,631.82181,157.2744)"
+           clip-path="url(#clipPath870)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="11"
+             width="59"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;extend&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5747"
+             font-size="11px"
+             y="11"
+             x="30">&lt;&lt;extend&gt;&gt;</text>
+        </switch>
+        <rect
+           x="922.92328"
+           y="292.95596"
+           width="106.8239"
+           height="80.087784"
+           pointer-events="none"
+           id="rect5753"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.90698624"
+           clip-path="url(#clipPath866)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FSyst%C3%A8me_d%27information%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           transform="matrix(0.98849137,0,0,1.0000057,914.40388,284.44239)"
+           id="g5759"
+           clip-path="url(#clipPath862)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <switch
+             id="switch5757">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="128"
+               height="78"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; height: 79px; overflow: hidden; width: 129px; white-space: normal; overflow-wrap: normal; text-align: center;">
+                <xhtml:p
+                   style="margin: 0px ; margin-top: 4px ; text-align: center">
+                  <xhtml:b>
+                    <xhtml:br />
+                  </xhtml:b>
+                </xhtml:p>
+                <xhtml:p
+                   style="margin: 0px ; margin-top: 4px ; text-align: center">
+                  <xhtml:b>Système de Facturation</xhtml:b>
+                </xhtml:p>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               x="64"
+               y="45"
+               font-size="12px"
+               id="text5755"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00001812px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
+              <tspan
+                 sodipodi:role="line"
+                 id="tspan1221"
+                 x="64"
+                 y="45">Système</tspan>
+              <tspan
+                 sodipodi:role="line"
+                 id="tspan1223"
+                 x="64"
+                 y="60.000023">d'informations</tspan>
+            </text>
+          </switch>
+        </g>
+        <path
+           d="m 827.94894,238.41365 93.47752,94.06222"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5761"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.05385506;stroke-miterlimit:10"
+           clip-path="url(#clipPath858)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <ellipse
+           cx="768.31079"
+           cy="290.21237"
+           pointer-events="none"
+           id="ellipse5763"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.82792985"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath854)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FFacture_%28comptabilit%C3%A9%29%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
+           id="switch5767"
+           transform="matrix(0.98849137,0,0,1.0000057,710.32615,270.55823)"
+           clip-path="url(#clipPath850)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="26"
+             width="116"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                <xhtml:b>Afficher la facture Finale</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+             id="text5765"
+             font-size="12px"
+             y="19"
+             x="58">
+            <tspan
+               y="19"
+               x="58"
+               id="tspan5801"
+               sodipodi:role="line">Afficher la facture</tspan>
+            <tspan
+               y="34"
+               x="58"
+               id="tspan5803"
+               sodipodi:role="line">Finale</tspan>
+          </text>
+        </switch>
+        <path
+           d="M 706.68636,282.20272 638.52088,251.59834"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5771"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:1.3027463;stroke-miterlimit:10;stroke-dasharray:3.90823872, 3.90823872"
+           clip-path="url(#clipPath846)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 646.21134,250.72833 -7.69046,0.87001 5.30819,5.70003"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5773"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.99423182;stroke-miterlimit:10"
+           clip-path="url(#clipPath842)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <switch
+           id="switch5777"
+           transform="matrix(0.98849137,0,0,1.0000057,666.75938,253.37953)"
+           clip-path="url(#clipPath838)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="11"
+             width="61"
+             pointer-events="all"
+             style="overflow:visible;">
+            <xhtml:div
+               style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+              <xhtml:div
+                 style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;&lt;include&gt;&gt;</xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text5775"
+             font-size="11px"
+             y="11"
+             x="31">&lt;&lt;include&gt;&gt;</text>
+        </switch>
+        <path
+           d="m 816.40402,306.7636 105.016,25.58199"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5781"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.21729553;stroke-miterlimit:10"
+           clip-path="url(#clipPath834)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="M 852.11158,623.48762 954.94937,372.49488"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path5783"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.00904226;stroke-miterlimit:10"
+           clip-path="url(#clipPath830)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <ellipse
+           cx="161.92308"
+           cy="147.08377"
+           pointer-events="none"
+           id="ellipse5447-4"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.680902"
+           rx="54.367027"
+           ry="40.000225"
+           clip-path="url(#clipPath826)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="165.77126"
+           y="148.50304"
+           id="text1181"
+           clip-path="url(#clipPath822)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan1185"
+             x="165.77126"
+             y="164.12022" /></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1187"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-0.5,-0.5)"
+           clip-path="url(#clipPath818)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><flowRegion
+             id="flowRegion1189"><rect
+               id="rect1191"
+               width="38.278278"
+               height="46.651649"
+               x="127.99299"
+               y="135.84486" /></flowRegion><flowPara
+             id="flowPara1193">Préparer la facturePréparer la facture</flowPara><flowPara
+             id="flowPara1197" /><flowPara
+             id="flowPara1199" /></flowRoot>        <text
+           onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPr%C3%A9paration_de_commandes%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:33.04322815px;line-height:20.65201759px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82608068"
+           x="107.59925"
+           y="171.53076"
+           id="text1203"
+           transform="scale(1.1966039,0.83569846)"
+           clip-path="url(#clipPath814)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan1201"
+             x="107.59925"
+             y="171.53076"
+             style="font-size:11.93078232px;line-height:1.24278975px;stroke-width:0.82608068">Préparer </tspan><tspan
+             sodipodi:role="line"
+             x="107.59925"
+             y="192.18279"
+             id="tspan1205"
+             style="font-size:11.93078232px;line-height:1.24278975px;stroke-width:0.82608068">la facture</tspan></text>
+        <g
+           style="display:inline"
+           transform="matrix(0.98849137,0,0,1.0000057,402.65115,42.163776)"
+           id="g5733-7"
+           clip-path="url(#clipPath810)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <switch
+             id="switch5731-4">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="263"
+               height="14"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 263px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                  <xhtml:font
+                     style="font-size: 14px">
+                    <xhtml:font>
+                      <xhtml:b>Borne de paiement Libre service à LIDL</xhtml:b>
+                    </xhtml:font>
+                  </xhtml:font>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               x="231.86572"
+               y="-14.30553"
+               font-size="10px"
+               id="text5729-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00029182px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+               Onclick="window.open('​goo.gl/2XGDNG ', '_blank')">
+              <tspan
+                 sodipodi:role="line"
+                 id="tspan1251"
+                 x="231.86572"
+                 y="-14.30553"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00029182px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">LIDL</tspan>
+            </text>
+          </switch>
+        </g>
       </g>
     </g>
   </g>
