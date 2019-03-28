@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66667 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="UseCaseLien.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50660859"
+     inkscape:cx="667.08791"
+     inkscape:cy="351.51882"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4421"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.25001)">
+    <g
+       id="g4334">
+      <g
+         id="g4421"
+         transform="matrix(0.87499947,0,0,0.52633406,98.551205,-270.82547)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M -109.10176,878.69359 V 824.046 h 35.995094 v 66.26026 h -1.612484"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path192" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -75.996006,890.30626 1.702474,-2.39086 -0.425618,2.39086 0.425618,2.3908 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path194" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -105.45362,899.18649 h 14.835823 v 143.45011 h 13.529781"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path196" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -75.811165,1042.6366 -1.70247,2.3908 0.425619,-2.3908 -0.425619,-2.3908 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path198" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="-109.10176"
+           cy="884.15839"
+           pointer-events="none"
+           id="ellipse200"
+           rx="1.8240761"
+           ry="5.1232162" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -109.10176,888.94003 v 17.07743 m 0,-13.66191 h -3.64816 m 3.64816,0 h 3.64814 m -3.64814,13.66191 -3.64816,13.6619 m 3.64816,-13.6619 3.64814,13.6619"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path202" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,-115.79004,923.43634)"
+           id="g208"
+           onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FInternaute%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on','_blank');">
+          <switch
+             id="switch206">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="55"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">internaute</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="28"
+               y="12"
+               font-size="12px"
+               id="text204">internaute</text>
+          </switch>
+        </g>
+        <g
+           id="g107"
+           onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FApplication_mobile%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');">
+          <ellipse
+             oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FApplication%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
+             id="ellipse210"
+             pointer-events="none"
+             ry="27.32382"
+             rx="19.45681"
+             cy="830.87689"
+             cx="-59.243687"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751" />
+          <g
+             id="g216"
+             transform="matrix(0.24321013,0,0,0.68309544,-71.982341,822.97652)">
+            <switch
+               id="switch214">
+              <foreignObject
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                 height="12"
+                 width="112"
+                 pointer-events="all"
+                 style="overflow:visible;">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 113px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                  <xhtml:div
+                     style="display:inline-block;text-align:inherit;text-decoration:inherit;">Installer l'application </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <text
+                 id="text212"
+                 font-size="12px"
+                 y="12"
+                 x="56"
+                 style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">Installer l'application</text>
+            </switch>
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M -44.043058,1042.6366 H -21.87932"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path218" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -20.602464,1042.6366 -1.702473,2.3908 0.425617,-2.3908 -0.425617,-2.3908 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path220" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -44.043058,1042.6366 h 4.985808 -5.593831 3.314956"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path222" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -40.059272,1042.6366 -1.702474,2.3908 0.425621,-2.3908 -0.425621,-2.3908 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path224" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="-59.73011"
+           cy="1042.6366"
+           rx="15.808658"
+           ry="27.32382"
+           pointer-events="none"
+           id="ellipse226" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,-68.607279,1036.8302)"
+           id="g232">
+          <switch
+             id="switch230">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="71"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 72px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">se connecter</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="36"
+               y="12"
+               font-size="12px"
+               id="text228">se connecter</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -62.89184,936.75672 v 75.57088"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path234" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m -62.89184,1015.9139 -0.851234,-4.7817 0.851234,1.1954 0.851234,-1.1954 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path236" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="-62.891838"
+           cy="909.43298"
+           rx="18.848785"
+           ry="27.32382"
+           pointer-events="none"
+           id="ellipse238"
+           oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FConnexion%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,-73.714692,903.62661)"
+           id="g244">
+          <switch
+             id="switch242">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="89"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 90px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">créer un compte</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="45"
+               y="12"
+               font-size="12px"
+               id="text240">créer un compte</text>
+          </switch>
+        </g>
+        <g
+           id="g95"
+           transform="matrix(0.66321714,0,0,1.3218972,-50.016902,266.26796)">
+          <rect
+             id="rect246"
+             pointer-events="none"
+             height="201.53398"
+             width="143.01796"
+             y="406.44998"
+             x="44.761868"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.43531615" />
+        </g>
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,-106.10583,778.91316)"
+           id="g252">
+          <switch
+             id="switch250">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="281"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Use case: je me connecte à une application mobile</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="141"
+               y="12"
+               font-size="12px"
+               id="text248">Use case: je me connecte à une application mobile</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 25.879857,817.21502 v 13.66194 -20.49286 9.31056"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path254" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 25.879857,823.28092 -0.851239,-4.78169 0.851239,1.19543 0.851245,-1.19543 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path256" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="25.879852"
+           cy="796.72223"
+           rx="14.592608"
+           ry="20.492865"
+           pointer-events="none"
+           id="ellipse258" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,11.652064,786.13418)"
+           id="g264">
+          <switch
+             id="switch262">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="116"
+               height="27"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">consulter les différents services</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="58"
+               y="20"
+               font-size="12px"
+               id="text260">consulter les différents services</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 25.879857,865.03171 v 32.78858 H 24.177378 L 24.072797,925.916"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path266" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 24.058211,929.50229 -0.831779,-4.80217 0.84637,1.21588 0.856101,-1.1681 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path268" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 25.879857,865.03171 v 32.78858 H 24.177378 L 24.072797,925.916"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path270" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 24.058211,929.50229 -0.831779,-4.80217 0.84637,1.21588 0.856101,-1.1681 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path272" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 24.663802,912.84842 v 13.6619 h -0.486424 v -0.25284"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path274" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 24.177378,929.84381 -0.851225,-4.7817 0.851225,1.19544 0.85124,-1.19544 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path276" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="25.879852"
+           cy="844.53894"
+           rx="14.592608"
+           ry="20.492865"
+           pointer-events="none"
+           id="ellipse278"
+           oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPanier%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,14.08417,838.73254)"
+           id="g284">
+          <switch
+             id="switch282">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="97"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 98px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Choisir les objets </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="49"
+               y="12"
+               font-size="12px"
+               id="text280"
+               oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FObjet%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');">Choisir les objets</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 24.055785,971.25309 0.121593,14.00345 v -10.92958 l -0.08264,9.31063"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path286" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 24.063074,987.22383 -0.809895,-4.83631 0.84151,1.25007 0.860975,-1.13397 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path288" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="24.177378"
+           cy="951.10175"
+           rx="15.200632"
+           ry="20.492865"
+           pointer-events="none"
+           id="ellipse290"
+           oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FAchat%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,18.94837,945.29544)"
+           id="g296">
+          <switch
+             id="switch294">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="41"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Acheter</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="21"
+               y="12"
+               font-size="12px"
+               id="text292">Acheter</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 24.055785,1028.9746 0.121593,13.662 h 0.486424 -1.549249"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path298" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 24.391412,1042.6366 -1.702472,2.3908 0.425613,-2.3908 -0.425613,-2.3908 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path300" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="24.177378"
+           cy="1008.4816"
+           rx="14.592608"
+           ry="20.492865"
+           pointer-events="none"
+           id="ellipse302" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,10.922425,1002.6754)"
+           id="g308">
+          <switch
+             id="switch306">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="108"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 109px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Validation de l'achat</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="54"
+               y="12"
+               font-size="12px"
+               id="text304">Validation de l'achat</text>
+          </switch>
+        </g>
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="24.663797"
+           cy="1063.1293"
+           rx="14.592608"
+           ry="20.492865"
+           pointer-events="none"
+           id="ellipse310"
+           oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FLivraison%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,10.436011,1052.5414)"
+           id="g316">
+          <switch
+             id="switch314">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="116"
+               height="27"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">validation de la livraison</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="58"
+               y="20"
+               font-size="12px"
+               id="text312">validation de la livraison</text>
+          </switch>
+        </g>
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="24.663797"
+           cy="892.35553"
+           rx="14.592608"
+           ry="20.492865"
+           pointer-events="none"
+           id="ellipse318" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,13.111328,886.54922)"
+           id="g324">
+          <switch
+             id="switch322">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="95"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Remplir le panier</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="48"
+               y="12"
+               font-size="12px"
+               id="text320">Remplir le panier</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 93.978695,844.53884 H 76.314331"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path326" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 75.037478,844.53884 1.702486,-2.39081 -0.425633,2.39081 0.425633,2.39086 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path328" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="108.57131"
+           cy="844.53894"
+           rx="14.592608"
+           ry="27.32382"
+           pointer-events="none"
+           id="ellipse330"
+           oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FAuthentification%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,98.478084,838.73254)"
+           id="g336">
+          <switch
+             id="switch334">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="83"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 84px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Authentification</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="42"
+               y="12"
+               font-size="12px"
+               id="text332">Authentification</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 93.978695,930.26733 H 76.071129"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path338" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 74.79427,930.26733 1.702479,-2.39084 -0.42562,2.39084 0.42562,2.39086 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path340" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="108.57131"
+           cy="930.60895"
+           rx="14.592608"
+           ry="27.32382"
+           pointer-events="none"
+           id="ellipse342"
+           oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPaiement%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,94.586712,924.80257)"
+           id="g348">
+          <switch
+             id="switch346">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="114"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 115px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Service de payement</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="57"
+               y="12"
+               font-size="12px"
+               id="text344">Service de payement</text>
+          </switch>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="M 91.546592,1022.1437 H 76.071129"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path350" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
+           inkscape:connector-curvature="0"
+           d="m 74.79427,1022.1437 1.702479,-2.3909 -0.42562,2.3909 0.42562,2.3908 z"
+           stroke-miterlimit="10"
+           pointer-events="none"
+           id="path352" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
+           cx="106.13919"
+           cy="1022.1437"
+           rx="14.592608"
+           ry="27.32382"
+           pointer-events="none"
+           id="ellipse354" />
+        <g
+           transform="matrix(0.24321013,0,0,0.68309544,93.127449,1016.3374)"
+           id="g360">
+          <switch
+             id="switch358">
+            <foreignObject
+               style="overflow:visible;"
+               pointer-events="all"
+               width="106"
+               height="12"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 107px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                <xhtml:div
+                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Service de livraison</xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+               x="53"
+               y="12"
+               font-size="12px"
+               id="text356">Service de livraison</text>
+          </switch>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
