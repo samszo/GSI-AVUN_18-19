@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50660859"
-     inkscape:cx="614.77928"
-     inkscape:cy="509.43166"
+     inkscape:cx="667.08791"
+     inkscape:cy="351.51882"
      inkscape:document-units="mm"
      inkscape:current-layer="g4421"
      showgrid="false"
@@ -59,7 +59,7 @@
        id="g4334">
       <g
          id="g4421"
-         transform="matrix(0.83560802,0,0,0.52633406,103.41084,-272.39226)">
+         transform="matrix(0.87499947,0,0,0.52633406,98.551205,-270.82547)">
         <path
            style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
            inkscape:connector-curvature="0"
@@ -129,39 +129,43 @@
                id="text204">internaute</text>
           </switch>
         </g>
-        <ellipse
-           style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751"
-           cx="-59.243687"
-           cy="830.87689"
-           rx="19.45681"
-           ry="27.32382"
-           pointer-events="none"
-           id="ellipse210"
-           oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FApplication%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');" />
         <g
-           transform="matrix(0.24321013,0,0,0.68309544,-71.982341,822.97652)"
-           id="g216">
-          <switch
-             id="switch214">
-            <foreignObject
-               style="overflow:visible;"
-               pointer-events="all"
-               width="112"
-               height="12"
-               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-              <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 113px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+           id="g107"
+           onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FApplication_mobile%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');">
+          <ellipse
+             oneclick=" window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FApplication%3E+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
+             id="ellipse210"
+             pointer-events="none"
+             ry="27.32382"
+             rx="19.45681"
+             cy="830.87689"
+             cx="-59.243687"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.40759751" />
+          <g
+             id="g216"
+             transform="matrix(0.24321013,0,0,0.68309544,-71.982341,822.97652)">
+            <switch
+               id="switch214">
+              <foreignObject
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                 height="12"
+                 width="112"
+                 pointer-events="all"
+                 style="overflow:visible;">
                 <xhtml:div
-                   style="display:inline-block;text-align:inherit;text-decoration:inherit;">Installer l'application </xhtml:div>
-              </xhtml:div>
-            </foreignObject>
-            <text
-               style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-               x="56"
-               y="12"
-               font-size="12px"
-               id="text212">Installer l'application</text>
-          </switch>
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 113px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                  <xhtml:div
+                     style="display:inline-block;text-align:inherit;text-decoration:inherit;">Installer l'application </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <text
+                 id="text212"
+                 font-size="12px"
+                 y="12"
+                 x="56"
+                 style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">Installer l'application</text>
+            </switch>
+          </g>
         </g>
         <path
            style="fill:none;stroke:#000000;stroke-width:0.40759751;stroke-miterlimit:10"
@@ -285,7 +289,7 @@
              style="fill:#ffffff;stroke:#000000;stroke-width:0.43531615" />
         </g>
         <g
-           transform="matrix(0.24321013,0,0,0.68309544,-112.67144,790.82036)"
+           transform="matrix(0.24321013,0,0,0.68309544,-106.10583,778.91316)"
            id="g252">
           <switch
              id="switch250">
