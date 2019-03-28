@@ -391,7 +391,7 @@
          d="m 389.2,321 -7,3.5 1.75,-3.5 -1.75,-3.5 z" />
       <a
          id="a237"
-         xlink:href="http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B&lt;http%3A%2F%2Ffr.dbpedia.org%2Fresource%2FTransport&gt;+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on">
+         xlink:href="http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B&lt;http%3A%2F%2Ffr.dbpedia.org%2Fresource%2FTransport&gt;+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=onI">
         <g
            id="g235">
           <ellipse
