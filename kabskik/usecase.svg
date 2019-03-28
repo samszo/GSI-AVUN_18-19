@@ -43,7 +43,7 @@
      id="namedview433"
      showgrid="false"
      inkscape:zoom="0.86914378"
-     inkscape:cx="281.53532"
+     inkscape:cx="126.21004"
      inkscape:cy="309.5"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -321,14 +321,17 @@
          pointer-events="none"
          stroke-miterlimit="10"
          d="m 378.88,381 -7,3.5 1.75,-3.5 -1.75,-3.5 z" />
-      <ellipse
-         style="fill:#ffffff;stroke:#000000"
-         id="ellipse71"
-         pointer-events="none"
-         ry="40"
-         rx="60"
-         cy="125"
-         cx="240" />
+      <g
+         id="g232">
+        <ellipse
+           cx="240"
+           cy="125"
+           rx="60"
+           ry="40"
+           pointer-events="none"
+           id="ellipse71"
+           style="fill:#ffffff;stroke:#000000" />
+      </g>
       <a
          id="a4376"
          onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B&lt;http%3A%2F%2Ffr.dbpedia.org%2Fresource%2FEnvironnement&gt;+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=30000&amp;debug=on', '_blank')"
@@ -386,14 +389,21 @@
          pointer-events="none"
          stroke-miterlimit="10"
          d="m 389.2,321 -7,3.5 1.75,-3.5 -1.75,-3.5 z" />
-      <ellipse
-         style="fill:#ffffff;stroke:#000000"
-         id="ellipse83"
-         pointer-events="none"
-         ry="40"
-         rx="60"
-         cy="208"
-         cx="240" />
+      <a
+         id="a237"
+         xlink:href="http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=select+*+where+%7B&lt;http%3A%2F%2Ffr.dbpedia.org%2Fresource%2FTransport&gt;+%3Fr+%3Fp%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on">
+        <g
+           id="g235">
+          <ellipse
+             style="fill:#ffffff;stroke:#000000"
+             id="ellipse83"
+             pointer-events="none"
+             ry="40"
+             rx="60"
+             cy="208"
+             cx="240" />
+        </g>
+      </a>
       <g
          id="g89"
          transform="translate(181.5,194.5)">
@@ -1508,6 +1518,7 @@
                style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; overflow-wrap: normal; text-align: center;">
               <xhtml:div
                  style="display:inline-block;text-align:inherit;text-decoration:inherit;">Soutenir la création <xhtml:br />
+
 
 
 et les industries culturelles et créatives</xhtml:div>
