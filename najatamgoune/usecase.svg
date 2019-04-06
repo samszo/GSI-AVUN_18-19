@@ -24,8 +24,8 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="g796"
-     inkscape:cx="525.5"
-     inkscape:cy="358"
+     inkscape:cx="563.22974"
+     inkscape:cy="66.515365"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-height="706"
@@ -33,7 +33,7 @@
      inkscape:window-width="1366"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:zoom="0.71089385"
+     inkscape:zoom="1.2432572"
      objecttolerance="10"
      pagecolor="#ffffff"
      showgrid="false"
@@ -54,15 +54,13 @@
      transform="matrix(.99277921 0 0 .96525443 -.00908163 -102.14409)"
      id="g796">
     <rect
-       x="45.514984"
+       x="44.704796"
        y="88.40873"
        width="649.66309"
        height="619.703"
-       fill="#ffffff"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".82365215"
-       id="rect410" />
+       id="rect410"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.82365215" />
     <ellipse
        cx="11.333558"
        cy="344.20798"
@@ -165,17 +163,15 @@
       </switch>
     </g>
     <ellipse
-       cx="386.92758"
+       cx="382.87665"
        cy="215.47874"
-       rx="60.823669"
-       ry="34.995049"
-       fill="#ffffff"
+       rx="64.861183"
+       ry="34.981621"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse430" />
+       id="ellipse430"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.84204906" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 327.99679 202.91547)"
+       transform="matrix(0.76029587,0,0,0.87487619,327.1866,202.91547)"
        onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FCode-barres%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
        id="g440">
       <switch
@@ -204,11 +200,9 @@
         <text
            x="78"
            y="19"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="12px"
-           text-anchor="middle"
-           id="text436">
+           id="text436"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
           <tspan
              id="tspan432">&lt;b&gt; scanner</tspan>
           <tspan
@@ -217,17 +211,15 @@
       </switch>
     </g>
     <ellipse
-       cx="606.66095"
-       cy="183.49348"
-       rx="45.617752"
-       ry="34.995049"
-       fill="#ffffff"
+       cx="611.92719"
+       cy="180.99361"
+       rx="73.458649"
+       ry="34.884617"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse442" />
+       id="ellipse442"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.03331518" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 563.68851 167.92043)"
+       transform="matrix(0.76029587,0,0,0.87487619,572.60059,169.58701)"
        id="g452">
       <switch
          id="switch450">
@@ -255,12 +247,9 @@
         <text
            x="58"
            y="19"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="12.00002098px"
            text-align="center"
-           text-anchor="middle"
-           style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+           style="font-size:12.00002098px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle;fill:#000000"
            id="text448">
           <tspan
              id="tspan444">&lt;b&gt;Cliquer sur</tspan>
@@ -270,17 +259,15 @@
       </switch>
     </g>
     <ellipse
-       cx="440.90073"
-       cy="307.48105"
+       cx="440.09055"
+       cy="306.64777"
        rx="60.823669"
        ry="34.995049"
-       fill="#ffffff"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse454" />
+       id="ellipse454"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.81557631" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 381.2175 290.40309)"
+       transform="matrix(0.76029587,0,0,0.87487619,378.78693,286.23663)"
        onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FValidation%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
        id="g464">
       <switch
@@ -309,30 +296,31 @@
         <text
            x="78"
            y="19"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="12.00002098px"
            text-align="center"
-           text-anchor="middle"
-           style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00007248px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
            id="text460">
           <tspan
-             id="tspan456">&lt;b&gt;Valider la fin</tspan>
+             sodipodi:role="line"
+             id="tspan4115"
+             x="78"
+             y="19">&lt;b&gt;Valider la fin</tspan>
           <tspan
-             id="tspan458">d'opération d'achat&lt;/b&gt;</tspan>
+             sodipodi:role="line"
+             id="tspan4117"
+             x="78"
+             y="34.000092">d'opération d'achat&lt;/b&gt;</tspan>
         </text>
       </switch>
     </g>
     <ellipse
-       cx="155.19675"
+       cx="151.5509"
        cy="424.69659"
-       rx="45.617752"
-       ry="34.995049"
-       fill="#ffffff"
+       rx="62.964916"
+       ry="34.923225"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse466" />
+       id="ellipse466"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.95719594" />
     <g
        transform="matrix(.76029587 0 0 .87487619 113.59335 419.00989)"
        onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPi%C3%A8ce_de_monnaie%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
@@ -372,15 +360,13 @@
       </switch>
     </g>
     <ellipse
-       cx="253.10765"
+       cx="258.37387"
        cy="332.83459"
-       rx="45.617752"
-       ry="34.995049"
-       fill="#ffffff"
+       rx="50.860985"
+       ry="34.972069"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse474" />
+       id="ellipse474"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.86088949" />
     <g
        transform="matrix(.76029587 0 0 .87487619 223.83625 327.14789)"
        onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri&amp;query=SELECT+*+WHERE%0D%0A+%7B%3Chttp://fr.dbpedia.org/resource/Carte_de_paiement%3E+?r+?p%7D&amp;format=text/html&amp;timeout=0&amp;debug=on', '_blank');"
@@ -416,19 +402,25 @@
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text476">&lt;b&gt;Payer par CB&lt;/b&gt;</text>
+           id="text476"
+           style="-inkscape-font-specification:'Helvetica, Normal';font-family:Helvetica;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00007295px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+          <tspan
+             sodipodi:role="line"
+             id="tspan4123">&lt;b&gt;Payer par</tspan>
+          <tspan
+             sodipodi:role="line"
+             id="tspan4125"> CB&lt;/b&gt;</tspan>
+        </text>
       </switch>
     </g>
     <ellipse
-       cx="182.40013"
+       cx="179.15938"
        cy="564.67676"
-       rx="45.617752"
-       ry="34.995049"
-       fill="#ffffff"
+       rx="57.71925"
+       ry="34.943748"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse482" />
+       id="ellipse482"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.91672575" />
     <g
        transform="matrix(0.76029587,0,0,0.87487619,149.32726,558.99008)"
        onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPi%C3%A8ce_de_monnaie%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
@@ -465,15 +457,13 @@
       </switch>
     </g>
     <ellipse
-       cx="334.45929"
+       cx="333.64911"
        cy="617.16937"
-       rx="45.617752"
-       ry="34.995049"
-       fill="#ffffff"
+       rx="56.912308"
+       ry="34.946991"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse490" />
+       id="ellipse490"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.91033733" />
     <g
        transform="matrix(.76029587 0 0 .87487619 294.54377 611.48265)"
        onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FReste%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
@@ -558,17 +548,15 @@
       </switch>
     </g>
     <ellipse
-       cx="340.63586"
+       cx="324.83719"
        cy="520.93298"
-       rx="54.608967"
-       ry="34.956909"
-       fill="#ffffff"
+       rx="70.346939"
+       ry="34.896297"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".89185214"
-       id="ellipse506" />
+       id="ellipse506"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.01136196" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 305.18791 509.12214)"
+       transform="matrix(0.76029587,0,0,0.87487619,283.31281,508.28885)"
        id="g516">
       <switch
          id="switch514">
@@ -596,11 +584,9 @@
         <text
            x="58"
            y="19"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="12px"
-           text-anchor="middle"
-           id="text512">
+           id="text512"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
           <tspan
              id="tspan508">&lt;b&gt;Entrer le</tspan>
           <tspan
@@ -609,17 +595,15 @@
       </switch>
     </g>
     <ellipse
-       cx="467.51108"
-       cy="515.94641"
-       rx="57.02219"
-       ry="34.995049"
-       fill="#ffffff"
+       cx="487.36072"
+       cy="530.94568"
+       rx="73.575172"
+       ry="34.939209"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse518" />
+       id="ellipse518"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.92568141" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 411.62933 500.37338)"
+       transform="matrix(0.76029587,0,0,0.87487619,427.02292,517.03922)"
        onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPaiement%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
        id="g528">
       <switch
@@ -648,11 +632,9 @@
         <text
            x="73"
            y="19"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="12px"
-           text-anchor="middle"
-           id="text524">
+           id="text524"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
           <tspan
              id="tspan520">&lt;b&gt;Accepter</tspan>
           <tspan
@@ -661,17 +643,15 @@
       </switch>
     </g>
     <ellipse
-       cx="623.3717"
-       cy="459.69165"
-       rx="45.617752"
-       ry="34.995049"
-       fill="#ffffff"
+       cx="642.00604"
+       cy="465.52469"
+       rx="49.650902"
+       ry="34.977261"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse530" />
+       id="ellipse530"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.85064983" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 600.18271 454.00494)"
+       transform="matrix(0.76029587,0,0,0.87487619,605.04384,450.67177)"
        id="g536">
       <switch
          id="switch534">
@@ -697,27 +677,34 @@
           </xhtml:div>
         </foreignObject>
         <text
-           x="30"
-           y="12"
-           fill="#000000"
-           font-family="Helvetica"
+           x="47.049973"
+           y="14.857406"
            font-size="12px"
-           text-anchor="middle"
-           id="text532">&lt;b&gt;Retirer CB&lt;/b&gt;</text>
+           id="text532"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00007248px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">
+          <tspan
+             sodipodi:role="line"
+             id="tspan4127"
+             x="47.049973"
+             y="14.857406">&lt;b&gt;Retirer</tspan>
+          <tspan
+             sodipodi:role="line"
+             id="tspan4129"
+             x="47.049976"
+             y="29.857496">CB&lt;/b&gt;</tspan>
+        </text>
       </switch>
     </g>
     <ellipse
-       cx="469.80765"
-       cy="429.96371"
-       rx="53.220711"
-       ry="34.995049"
-       fill="#ffffff"
+       cx="489.65729"
+       cy="427.46384"
+       rx="73.016899"
+       ry="32.441849"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse538" />
+       id="ellipse538"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.91978323" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 419.23229 412.88576)"
+       transform="matrix(0.76029587,0,0,0.87487619,434.62588,417.05222)"
        onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPaiement%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on"
        id="g548">
       <switch
@@ -746,12 +733,9 @@
         <text
            x="68"
            y="19"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="12.00002098px"
            text-align="center"
-           text-anchor="middle"
-           style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+           style="font-size:12.00002098px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle;fill:#000000"
            id="text544">
           <tspan
              id="tspan540">&lt;b&gt;Refuser</tspan>
@@ -761,15 +745,13 @@
       </switch>
     </g>
     <ellipse
-       cx="615.7688"
+       cx="616.17389"
        cy="660.91315"
-       rx="53.220711"
-       ry="34.995049"
-       fill="#ffffff"
+       rx="71.384941"
+       ry="34.93008"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse550" />
+       id="ellipse550"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.94367844" />
     <g
        transform="matrix(.76029587 0 0 .87487619 563.68851 649.10233)"
        onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FRe%C3%A7u%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
@@ -808,15 +790,13 @@
       </switch>
     </g>
     <ellipse
-       cx="138.8205"
-       cy="674.17657"
-       rx="80.806854"
-       ry="34.959915"
-       fill="#ffffff"
+       cx="139.63069"
+       cy="664.59375"
+       rx="80.746552"
+       ry="45.315891"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".88584554"
-       id="ellipse558" />
+       id="ellipse558"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.00817513" />
     <g
        transform="matrix(.76029587 0 0 .87487619 95.346252 657.85109)"
        onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FRe%C3%A7u%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
@@ -850,8 +830,8 @@
           </xhtml:div>
         </foreignObject>
         <text
-           x="74"
-           y="19"
+           x="56.950027"
+           y="0.90309894"
            font-size="12px"
            id="text560"
            onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FRe%C3%A7u%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
@@ -877,24 +857,19 @@
        inkscape:connector-curvature="0"
        id="path568" />
     <path
-       d="m151.98829 214.7263h173.16499"
-       fill="none"
+       d="M 151.98829,213.47636 H 312.19026"
        pointer-events="none"
-       stroke="#000000"
-       stroke-dasharray="2.446729, 2.446729"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path570" />
+       id="path570"
+       style="fill:none;stroke:#000000;stroke-width:0.78445578;stroke-miterlimit:10;stroke-dasharray:2.35336746, 2.35336746" />
     <path
-       d="m320.68274 217.78837 5.32207-3.06207-5.32207-3.06206"
-       fill="none"
+       d="m 312.19026,213.47636 5.32207,-3.06207 -5.32207,-3.06206"
        pointer-events="none"
-       stroke="#000000"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path572" />
+       id="path572"
+       style="fill:none;stroke:#000000;stroke-width:0.81557631;stroke-miterlimit:10" />
     <g
        transform="matrix(.76029587 0 0 .87487619 218.51418 202.91547)"
        id="g578">
@@ -930,17 +905,15 @@
       </switch>
     </g>
     <ellipse
-       cx="106.37054"
-       cy="214.7263"
-       rx="45.617752"
-       ry="34.995049"
-       fill="#ffffff"
+       cx="107.58582"
+       cy="212.22643"
+       rx="58.122738"
+       ry="34.942139"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse580" />
+       id="ellipse580"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.91990322" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 65.694713 209.03961)"
+       transform="matrix(0.76029587,0,0,0.87487619,67.315091,206.53973)"
        onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FPr%C3%A9paration_de_commandes%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
        id="g590">
       <switch
@@ -969,12 +942,9 @@
         <text
            x="53"
            y="12"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="12.00002098px"
            text-align="center"
-           text-anchor="middle"
-           style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+           style="font-size:12.00002098px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle;fill:#000000"
            id="text586">
           <tspan
              id="tspan582">&lt;b&gt;Préparer</tspan>
@@ -993,14 +963,12 @@
        inkscape:connector-curvature="0"
        id="path592" />
     <path
-       d="m17.415925 342.45823 85.913435 302.70716"
-       fill="none"
+       d="M 17.382054,342.44794 95.261341,625.17667"
        pointer-events="none"
-       stroke="#000000"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path594" />
+       id="path594"
+       style="fill:none;stroke:#000000;stroke-width:0.75044465;stroke-miterlimit:10" />
     <path
        d="m142.56823 390.45393-1.7867-6.47408"
        fill="none"
@@ -1038,15 +1006,12 @@
        inkscape:connector-curvature="0"
        id="path602" />
     <path
-       d="m149.57055 225.96846 234.30038 61.32882"
-       fill="none"
+       d="m 156.85266,231.77072 227.02786,55.55734"
        pointer-events="none"
-       stroke="#000000"
-       stroke-dasharray="2.446729, 2.446729"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path604" />
+       id="path604"
+       style="fill:none;stroke:#000000;stroke-width:0.76411033;stroke-miterlimit:10;stroke-dasharray:2.29233105, 2.29233105" />
     <path
        d="m378.92141 289.14327 5.77824-1.62727-4.59979-4.34813"
        fill="none"
@@ -1091,15 +1056,12 @@
       </switch>
     </g>
     <path
-       d="m448.50368 218.22581 112.40975-37.94338"
-       fill="none"
+       d="m 448.46826,218.32687 88.17492,-27.3127"
        pointer-events="none"
-       stroke="#000000"
-       stroke-dasharray="2.446729, 2.446729"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path614" />
+       id="path614"
+       style="fill:none;stroke:#000000;stroke-width:0.61284328;stroke-miterlimit:10;stroke-dasharray:1.83852994, 1.83852994" />
     <path
        d="m557.37805 184.66556 4.3565-4.66309-5.85428-1.20733"
        fill="none"
@@ -1110,7 +1072,7 @@
        inkscape:connector-curvature="0"
        id="path616" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 483.85744 187.1677)"
+       transform="matrix(0.76029587,0,0,0.87487619,466.03328,186.33441)"
        id="g622">
       <switch
          id="switch620">
@@ -1136,11 +1098,9 @@
         <text
            x="28"
            y="10"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="10px"
-           text-anchor="middle"
-           id="text618">&lt;&lt;include&gt;&gt;</text>
+           id="text618"
+           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
       </switch>
     </g>
     <path
@@ -1302,24 +1262,19 @@
       </switch>
     </g>
     <path
-       d="m563.9166 653.02178-182.15169-27.72483"
-       fill="none"
+       d="M 545.27847,653.85224 385.85148,629.00925"
        pointer-events="none"
-       stroke="#000000"
-       stroke-dasharray="2.446729, 2.446729"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path654" />
+       id="path654"
+       style="fill:none;stroke:#000000;stroke-width:0.72226477;stroke-miterlimit:10;stroke-dasharray:2.16679422, 2.16679422" />
     <path
-       d="m386.54717 622.93478-5.62619 2.23969 4.92672 3.83195"
-       fill="none"
+       d="m 394.76117,626.85869 -8.60912,2.1712 7.5388,3.71477"
        pointer-events="none"
-       stroke="#000000"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path656" />
+       id="path656"
+       style="fill:none;stroke:#000000;stroke-width:0.99332863;stroke-miterlimit:10" />
     <g
        transform="matrix(.76029587 0 0 .87487619 450.40442 627.23043)"
        id="g662">
@@ -1408,15 +1363,12 @@
       </switch>
     </g>
     <path
-       d="m571.67161 674.91118-349.55362-5.22301"
-       fill="none"
+       d="M 545.74601,674.91118 222.11799,669.68817"
        pointer-events="none"
-       stroke="#000000"
-       stroke-dasharray="2.446729, 2.446729"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path674" />
+       id="path674"
+       style="fill:none;stroke:#000000;stroke-width:0.78474897;stroke-miterlimit:10;stroke-dasharray:2.35424701, 2.35424701" />
     <path
        d="m226.61894 666.69609-5.35249 2.97458 5.28406 3.14955"
        fill="none"
@@ -1514,26 +1466,21 @@
       </switch>
     </g>
     <path
-       d="m578.43064 453.69873-58.29188-7.77765"
-       fill="none"
+       d="M 590.58347,462.03165 532.29159,454.254"
        pointer-events="none"
-       stroke="#000000"
-       stroke-dasharray="2.446729, 2.446729"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path694" />
+       id="path694"
+       style="fill:none;stroke:#000000;stroke-width:0.81557631;stroke-miterlimit:10;stroke-dasharray:2.446729, 2.446729" />
     <path
-       d="m524.89061 443.47143-5.59578 2.33592 4.97994 3.74447"
-       fill="none"
+       d="m 537.88737,451.91808 -5.59578,2.33592 4.97994,3.74447"
        pointer-events="none"
-       stroke="#000000"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path696" />
+       id="path696"
+       style="fill:none;stroke:#000000;stroke-width:0.81557631;stroke-miterlimit:10" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 527.19431 438.25717)"
+       transform="matrix(0.76029587,0,0,0.87487619,551.49998,440.75705)"
        id="g702">
       <switch
          id="switch700">
@@ -1559,11 +1506,9 @@
         <text
            x="28"
            y="10"
-           fill="#000000"
-           font-family="Helvetica"
            font-size="10px"
-           text-anchor="middle"
-           id="text698">&lt;&lt;include&gt;&gt;</text>
+           id="text698"
+           style="font-size:10px;font-family:Helvetica;text-anchor:middle;fill:#000000">&lt;&lt;include&gt;&gt;</text>
       </switch>
     </g>
     <path
@@ -1638,14 +1583,12 @@
        inkscape:connector-curvature="0"
        id="path716" />
     <path
-       d="m432.82638 484.40689-51.54045-41.27666"
-       fill="none"
+       d="M 429.52982,506.00148 381.34174,443.20123"
        pointer-events="none"
-       stroke="#000000"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path718" />
+       id="path718"
+       style="fill:none;stroke:#000000;stroke-width:0.97272199;stroke-miterlimit:10" />
     <path
        d="m373.17357 436.6299 10.93305 1.82849-5.64899 9.33493z"
        fill="none"
@@ -1656,15 +1599,12 @@
        inkscape:connector-curvature="0"
        id="path720" />
     <path
-       d="m290.81072 606.99454-74.81312-17.43628"
-       fill="none"
+       d="m 272.96933,611.11949 -56.9545,-21.51972"
        pointer-events="none"
-       stroke="#000000"
-       stroke-dasharray="2.446729, 2.446729"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path722" />
+       id="path722"
+       style="fill:none;stroke:#000000;stroke-width:0.79055339;stroke-miterlimit:10;stroke-dasharray:2.37166024, 2.37166024" />
     <path
        d="m220.90911 587.58104-5.74023 1.78474 4.68342 4.21691"
        fill="none"
@@ -1750,17 +1690,15 @@
       </switch>
     </g>
     <ellipse
-       cx="608.91827"
+       cx="626.33734"
        cy="274.74332"
-       rx="47.116039"
-       ry="34.988445"
-       fill="#ffffff"
+       rx="64.464119"
+       ry="34.917614"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".82878345"
-       id="ellipse738" />
+       id="ellipse738"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.96844655" />
     <g
-       transform="matrix(.76029587 0 0 .87487619 563.68851 255.40805)"
+       transform="matrix(0.76029587,0,0,0.87487619,596.90626,265.40755)"
        id="g748">
       <switch
          onclick="window.open('​http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FProduit%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on ', '_blank');"
@@ -1787,19 +1725,22 @@
           </xhtml:div>
         </foreignObject>
         <text
-           x="58"
-           y="19"
-           fill="#000000"
-           font-family="Helvetica"
+           x="37.753159"
+           y="3.7605045"
            font-size="12.00002098px"
            text-align="center"
-           text-anchor="middle"
-           style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+           style="font-size:12.00002098px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle;fill:#000000"
            id="text744">
           <tspan
-             id="tspan740">&lt;b&gt;Afficher nom</tspan>
+             sodipodi:role="line"
+             id="tspan4111"
+             x="37.753159"
+             y="3.7605045">&lt;b&gt;Afficher nomet</tspan>
           <tspan
-             id="tspan742">et prix de produit&lt;/b&gt;</tspan>
+             sodipodi:role="line"
+             id="tspan4113"
+             x="37.753159"
+             y="18.76053">prix de produit&lt;/b&gt;</tspan>
         </text>
       </switch>
     </g>
@@ -1910,24 +1851,20 @@
       </switch>
     </g>
     <path
-       d="m640.09824 291.71541 59.30308 88.79993"
-       fill="none"
+       d="m 657.03234,305.82711 42.44885,74.74249"
        pointer-events="none"
-       stroke="#000000"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path768" />
+       id="path768"
+       style="fill:none;stroke:#000000;stroke-width:0.6330477;stroke-miterlimit:10" />
     <ellipse
-       cx="576.24908"
-       cy="356.21136"
+       cx="579.48987"
+       cy="359.54453"
        rx="45.617752"
        ry="34.995049"
-       fill="#ffffff"
        pointer-events="none"
-       stroke="#000000"
-       stroke-width=".81557631"
-       id="ellipse770" />
+       id="ellipse770"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.81557631" />
     <g
        transform="matrix(.76029587 0 0 .87487619 533.27667 342.89566)"
        onclick="window.open('http://fr.dbpedia.org/sparql?default-graph-uri=&amp;query=SELECT+*+WHERE+%7B%3Chttp%3A%2F%2Ffr.dbpedia.org%2Fresource%2FFacture_%28comptabilit%C3%A9%29%3E+%3Fpre+%3Fobjet+%7D&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on', '_blank');"
@@ -1963,12 +1900,14 @@
            font-size="12.00002098px"
            text-align="center"
            text-anchor="middle"
-           style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+           style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;-inkscape-font-specification:'Helvetica, Normal';font-family:Helvetica;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00007295px;text-anchor:middle;text-align:center;writing-mode:lr;"
            id="text776">
           <tspan
-             id="tspan772">&lt;b&gt;Afficher la</tspan>
+             sodipodi:role="line"
+             id="tspan4119">&lt;b&gt;Afficher la</tspan>
           <tspan
-             id="tspan774">facture Finale&lt;/b&gt;</tspan>
+             sodipodi:role="line"
+             id="tspan4121">facture Finale&lt;/b&gt;</tspan>
         </text>
       </switch>
     </g>
@@ -2035,13 +1974,11 @@
        inkscape:connector-curvature="0"
        id="path792" />
     <path
-       d="m643.99392 636.41663 76.78989-219.59393"
-       fill="none"
+       d="M 652.86896,625.5982 720.82085,416.80834"
        pointer-events="none"
-       stroke="#000000"
        stroke-miterlimit="10"
-       stroke-width=".81557631"
        inkscape:connector-curvature="0"
-       id="path794" />
+       id="path794"
+       style="fill:none;stroke:#000000;stroke-width:0.748097;stroke-miterlimit:10" />
   </g>
 </svg>
